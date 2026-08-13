@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T00:12:23Z",
+            "last_commit": "2026-08-13T17:32:42Z",
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7504
+            "stars": 7505
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-06-19T19:22:36Z",
             "owner": "rstudio",
             "repo": "blogdown",
-            "stars": 1792
+            "stars": 1793
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-09-19T22:20:38Z",
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1016
+            "stars": 1015
           }
         },
         {
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T11:47:22Z",
+            "last_commit": "2026-08-13T11:47:20Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T14:42:46Z",
+            "last_commit": "2026-08-13T14:43:52Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -529,7 +529,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T18:31:13Z",
+            "last_commit": "2026-08-13T16:04:43Z",
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 312
@@ -907,7 +907,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-06-22T19:38:25Z",
+            "last_commit": "2026-08-13T18:33:42Z",
             "owner": "tidymodels",
             "repo": "dials",
             "stars": 116
@@ -1839,6 +1839,20 @@
         },
         {
           "node_type": "item",
+          "title": "quartose",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-06T02:04:22Z",
+            "owner": "djnavarro",
+            "repo": "quartose",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
           "title": "BradleyTerry2",
           "description": "by Heather Turner, David Firth",
           "children": [],
@@ -1862,20 +1876,6 @@
             "last_commit": "2022-01-18T03:29:51Z",
             "owner": "ledell",
             "repo": "cvAUC",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quartose",
-          "description": "by Danielle Navarro",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-06T02:04:22Z",
-            "owner": "djnavarro",
-            "repo": "quartose",
             "stars": 25
           }
         },
@@ -2125,7 +2125,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T20:44:54Z",
+            "last_commit": "2026-08-13T18:08:38Z",
             "owner": "BirdsCanada",
             "repo": "naturecounts",
             "stars": 17
@@ -3703,7 +3703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:38.721Z",
+    "last_updated": "2026-08-13T18:38:29.578Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
