@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T17:32:42Z",
+            "last_commit": "2026-08-14T17:39:05Z",
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7505
+            "stars": 7503
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6980
+            "stars": 6979
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-08-12T09:24:43Z",
             "owner": "r-lib",
             "repo": "pkgdown",
-            "stars": 772
+            "stars": 773
           }
         },
         {
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T01:51:36Z",
+            "last_commit": "2026-08-13T20:35:35Z",
             "owner": "rvlenth",
             "repo": "emmeans",
             "stars": 424
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T11:47:20Z",
+            "last_commit": "2026-08-14T11:45:29Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T14:43:52Z",
+            "last_commit": "2026-08-14T14:37:57Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -529,10 +529,10 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T16:04:43Z",
+            "last_commit": "2026-08-14T02:38:49Z",
             "owner": "neuhausi",
             "repo": "canvasXpress",
-            "stars": 312
+            "stars": 313
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-10T16:21:06Z",
             "owner": "ggsegverse",
             "repo": "ggseg",
-            "stars": 270
+            "stars": 269
           }
         },
         {
@@ -711,7 +711,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T21:41:53Z",
+            "last_commit": "2026-08-14T18:22:34Z",
             "owner": "nimble-dev",
             "repo": "nimble",
             "stars": 197
@@ -1279,20 +1279,6 @@
         },
         {
           "node_type": "item",
-          "title": "ggseg.extra",
-          "description": "by Athanasia Mo Mowinckel, Didac Vidal-Piñeiro, John Muschelli",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-11T18:12:21Z",
-            "owner": "ggsegverse",
-            "repo": "ggseg.extra",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
           "title": "tourr",
           "description": "by Hadley Wickham, Dianne Cook, Nick Spyrison, Ursula Laa, H. Sherry Zhang, Stuart Lee",
           "children": [],
@@ -1303,6 +1289,20 @@
             "owner": "ggobi",
             "repo": "tourr",
             "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggseg.extra",
+          "description": "by Athanasia Mo Mowinckel, Didac Vidal-Piñeiro, John Muschelli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-11T18:12:21Z",
+            "owner": "ggsegverse",
+            "repo": "ggseg.extra",
+            "stars": 66
           }
         },
         {
@@ -1610,7 +1610,7 @@
             "last_commit": "2026-08-07T18:17:30Z",
             "owner": "ggsegverse",
             "repo": "ggseg3d",
-            "stars": 45
+            "stars": 44
           }
         },
         {
@@ -1803,7 +1803,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T14:42:18Z",
+            "last_commit": "2026-08-14T17:48:19Z",
             "owner": "friendly",
             "repo": "vcdExtra",
             "stars": 28
@@ -2125,7 +2125,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T18:08:38Z",
+            "last_commit": "2026-08-14T00:37:47Z",
             "owner": "BirdsCanada",
             "repo": "naturecounts",
             "stars": 17
@@ -3330,7 +3330,7 @@
             "archived": false,
             "language": "R",
             "last_commit": "2018-04-22T21:03:45Z",
-            "owner": "UBC-MDS",
+            "owner": "UBC-MDS-2017-18",
             "repo": "regscoreR",
             "stars": 1
           }
@@ -3703,7 +3703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:38:29.578Z",
+    "last_updated": "2026-08-14T18:34:21.217Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
