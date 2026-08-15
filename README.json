@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T17:39:05Z",
+            "last_commit": "2026-08-15T17:11:43Z",
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7503
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6979
+            "stars": 6980
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-11T23:30:45Z",
             "owner": "ddsjoberg",
             "repo": "gtsummary",
-            "stars": 1207
+            "stars": 1206
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-09-19T22:20:38Z",
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1015
+            "stars": 1014
           }
         },
         {
@@ -263,10 +263,10 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T14:11:34Z",
+            "last_commit": "2026-08-15T15:39:36Z",
             "owner": "igraph",
             "repo": "rigraph",
-            "stars": 619
+            "stars": 620
           }
         },
         {
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T11:45:29Z",
+            "last_commit": "2026-08-15T11:22:22Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T14:37:57Z",
+            "last_commit": "2026-08-15T13:58:14Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -529,7 +529,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T02:38:49Z",
+            "last_commit": "2026-08-14T20:29:12Z",
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 313
@@ -826,7 +826,7 @@
             "last_commit": "2023-08-08T03:44:11Z",
             "owner": "jennybc",
             "repo": "repurrrsive",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -1363,20 +1363,6 @@
         },
         {
           "node_type": "item",
-          "title": "FactoMineR",
-          "description": "by Francois Husson, Julie Josse, Sebastien Le, Jeremy Mazet",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-02T09:12:10Z",
-            "owner": "husson",
-            "repo": "FactoMineR",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
           "title": "stray",
           "description": "by Priyanga Dilini Talagala, Rob J Hyndman, Kate Smith-Miles",
           "children": [],
@@ -1387,6 +1373,20 @@
             "owner": "pridiltal",
             "repo": "stray",
             "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FactoMineR",
+          "description": "by Francois Husson, Julie Josse, Sebastien Le, Jeremy Mazet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-02T09:12:10Z",
+            "owner": "husson",
+            "repo": "FactoMineR",
+            "stars": 58
           }
         },
         {
@@ -1708,7 +1708,7 @@
             "last_commit": "2026-06-28T14:17:18Z",
             "owner": "nrennie",
             "repo": "ggauto",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -1803,7 +1803,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T17:48:19Z",
+            "last_commit": "2026-08-15T03:00:12Z",
             "owner": "friendly",
             "repo": "vcdExtra",
             "stars": 28
@@ -3703,7 +3703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:34:21.217Z",
+    "last_updated": "2026-08-15T17:58:05.475Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
