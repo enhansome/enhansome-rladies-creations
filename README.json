@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-15T17:11:43Z",
+            "last_commit": "2026-08-16T17:13:01Z",
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7503
+            "stars": 7495
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-02-27T23:48:26Z",
             "owner": "joey711",
             "repo": "phyloseq",
-            "stars": 651
+            "stars": 652
           }
         },
         {
@@ -263,7 +263,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T15:39:36Z",
+            "last_commit": "2026-08-16T16:51:29Z",
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 620
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-13T20:35:35Z",
             "owner": "rvlenth",
             "repo": "emmeans",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T11:22:22Z",
+            "last_commit": "2026-08-16T11:21:26Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T13:58:14Z",
+            "last_commit": "2026-08-16T13:59:18Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -557,7 +557,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2025-12-15T15:26:06Z",
+            "last_commit": "2026-08-16T01:39:12Z",
             "owner": "ecpolley",
             "repo": "SuperLearner",
             "stars": 294
@@ -602,7 +602,7 @@
             "last_commit": "2026-06-30T11:44:29Z",
             "owner": "robjhyndman",
             "repo": "tsfeatures",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -711,7 +711,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T18:22:34Z",
+            "last_commit": "2026-08-16T16:00:17Z",
             "owner": "nimble-dev",
             "repo": "nimble",
             "stars": 197
@@ -1047,7 +1047,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-11T19:15:44Z",
+            "last_commit": "2026-08-16T04:56:42Z",
             "owner": "ropensci",
             "repo": "vcr",
             "stars": 96
@@ -2125,7 +2125,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T00:37:47Z",
+            "last_commit": "2026-08-15T23:31:23Z",
             "owner": "BirdsCanada",
             "repo": "naturecounts",
             "stars": 17
@@ -3703,7 +3703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:58:05.475Z",
+    "last_updated": "2026-08-16T17:56:42.029Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
