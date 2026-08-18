@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T17:11:37Z",
+            "last_commit": "2026-08-18T17:25:54Z",
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7494
+            "stars": 7493
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-04-30T16:20:47Z",
+            "last_commit": "2026-08-18T17:09:31Z",
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2517
+            "stars": 2518
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-11T23:30:45Z",
+            "last_commit": "2026-08-18T02:05:44Z",
             "owner": "ddsjoberg",
             "repo": "gtsummary",
             "stars": 1206
@@ -112,7 +112,7 @@
             "last_commit": "2026-04-10T16:35:05Z",
             "owner": "tidyverse",
             "repo": "readr",
-            "stars": 1036
+            "stars": 1037
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-05-17T00:30:31Z",
             "owner": "tidyverse",
             "repo": "readxl",
-            "stars": 752
+            "stars": 753
           }
         },
         {
@@ -263,7 +263,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-17T17:59:11Z",
+            "last_commit": "2026-08-18T16:11:22Z",
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 620
@@ -280,7 +280,7 @@
             "last_commit": "2026-07-31T02:02:58Z",
             "owner": "benjjneb",
             "repo": "dada2",
-            "stars": 554
+            "stars": 555
           }
         },
         {
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-17T16:07:58Z",
+            "last_commit": "2026-08-17T22:59:11Z",
             "owner": "rvlenth",
             "repo": "emmeans",
             "stars": 425
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-17T11:25:21Z",
+            "last_commit": "2026-08-18T11:25:09Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -420,7 +420,7 @@
             "last_commit": "2025-10-29T06:01:12Z",
             "owner": "sckott",
             "repo": "cowsay",
-            "stars": 352
+            "stars": 351
           }
         },
         {
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-17T14:06:33Z",
+            "last_commit": "2026-08-18T14:14:22Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -529,7 +529,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T20:29:12Z",
+            "last_commit": "2026-08-17T20:33:28Z",
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 313
@@ -616,7 +616,7 @@
             "last_commit": "2026-06-22T17:22:22Z",
             "owner": "OpenIntroStat",
             "repo": "openintro",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -697,7 +697,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2025-12-13T20:41:46Z",
+            "last_commit": "2026-08-18T17:28:24Z",
             "owner": "rstudio",
             "repo": "vetiver-r",
             "stars": 199
@@ -711,7 +711,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T15:28:00Z",
+            "last_commit": "2026-08-18T15:29:53Z",
             "owner": "nimble-dev",
             "repo": "nimble",
             "stars": 197
@@ -1489,6 +1489,20 @@
         },
         {
           "node_type": "item",
+          "title": "dados",
+          "description": "by Riva Quiroga, Sara Mortara, Beatriz Milz, Andrea Sánchez-Tapia, Alejandra Andrea Tapia Silva, Beatriz Maurer Costa, Jean Prado, Renata Hirota, William Amorim, Emmanuelle Rodrigues Nunes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-15T15:46:47Z",
+            "owner": "cienciadedatos",
+            "repo": "dados",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
           "title": "modleR",
           "description": "by Andrea Sánchez-Tapia, Sara Mortara, Diogo Rocha, Felipe Barros, Guilherme Gall, Tiago Castro Silva",
           "children": [],
@@ -1541,20 +1555,6 @@
             "owner": "tidymodels",
             "repo": "shinymodels",
             "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dados",
-          "description": "by Riva Quiroga, Sara Mortara, Beatriz Milz, Andrea Sánchez-Tapia, Alejandra Andrea Tapia Silva, Beatriz Maurer Costa, Jean Prado, Renata Hirota, William Amorim, Emmanuelle Rodrigues Nunes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-05-15T15:46:47Z",
-            "owner": "cienciadedatos",
-            "repo": "dados",
-            "stars": 49
           }
         },
         {
@@ -1803,7 +1803,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T18:00:53Z",
+            "last_commit": "2026-08-17T22:44:52Z",
             "owner": "friendly",
             "repo": "vcdExtra",
             "stars": 28
@@ -3703,7 +3703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:04:26.741Z",
+    "last_updated": "2026-08-18T18:02:55.824Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
