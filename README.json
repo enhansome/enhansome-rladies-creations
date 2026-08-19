@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T17:25:54Z",
+            "last_commit": "2026-08-19T11:28:55Z",
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7493
+            "stars": 7492
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19438,
             "language": "R",
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643909,
             "language": "R",
-            "last_commit": "2026-08-18T17:09:31Z",
+            "last_commit": "2026-08-18T23:59:36Z",
             "owner": "r-lib",
             "repo": "devtools",
             "stars": 2518
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72671522,
             "language": "R",
             "last_commit": "2026-06-19T19:22:36Z",
             "owner": "rstudio",
@@ -66,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172829996,
             "language": "R",
-            "last_commit": "2026-08-18T02:05:44Z",
+            "last_commit": "2026-08-19T09:24:43Z",
             "owner": "ddsjoberg",
             "repo": "gtsummary",
             "stars": 1206
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55175084,
             "language": "R",
             "last_commit": "2026-08-02T19:37:32Z",
             "owner": "juliasilge",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92435362,
             "language": "HTML",
             "last_commit": "2026-01-08T23:45:34Z",
             "owner": "ropensci",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11663980,
             "language": "R",
             "last_commit": "2026-04-10T16:35:05Z",
             "owner": "tidyverse",
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269674245,
             "language": "R",
             "last_commit": "2024-09-19T22:20:38Z",
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1014
+            "stars": 1015
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25181584,
             "language": "Scala",
             "last_commit": "2025-11-05T03:56:25Z",
             "owner": "h2oai",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73086801,
             "language": "R",
             "last_commit": "2026-07-14T23:44:03Z",
             "owner": "r-lib",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93430707,
             "language": "R",
             "last_commit": "2026-04-13T14:50:21Z",
             "owner": "tidymodels",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3723845,
             "language": "R",
             "last_commit": "2026-08-12T09:24:43Z",
             "owner": "r-lib",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32161666,
             "language": "C++",
             "last_commit": "2026-05-17T00:30:31Z",
             "owner": "tidyverse",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41376769,
             "language": "R",
             "last_commit": "2026-04-10T16:35:47Z",
             "owner": "tidyverse",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77250656,
             "language": "R",
             "last_commit": "2026-04-21T22:38:06Z",
             "owner": "tidyverse",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2188402,
             "language": "R",
             "last_commit": "2026-02-27T23:48:26Z",
             "owner": "joey711",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161399255,
             "language": "C++",
             "last_commit": "2026-06-09T18:39:00Z",
             "owner": "tidyverse",
@@ -262,8 +280,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28829926,
             "language": "R",
-            "last_commit": "2026-08-18T16:11:22Z",
+            "last_commit": "2026-08-19T08:19:20Z",
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 620
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28114218,
             "language": "R",
             "last_commit": "2026-07-31T02:02:58Z",
             "owner": "benjjneb",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8910139,
             "language": "R",
             "last_commit": "2026-07-07T08:10:10Z",
             "owner": "amices",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50784274,
             "language": "R",
             "last_commit": "2026-07-29T14:33:43Z",
             "owner": "ropensci-review-tools",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85352239,
             "language": "C++",
             "last_commit": "2026-07-27T14:08:05Z",
             "owner": "h2oai",
@@ -332,8 +355,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103769370,
             "language": "R",
-            "last_commit": "2026-08-17T22:59:11Z",
+            "last_commit": "2026-08-18T21:54:50Z",
             "owner": "rvlenth",
             "repo": "emmeans",
             "stars": 425
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139186586,
             "language": "R",
             "last_commit": "2026-06-13T00:12:21Z",
             "owner": "RinteRface",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164439774,
             "language": "R",
             "last_commit": "2026-05-14T17:13:53Z",
             "owner": "luukvdmeer",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28195859,
             "language": "R",
             "last_commit": "2025-08-18T23:50:12Z",
             "owner": "cloudyr",
@@ -388,8 +415,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89657511,
             "language": "R",
-            "last_commit": "2026-08-18T11:25:09Z",
+            "last_commit": "2026-08-19T11:35:34Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67287867,
             "language": "R",
             "last_commit": "2025-03-07T10:17:33Z",
             "owner": "r-hub",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13485998,
             "language": "HTML",
             "last_commit": "2025-10-29T06:01:12Z",
             "owner": "sckott",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89957068,
             "language": "R",
             "last_commit": "2025-01-23T17:19:29Z",
             "owner": "jumpingrivers",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89535184,
             "language": "R",
             "last_commit": "2026-08-18T14:14:22Z",
             "owner": "tidyverse",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53689067,
             "language": "R",
             "last_commit": "2024-04-23T23:33:24Z",
             "owner": "kstreet13",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71071698,
             "language": "R",
             "last_commit": "2026-07-18T07:21:22Z",
             "owner": "ropensci",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89093570,
             "language": "R",
             "last_commit": "2026-04-14T13:53:37Z",
             "owner": "tidymodels",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177171231,
             "language": "R",
             "last_commit": "2026-08-02T19:46:40Z",
             "owner": "rstudio",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59056701,
             "language": "R",
             "last_commit": "2026-03-09T17:36:56Z",
             "owner": "juliasilge",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50974710,
             "language": "R",
             "last_commit": "2026-08-17T20:33:28Z",
             "owner": "neuhausi",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25721466,
             "language": "R",
             "last_commit": "2025-06-12T15:04:02Z",
             "owner": "jennybc",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1622048,
             "language": "R",
             "last_commit": "2026-08-16T01:39:12Z",
             "owner": "ecpolley",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41787098,
             "language": "HTML",
             "last_commit": "2024-09-05T12:39:25Z",
             "owner": "8-bit-sheep",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145827720,
             "language": "R",
             "last_commit": "2026-08-10T16:21:06Z",
             "owner": "ggsegverse",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111623521,
             "language": "R",
             "last_commit": "2026-06-30T11:44:29Z",
             "owner": "robjhyndman",
@@ -612,8 +655,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21526118,
             "language": "R",
-            "last_commit": "2026-06-22T17:22:22Z",
+            "last_commit": "2026-08-19T04:14:57Z",
             "owner": "OpenIntroStat",
             "repo": "openintro",
             "stars": 255
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21660856,
             "language": "R",
             "last_commit": "2026-01-30T16:21:50Z",
             "owner": "r-lib",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70817337,
             "language": "R",
             "last_commit": "2026-06-25T15:43:13Z",
             "owner": "ropensci",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219115863,
             "language": "R",
             "last_commit": "2025-03-30T23:21:23Z",
             "owner": "emitanaka",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210882705,
             "language": "R",
             "last_commit": "2025-11-14T09:56:41Z",
             "owner": "tidymodels",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132645678,
             "language": "R",
             "last_commit": "2021-08-05T14:35:20Z",
             "owner": "sctyner",
@@ -696,8 +745,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384312833,
             "language": "R",
-            "last_commit": "2026-08-18T17:28:24Z",
+            "last_commit": "2026-08-18T18:53:21Z",
             "owner": "rstudio",
             "repo": "vetiver-r",
             "stars": 199
@@ -710,8 +760,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20771527,
             "language": "C++",
-            "last_commit": "2026-08-18T15:29:53Z",
+            "last_commit": "2026-08-19T01:11:02Z",
             "owner": "nimble-dev",
             "repo": "nimble",
             "stars": 197
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255175955,
             "language": "R",
             "last_commit": "2026-07-28T10:51:05Z",
             "owner": "djnavarro",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134324345,
             "language": "R",
             "last_commit": "2025-09-24T14:25:06Z",
             "owner": "ropensci",
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685562521,
             "language": "R",
             "last_commit": "2025-08-29T18:13:24Z",
             "owner": "nrennie",
@@ -766,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67464178,
             "language": "R",
             "last_commit": "2026-07-29T16:29:05Z",
             "owner": "rundel",
@@ -780,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69242550,
             "language": "HTML",
             "last_commit": "2025-04-13T18:58:23Z",
             "owner": "ekstroem",
@@ -794,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49007800,
             "language": "R",
             "last_commit": "2026-08-08T18:50:53Z",
             "owner": "rkillick",
@@ -808,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190640087,
             "language": "R",
             "last_commit": "2026-02-25T22:43:47Z",
             "owner": "tidymodels",
@@ -822,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71662491,
             "language": "R",
             "last_commit": "2023-08-08T03:44:11Z",
             "owner": "jennybc",
@@ -836,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163583327,
             "language": "R",
             "last_commit": "2025-11-29T21:47:51Z",
             "owner": "emilyriederer",
@@ -850,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283946209,
             "language": "R",
             "last_commit": "2026-08-05T10:27:29Z",
             "owner": "tidymodels",
@@ -864,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137966093,
             "language": "R",
             "last_commit": "2026-07-13T08:31:04Z",
             "owner": "emitanaka",
@@ -878,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66678777,
             "language": "R",
             "last_commit": "2025-05-15T20:38:32Z",
             "owner": "jasdumas",
@@ -892,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60650396,
             "language": "R",
             "last_commit": "2026-08-17T05:23:22Z",
             "owner": "ropensci",
@@ -906,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141954544,
             "language": "R",
             "last_commit": "2026-08-13T18:33:42Z",
             "owner": "tidymodels",
@@ -920,6 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48555251,
             "language": "R",
             "last_commit": "2026-05-28T17:59:31Z",
             "owner": "r-lib",
@@ -934,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212026148,
             "language": "R",
             "last_commit": "2021-12-14T08:21:39Z",
             "owner": "djnavarro",
@@ -948,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23968905,
             "language": "R",
             "last_commit": "2025-04-12T12:52:51Z",
             "owner": "r-hub",
@@ -962,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170162478,
             "language": "R",
             "last_commit": "2026-06-09T12:16:05Z",
             "owner": "tidymodels",
@@ -976,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107830447,
             "language": "R",
             "last_commit": "2019-10-25T18:10:02Z",
             "owner": "mfrasco",
@@ -990,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191687088,
             "language": "R",
             "last_commit": "2022-03-22T15:07:55Z",
             "owner": "juliasilge",
@@ -1004,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53640070,
             "language": "R",
             "last_commit": "2022-08-26T22:36:45Z",
             "owner": "juliasilge",
@@ -1018,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315496922,
             "language": "R",
             "last_commit": "2026-02-24T14:15:05Z",
             "owner": "tidymodels",
@@ -1032,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147656313,
             "language": "R",
             "last_commit": "2025-01-23T16:52:31Z",
             "owner": "jumpingrivers",
@@ -1046,8 +1120,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27778540,
             "language": "R",
-            "last_commit": "2026-08-16T04:56:42Z",
+            "last_commit": "2026-08-18T18:03:45Z",
             "owner": "ropensci",
             "repo": "vcr",
             "stars": 96
@@ -1060,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24339210,
             "language": "R",
             "last_commit": "2021-08-23T06:55:17Z",
             "owner": "sctyner",
@@ -1074,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44336554,
             "language": "HTML",
             "last_commit": "2025-08-29T09:02:35Z",
             "owner": "trackerproject",
@@ -1088,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 506244499,
             "language": "R",
             "last_commit": "2023-12-20T20:58:33Z",
             "owner": "nrennie",
@@ -1102,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436599601,
             "language": "R",
             "last_commit": "2025-09-10T05:28:55Z",
             "owner": "cararthompson",
@@ -1116,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55807177,
             "language": "R",
             "last_commit": "2025-01-25T19:56:29Z",
             "owner": "ropensci",
@@ -1130,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152206619,
             "language": "R",
             "last_commit": "2026-08-05T07:30:26Z",
             "owner": "r-hub",
@@ -1144,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72182571,
             "language": "R",
             "last_commit": "2026-05-14T19:43:35Z",
             "owner": "rladies",
@@ -1158,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331109525,
             "language": "R",
             "last_commit": "2026-07-06T17:00:30Z",
             "owner": "tidymodels",
@@ -1172,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120705348,
             "language": "R",
             "last_commit": "2022-10-01T06:51:25Z",
             "owner": "thiyangt",
@@ -1186,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228913618,
             "language": "R",
             "last_commit": "2026-01-20T01:51:55Z",
             "owner": "bayes-rules",
@@ -1200,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258349675,
             "language": "R",
             "last_commit": "2026-04-14T13:45:07Z",
             "owner": "tidymodels",
@@ -1214,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55707343,
             "language": "R",
             "last_commit": "2021-01-27T16:38:56Z",
             "owner": "StatsWithR",
@@ -1228,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137939073,
             "language": "R",
             "last_commit": "2022-11-02T11:42:20Z",
             "owner": "apreshill",
@@ -1242,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196374651,
             "language": "R",
             "last_commit": "2026-01-14T01:10:21Z",
             "owner": "ModelOriented",
@@ -1256,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25009759,
             "language": "R",
             "last_commit": "2026-01-29T22:51:54Z",
             "owner": "ropensci",
@@ -1270,6 +1360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86626030,
             "language": "R",
             "last_commit": "2026-02-10T18:06:51Z",
             "owner": "ropensci",
@@ -1284,6 +1375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 954753,
             "language": "R",
             "last_commit": "2026-07-30T22:25:04Z",
             "owner": "ggobi",
@@ -1298,6 +1390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164153759,
             "language": "R",
             "last_commit": "2026-08-17T10:25:32Z",
             "owner": "ggsegverse",
@@ -1312,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93370079,
             "language": "R",
             "last_commit": "2020-04-02T09:12:50Z",
             "owner": "pridiltal",
@@ -1326,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149107238,
             "language": "R",
             "last_commit": "2026-06-01T14:00:44Z",
             "owner": "ropensci",
@@ -1340,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100490142,
             "language": "R",
             "last_commit": "2025-06-23T19:39:45Z",
             "owner": "lydialucchesi",
@@ -1354,6 +1450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110183650,
             "language": "R",
             "last_commit": "2024-01-09T23:32:23Z",
             "owner": "ModelOriented",
@@ -1368,6 +1465,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116096810,
             "language": "R",
             "last_commit": "2023-11-19T23:14:35Z",
             "owner": "pridiltal",
@@ -1382,6 +1480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32511270,
             "language": "HTML",
             "last_commit": "2026-07-02T09:12:10Z",
             "owner": "husson",
@@ -1396,6 +1495,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367240686,
             "language": "R",
             "last_commit": "2024-10-05T14:47:51Z",
             "owner": "huizezhang-sherry",
@@ -1410,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442768008,
             "language": "R",
             "last_commit": "2023-11-23T19:50:01Z",
             "owner": "StatsGary",
@@ -1424,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167249814,
             "language": "R",
             "last_commit": "2026-05-05T18:30:52Z",
             "owner": "posit-dev",
@@ -1438,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269955026,
             "language": "R",
             "last_commit": "2026-05-04T18:25:37Z",
             "owner": "cosimameyer",
@@ -1452,6 +1555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474019994,
             "language": "R",
             "last_commit": "2025-04-23T01:08:32Z",
             "owner": "nrennie",
@@ -1466,6 +1570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34276600,
             "language": "R",
             "last_commit": "2023-02-17T22:16:11Z",
             "owner": "rsheets",
@@ -1480,6 +1585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 366650966,
             "language": "Rez",
             "last_commit": "2024-07-10T07:18:30Z",
             "owner": "lvaudor",
@@ -1494,8 +1600,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272733101,
             "language": "R",
-            "last_commit": "2026-05-15T15:46:47Z",
+            "last_commit": "2026-08-19T12:08:39Z",
             "owner": "cienciadedatos",
             "repo": "dados",
             "stars": 50
@@ -1508,6 +1615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102991429,
             "language": "R",
             "last_commit": "2025-08-09T17:41:07Z",
             "owner": "Model-R",
@@ -1522,6 +1630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100528653,
             "language": "R",
             "last_commit": "2026-07-31T16:00:55Z",
             "owner": "InsightRX",
@@ -1536,6 +1645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577852964,
             "language": "R",
             "last_commit": "2023-01-12T10:59:29Z",
             "owner": "chizapoth",
@@ -1550,6 +1660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373378921,
             "language": "R",
             "last_commit": "2025-10-22T19:20:15Z",
             "owner": "tidymodels",
@@ -1564,6 +1675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140963726,
             "language": "R",
             "last_commit": "2026-01-29T15:50:47Z",
             "owner": "cienciadedatos",
@@ -1578,6 +1690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56859354,
             "language": "R",
             "last_commit": "2025-10-21T07:23:38Z",
             "owner": "ropensci",
@@ -1592,6 +1705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141126000,
             "language": "R",
             "last_commit": "2018-07-16T11:36:23Z",
             "owner": "emitanaka",
@@ -1606,6 +1720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220097457,
             "language": "R",
             "last_commit": "2026-08-07T18:17:30Z",
             "owner": "ggsegverse",
@@ -1620,6 +1735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27205699,
             "language": "R",
             "last_commit": "2022-01-21T08:03:22Z",
             "owner": "ledell",
@@ -1634,6 +1750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433181287,
             "language": "R",
             "last_commit": "2025-12-01T17:58:42Z",
             "owner": "shannonpileggi",
@@ -1648,6 +1765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181708751,
             "language": "R",
             "last_commit": "2026-07-01T01:29:32Z",
             "owner": "ggPMXdevelopment",
@@ -1662,6 +1780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18212595,
             "language": "R",
             "last_commit": "2014-12-29T06:54:19Z",
             "owner": "rOpenHealth",
@@ -1676,6 +1795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 333294040,
             "language": "HTML",
             "last_commit": "2026-07-20T15:25:30Z",
             "owner": "rjournal",
@@ -1690,6 +1810,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323522493,
             "language": "R",
             "last_commit": "2023-02-06T21:43:02Z",
             "owner": "rafzamb",
@@ -1704,6 +1825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1172857970,
             "language": "R",
             "last_commit": "2026-06-28T14:17:18Z",
             "owner": "nrennie",
@@ -1718,6 +1840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44693106,
             "language": "R",
             "last_commit": "2022-03-24T22:43:12Z",
             "owner": "kdkorthauer",
@@ -1732,6 +1855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 528843276,
             "language": "R",
             "last_commit": "2022-10-04T12:40:26Z",
             "owner": "cararthompson",
@@ -1746,6 +1870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100978357,
             "language": "R",
             "last_commit": "2026-07-31T16:01:00Z",
             "owner": "InsightRX",
@@ -1760,6 +1885,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20114074,
             "language": "R",
             "last_commit": "2018-03-21T10:25:38Z",
             "owner": "JGCRI",
@@ -1774,6 +1900,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 506762939,
             "language": "R",
             "last_commit": "2025-12-10T20:48:33Z",
             "owner": "rstudio",
@@ -1788,6 +1915,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5859513,
             "language": "R",
             "last_commit": "2026-08-12T21:01:02Z",
             "owner": "vubiostat",
@@ -1802,6 +1930,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105277533,
             "language": "HTML",
             "last_commit": "2026-08-17T22:44:52Z",
             "owner": "friendly",
@@ -1816,6 +1945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86344815,
             "language": "HTML",
             "last_commit": "2026-03-24T11:16:06Z",
             "owner": "hturner",
@@ -1830,6 +1960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643999023,
             "language": "R",
             "last_commit": "2025-10-20T19:07:26Z",
             "owner": "r-lib",
@@ -1844,6 +1975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1005468685,
             "language": "R",
             "last_commit": "2026-08-06T02:04:22Z",
             "owner": "djnavarro",
@@ -1858,6 +1990,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102193512,
             "language": "R",
             "last_commit": "2025-04-10T10:16:16Z",
             "owner": "hturner",
@@ -1872,6 +2005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27469939,
             "language": "R",
             "last_commit": "2022-01-18T03:29:51Z",
             "owner": "ledell",
@@ -1886,6 +2020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62466648,
             "language": "R",
             "last_commit": "2025-06-30T17:05:47Z",
             "owner": "jasdumas",
@@ -1900,6 +2035,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73819953,
             "language": "R",
             "last_commit": "2022-09-28T10:54:10Z",
             "owner": "EllaKaye",
@@ -1914,6 +2050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250132537,
             "language": "R",
             "last_commit": "2026-04-20T13:47:13Z",
             "owner": "tidymodels",
@@ -1928,6 +2065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59435961,
             "language": "R",
             "last_commit": "2025-11-28T16:10:05Z",
             "owner": "LyzandeR",
@@ -1942,6 +2080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94882842,
             "language": "R",
             "last_commit": "2022-03-25T14:41:10Z",
             "owner": "mine-cetinkaya-rundel",
@@ -1956,6 +2095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296643452,
             "language": "C++",
             "last_commit": "2025-05-05T06:19:48Z",
             "owner": "ropensci",
@@ -1970,6 +2110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101198961,
             "language": "R",
             "last_commit": "2026-06-30T17:56:19Z",
             "owner": "Bioconductor",
@@ -1984,6 +2125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326275318,
             "language": "R",
             "last_commit": "2025-07-22T08:36:14Z",
             "owner": "drmowinckels",
@@ -1998,6 +2140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224897952,
             "language": "R",
             "last_commit": "2024-02-27T16:38:24Z",
             "owner": "calcita",
@@ -2012,6 +2155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63867359,
             "language": "R",
             "last_commit": "2026-05-02T19:22:25Z",
             "owner": "ISAAKiel",
@@ -2026,6 +2170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97045907,
             "language": "R",
             "last_commit": "2019-06-07T11:48:06Z",
             "owner": "r-music",
@@ -2040,6 +2185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100623140,
             "language": "R",
             "last_commit": "2025-03-18T16:28:00Z",
             "owner": "smgogarten",
@@ -2054,6 +2200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98489849,
             "language": "R",
             "last_commit": "2025-11-26T16:06:41Z",
             "owner": "stephaniehicks",
@@ -2068,6 +2215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 634934114,
             "language": "R",
             "last_commit": "2025-03-02T21:26:24Z",
             "owner": "hsvab",
@@ -2082,6 +2230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69304307,
             "language": "C++",
             "last_commit": "2025-09-04T11:44:28Z",
             "owner": "natydasilva",
@@ -2096,6 +2245,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 499617621,
             "language": "R",
             "last_commit": "2026-04-28T17:25:14Z",
             "owner": "AnushaPB",
@@ -2110,6 +2260,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102191600,
             "language": "R",
             "last_commit": "2024-03-20T18:19:21Z",
             "owner": "hturner",
@@ -2124,6 +2275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167440213,
             "language": "R",
             "last_commit": "2026-08-16T18:35:19Z",
             "owner": "BirdsCanada",
@@ -2138,6 +2290,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 566037754,
             "language": "R",
             "last_commit": "2024-03-02T21:02:59Z",
             "owner": "nrennie",
@@ -2152,6 +2305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104064155,
             "language": null,
             "last_commit": "2025-08-19T05:49:12Z",
             "owner": "tuxette",
@@ -2166,6 +2320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 785377400,
             "language": "R",
             "last_commit": "2025-08-26T00:00:50Z",
             "owner": "tidymodels",
@@ -2180,6 +2335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61875551,
             "language": "R",
             "last_commit": "2025-11-21T10:49:48Z",
             "owner": "pneuvial",
@@ -2194,6 +2350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41477416,
             "language": "R",
             "last_commit": "2019-03-01T01:42:06Z",
             "owner": "ayalaallon",
@@ -2208,6 +2365,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44699507,
             "language": "R",
             "last_commit": "2025-11-02T17:40:14Z",
             "owner": "phylotastic",
@@ -2222,6 +2380,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727433503,
             "language": "R",
             "last_commit": "2025-03-25T19:51:20Z",
             "owner": "ropensci",
@@ -2236,6 +2395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1000543589,
             "language": "R",
             "last_commit": "2025-06-17T20:02:45Z",
             "owner": "dalyanalytics",
@@ -2250,6 +2410,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83349790,
             "language": "R",
             "last_commit": "2026-04-29T18:28:46Z",
             "owner": "Bioconductor",
@@ -2264,6 +2425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28606120,
             "language": "R",
             "last_commit": "2020-06-10T17:51:56Z",
             "owner": "paternogbc",
@@ -2278,6 +2440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54746535,
             "language": "R",
             "last_commit": "2019-08-06T12:11:33Z",
             "owner": "wolfganglederer",
@@ -2292,6 +2455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532772560,
             "language": "R",
             "last_commit": "2024-04-24T14:52:07Z",
             "owner": "lucarraro",
@@ -2306,6 +2470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135573235,
             "language": "R",
             "last_commit": "2026-02-08T19:24:45Z",
             "owner": "fgazzelloni",
@@ -2320,6 +2485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307359781,
             "language": "HTML",
             "last_commit": "2023-08-16T18:26:13Z",
             "owner": "capro-uio",
@@ -2334,6 +2500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163335297,
             "language": "R",
             "last_commit": "2020-09-26T19:15:22Z",
             "owner": "ModelOriented",
@@ -2348,6 +2515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61031040,
             "language": "R",
             "last_commit": "2017-01-18T17:21:11Z",
             "owner": "serenasignorelli",
@@ -2362,6 +2530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1065783320,
             "language": "R",
             "last_commit": "2026-07-29T00:08:01Z",
             "owner": "djnavarro",
@@ -2376,6 +2545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100303415,
             "language": "R",
             "last_commit": "2024-10-02T18:53:05Z",
             "owner": "FRDC-SHL",
@@ -2390,6 +2560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84037133,
             "language": "R",
             "last_commit": "2026-07-19T03:12:53Z",
             "owner": "djnavarro",
@@ -2404,6 +2575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223012561,
             "language": "R",
             "last_commit": "2026-06-11T07:58:08Z",
             "owner": "KlausVigo",
@@ -2418,6 +2590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275014817,
             "language": "R",
             "last_commit": "2024-06-02T01:22:42Z",
             "owner": "OpenIntroStat",
@@ -2432,6 +2605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101312073,
             "language": "R",
             "last_commit": "2026-08-12T16:09:07Z",
             "owner": "Bioconductor",
@@ -2446,6 +2620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28144907,
             "language": "R",
             "last_commit": "2021-12-10T20:56:24Z",
             "owner": "igollini",
@@ -2460,6 +2635,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504356102,
             "language": "R",
             "last_commit": "2022-06-23T11:20:23Z",
             "owner": "karbartolome",
@@ -2474,6 +2650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98468975,
             "language": "R",
             "last_commit": "2026-04-07T09:24:34Z",
             "owner": "danro9685",
@@ -2488,6 +2665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828788186,
             "language": "R",
             "last_commit": "2025-02-27T15:35:16Z",
             "owner": "EllaKaye",
@@ -2502,6 +2680,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337285038,
             "language": "R",
             "last_commit": "2022-11-08T08:35:47Z",
             "owner": "Malindrie",
@@ -2516,6 +2695,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262124851,
             "language": "R",
             "last_commit": "2023-11-14T16:31:35Z",
             "owner": "cboettig",
@@ -2530,6 +2710,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270789361,
             "language": "R",
             "last_commit": "2026-04-20T12:05:37Z",
             "owner": "EMODnet",
@@ -2544,6 +2725,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 375598079,
             "language": "R",
             "last_commit": "2026-01-15T15:56:05Z",
             "owner": "EllaKaye",
@@ -2558,6 +2740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151271257,
             "language": "R",
             "last_commit": "2022-12-21T01:21:06Z",
             "owner": "anthonypileggi",
@@ -2572,6 +2755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715978208,
             "language": "R",
             "last_commit": "2024-11-25T20:10:45Z",
             "owner": "EllaKaye",
@@ -2586,6 +2770,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 547634198,
             "language": "R",
             "last_commit": "2025-09-17T03:27:49Z",
             "owner": "Meghansaha",
@@ -2600,6 +2785,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 791752105,
             "language": "TeX",
             "last_commit": "2026-08-12T21:52:42Z",
             "owner": "kylieainslie",
@@ -2614,6 +2800,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118719962,
             "language": "R",
             "last_commit": "2021-02-05T03:41:39Z",
             "owner": "marta-vidalgarcia",
@@ -2628,6 +2815,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346337421,
             "language": "R",
             "last_commit": "2023-05-30T21:21:14Z",
             "owner": "INTA-Suelos",
@@ -2642,6 +2830,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668481843,
             "language": "R",
             "last_commit": "2026-07-19T03:13:32Z",
             "owner": "djnavarro",
@@ -2656,6 +2845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 940096064,
             "language": "R",
             "last_commit": "2025-04-10T19:14:56Z",
             "owner": "EllaKaye",
@@ -2670,6 +2860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272399600,
             "language": "R",
             "last_commit": "2024-01-10T01:03:29Z",
             "owner": "OpenIntroStat",
@@ -2684,6 +2875,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191775266,
             "language": "HTML",
             "last_commit": "2026-05-25T17:47:10Z",
             "owner": "jsakaluk",
@@ -2698,6 +2890,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262208868,
             "language": "R",
             "last_commit": "2025-11-20T21:34:11Z",
             "owner": "huizezhang-sherry",
@@ -2712,6 +2905,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 830659569,
             "language": "R",
             "last_commit": "2026-08-10T16:23:54Z",
             "owner": "simonpcouch",
@@ -2726,6 +2920,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1156352155,
             "language": "R",
             "last_commit": "2026-04-30T10:24:06Z",
             "owner": "LCBC-UiO",
@@ -2740,6 +2935,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131567067,
             "language": "R",
             "last_commit": "2025-09-12T11:48:34Z",
             "owner": "petropouloumaria",
@@ -2754,6 +2950,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578868820,
             "language": "R",
             "last_commit": "2026-07-19T03:13:46Z",
             "owner": "djnavarro",
@@ -2768,6 +2965,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335745058,
             "language": "R",
             "last_commit": "2022-08-09T19:15:21Z",
             "owner": "spcanelon",
@@ -2782,6 +2980,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263910992,
             "language": "R",
             "last_commit": "2020-11-30T14:31:47Z",
             "owner": "MounaBelaid",
@@ -2796,6 +2995,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63424701,
             "language": "R",
             "last_commit": "2020-08-19T20:47:54Z",
             "owner": "lucymli",
@@ -2810,6 +3010,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263698537,
             "language": "R",
             "last_commit": "2022-05-10T08:43:08Z",
             "owner": "meenakshi-kushwaha",
@@ -2824,6 +3025,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151410988,
             "language": "R",
             "last_commit": "2026-02-18T14:57:52Z",
             "owner": "ropensci-org",
@@ -2838,10 +3040,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170807759,
             "language": "R",
             "last_commit": "2026-06-13T07:05:36Z",
             "owner": "yoshidk6",
             "repo": "rstanemax",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "siga",
+          "description": "by Yanina Bellini Saibene, Elio Campitelli, Paola Corrales, Natalia Gattinoni, INTA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302981282,
+            "language": "R",
+            "last_commit": "2024-05-21T08:23:31Z",
+            "owner": "AgRoMeteorologiaINTA",
+            "repo": "siga",
             "stars": 5
           }
         },
@@ -2852,6 +3070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265384602,
             "language": "CSS",
             "last_commit": "2021-05-11T20:51:51Z",
             "owner": "yabellini",
@@ -2866,6 +3085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238507320,
             "language": "R",
             "last_commit": "2023-05-01T14:45:38Z",
             "owner": "decktools",
@@ -2880,6 +3100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 505986601,
             "language": "R",
             "last_commit": "2026-01-16T21:20:58Z",
             "owner": "kaijagahm",
@@ -2894,6 +3115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448135095,
             "language": "R",
             "last_commit": "2026-05-25T21:06:45Z",
             "owner": "bcgov",
@@ -2908,6 +3130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71287688,
             "language": "C",
             "last_commit": "2023-09-04T14:17:35Z",
             "owner": "andreamrau",
@@ -2922,6 +3145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 768163778,
             "language": "R",
             "last_commit": "2025-05-16T08:56:50Z",
             "owner": "fgazzelloni",
@@ -2936,6 +3160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139880898,
             "language": "R",
             "last_commit": "2026-02-18T13:49:33Z",
             "owner": "sysilviakim",
@@ -2950,6 +3175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23069097,
             "language": "R",
             "last_commit": "2025-08-26T12:00:15Z",
             "owner": "nalimilan",
@@ -2964,6 +3190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526891877,
             "language": "R",
             "last_commit": "2024-11-27T17:45:27Z",
             "owner": "fgazzelloni",
@@ -2978,6 +3205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 736843802,
             "language": "R",
             "last_commit": "2026-06-20T21:00:13Z",
             "owner": "Qcrates",
@@ -2992,24 +3220,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 934367779,
             "language": "R",
             "last_commit": "2025-11-10T18:29:49Z",
             "owner": "dalyanalytics",
             "repo": "shinyfa",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "siga",
-          "description": "by Yanina Bellini Saibene, Elio Campitelli, Paola Corrales, Natalia Gattinoni, INTA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2024-05-21T08:23:31Z",
-            "owner": "AgRoMeteorologiaINTA",
-            "repo": "siga",
             "stars": 4
           }
         },
@@ -3020,6 +3235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272937326,
             "language": "R",
             "last_commit": "2024-01-10T01:08:05Z",
             "owner": "OpenIntroStat",
@@ -3034,6 +3250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344224506,
             "language": "R",
             "last_commit": "2024-08-07T17:38:00Z",
             "owner": "bcgov",
@@ -3048,6 +3265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650812719,
             "language": "R",
             "last_commit": "2026-02-03T13:40:43Z",
             "owner": "phac-modelling-hub",
@@ -3062,6 +3280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1132856402,
             "language": "R",
             "last_commit": "2026-06-12T17:16:02Z",
             "owner": "hellodata-science",
@@ -3076,6 +3295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165838424,
             "language": "R",
             "last_commit": "2026-06-29T07:49:59Z",
             "owner": "husson",
@@ -3090,6 +3310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149791202,
             "language": "R",
             "last_commit": "2018-12-07T04:12:12Z",
             "owner": "apjacobson",
@@ -3104,6 +3325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290709855,
             "language": "R",
             "last_commit": "2023-08-23T07:23:31Z",
             "owner": "drmowinckels",
@@ -3118,6 +3340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497522439,
             "language": "R",
             "last_commit": "2024-04-26T06:30:54Z",
             "owner": "shreshtha48",
@@ -3132,6 +3355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621060101,
             "language": "R",
             "last_commit": "2025-09-16T19:25:31Z",
             "owner": "WA-Department-of-Agriculture",
@@ -3146,6 +3370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121357751,
             "language": "R",
             "last_commit": "2020-04-02T13:52:43Z",
             "owner": "PratheepaJ",
@@ -3160,6 +3385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101250864,
             "language": "R",
             "last_commit": "2019-05-03T21:36:37Z",
             "owner": "aedobbyn",
@@ -3174,6 +3400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100307954,
             "language": "R",
             "last_commit": "2023-12-08T17:40:11Z",
             "owner": "forwards",
@@ -3188,6 +3415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199467953,
             "language": "R",
             "last_commit": "2026-08-06T12:55:18Z",
             "owner": "OttaviaE",
@@ -3202,6 +3430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206264675,
             "language": "R",
             "last_commit": "2025-09-08T22:27:46Z",
             "owner": "capro-uio",
@@ -3216,6 +3445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69460885,
             "language": "R",
             "last_commit": "2023-02-16T09:57:54Z",
             "owner": "lvaudor",
@@ -3230,6 +3460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190086473,
             "language": "JavaScript",
             "last_commit": "2025-02-12T17:57:30Z",
             "owner": "bcgov",
@@ -3244,6 +3475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846701839,
             "language": "R",
             "last_commit": "2025-08-27T15:33:40Z",
             "owner": "phac-nml-phrsd",
@@ -3258,6 +3490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149573274,
             "language": "R",
             "last_commit": "2018-09-20T08:16:50Z",
             "owner": "PratheepaJ",
@@ -3272,6 +3505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77569155,
             "language": "R",
             "last_commit": "2017-02-22T21:12:08Z",
             "owner": "jenniferthompson",
@@ -3286,6 +3520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308474707,
             "language": "HTML",
             "last_commit": "2021-07-19T01:02:06Z",
             "owner": "yabellini",
@@ -3300,6 +3535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87838588,
             "language": "R",
             "last_commit": "2017-08-03T14:49:52Z",
             "owner": "fulyagokalp",
@@ -3314,6 +3550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74759620,
             "language": "TeX",
             "last_commit": "2025-05-21T07:40:00Z",
             "owner": "annennenne",
@@ -3328,6 +3565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120829291,
             "language": "R",
             "last_commit": "2018-04-22T21:03:45Z",
             "owner": "UBC-MDS-2017-18",
@@ -3342,6 +3580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1060034610,
             "language": "R",
             "last_commit": "2026-01-21T01:50:12Z",
             "owner": "emitanaka",
@@ -3356,6 +3595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38750421,
             "language": "R",
             "last_commit": "2015-07-08T11:39:00Z",
             "owner": "igollini",
@@ -3370,6 +3610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367035232,
             "language": null,
             "last_commit": "2021-05-19T11:35:26Z",
             "owner": "yabellini",
@@ -3384,6 +3625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 653872701,
             "language": "R",
             "last_commit": "2026-06-11T15:33:02Z",
             "owner": "sarah-0k",
@@ -3398,6 +3640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301959926,
             "language": "R",
             "last_commit": "2022-03-15T14:49:52Z",
             "owner": "lvaudor",
@@ -3412,6 +3655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433163719,
             "language": "R",
             "last_commit": "2025-11-17T18:23:56Z",
             "owner": "ARUtools",
@@ -3426,6 +3670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 968689239,
             "language": null,
             "last_commit": "2024-09-05T02:52:01Z",
             "owner": "O-PREEDASAWAKUL",
@@ -3440,6 +3685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685415809,
             "language": "HTML",
             "last_commit": "2026-05-22T14:15:25Z",
             "owner": "BWOlatunji",
@@ -3454,6 +3700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1121669416,
             "language": "HTML",
             "last_commit": "2025-12-23T11:16:34Z",
             "owner": "csids",
@@ -3468,6 +3715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158558235,
             "language": "R",
             "last_commit": "2022-10-07T12:43:21Z",
             "owner": "Irstea",
@@ -3482,6 +3730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53404163,
             "language": "R",
             "last_commit": "2016-03-08T11:01:38Z",
             "owner": "lucymli",
@@ -3496,6 +3745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629831036,
             "language": "R",
             "last_commit": "2026-08-10T14:58:49Z",
             "owner": "ggsegverse",
@@ -3510,6 +3760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199521052,
             "language": "R",
             "last_commit": "2026-07-05T14:31:09Z",
             "owner": "ggsegverse",
@@ -3524,6 +3775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 791508234,
             "language": "R",
             "last_commit": "2026-03-04T09:16:42Z",
             "owner": "josefinabernardo",
@@ -3538,6 +3790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350686987,
             "language": "HTML",
             "last_commit": "2025-03-31T13:00:08Z",
             "owner": "jromanowska",
@@ -3552,6 +3805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277090335,
             "language": "R",
             "last_commit": "2024-08-20T16:15:58Z",
             "owner": "StatsRhian",
@@ -3566,6 +3820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117701502,
             "language": "R",
             "last_commit": "2026-02-12T11:10:47Z",
             "owner": "cran",
@@ -3580,6 +3835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 339881469,
             "language": "R",
             "last_commit": "2021-08-08T23:06:33Z",
             "owner": "sborrego",
@@ -3594,6 +3850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109736411,
             "language": "R",
             "last_commit": "2017-11-06T18:57:47Z",
             "owner": "lshep",
@@ -3608,6 +3865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1016494729,
             "language": "HTML",
             "last_commit": "2026-06-05T03:18:29Z",
             "owner": "dionnecargy",
@@ -3622,6 +3880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93351239,
             "language": "R",
             "last_commit": "2018-12-05T22:08:48Z",
             "owner": "PratheepaJ",
@@ -3636,6 +3895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316985669,
             "language": "CSS",
             "last_commit": "2021-04-25T14:53:21Z",
             "owner": "yabellini",
@@ -3650,61 +3910,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 793317956,
             "language": "R",
             "last_commit": "2026-06-01T21:06:59Z",
             "owner": "Demografiando",
             "repo": "verdadecu",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "asciify",
-          "description": "by Danielle Navarro",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "bs4cards",
-          "description": "by Danielle Navarro",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "hexify",
-          "description": "by Danielle Navarro",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "jaysire",
-          "description": "by Danielle Navarro, Danielle Navarro",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "pangaear",
-          "description": "by Scott Chamberlain, Kara Woo, Andrew MacDonald, Naupaka Zimmerman, Gavin Simpson",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "rainbowr",
-          "description": "by Danielle Navarro",
-          "children": []
         }
       ],
       "title": "List of packages"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:02:55.824Z",
+    "last_updated": "2026-08-19T12:49:15.649Z",
     "original_repository": "rladies/awesome-rladies-creations",
+    "original_repository_id": 340234327,
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
     "enhanced_repository_description": null,
