@@ -12,10 +12,10 @@
             "archived": false,
             "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T17:27:31Z",
+            "last_commit": "2026-08-20T17:14:19Z",
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7493
+            "stars": 7495
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6982
+            "stars": 6981
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 172829996,
             "language": "R",
-            "last_commit": "2026-08-19T14:54:39Z",
+            "last_commit": "2026-08-20T05:17:10Z",
             "owner": "ddsjoberg",
             "repo": "gtsummary",
-            "stars": 1206
+            "stars": 1207
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-04-21T22:38:06Z",
             "owner": "tidyverse",
             "repo": "glue",
-            "stars": 749
+            "stars": 750
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 28829926,
             "language": "R",
-            "last_commit": "2026-08-19T17:22:32Z",
+            "last_commit": "2026-08-20T09:14:09Z",
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 620
@@ -315,7 +315,7 @@
             "last_commit": "2026-07-07T08:10:10Z",
             "owner": "amices",
             "repo": "mice",
-            "stars": 516
+            "stars": 517
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 89657511,
             "language": "R",
-            "last_commit": "2026-08-19T11:35:34Z",
+            "last_commit": "2026-08-20T11:26:04Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 89535184,
             "language": "R",
-            "last_commit": "2026-08-19T14:21:26Z",
+            "last_commit": "2026-08-20T14:15:11Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-10T16:21:06Z",
             "owner": "ggsegverse",
             "repo": "ggseg",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -822,7 +822,7 @@
             "archived": false,
             "id": 67464178,
             "language": "R",
-            "last_commit": "2026-07-29T16:29:05Z",
+            "last_commit": "2026-08-20T14:52:55Z",
             "owner": "rundel",
             "repo": "ghclass",
             "stars": 147
@@ -1212,7 +1212,7 @@
             "archived": false,
             "id": 152206619,
             "language": "R",
-            "last_commit": "2026-08-19T17:17:37Z",
+            "last_commit": "2026-08-20T17:19:25Z",
             "owner": "r-hub",
             "repo": "cransays",
             "stars": 83
@@ -1392,7 +1392,7 @@
             "archived": false,
             "id": 164153759,
             "language": "R",
-            "last_commit": "2026-08-19T17:54:36Z",
+            "last_commit": "2026-08-20T10:44:30Z",
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66
@@ -1932,7 +1932,7 @@
             "archived": false,
             "id": 105277533,
             "language": "HTML",
-            "last_commit": "2026-08-19T15:51:42Z",
+            "last_commit": "2026-08-20T16:28:36Z",
             "owner": "friendly",
             "repo": "vcdExtra",
             "stars": 28
@@ -2787,7 +2787,7 @@
             "archived": false,
             "id": 791752105,
             "language": "TeX",
-            "last_commit": "2026-08-12T21:52:42Z",
+            "last_commit": "2026-08-19T18:27:33Z",
             "owner": "kylieainslie",
             "repo": "mitey",
             "stars": 7
@@ -3747,7 +3747,7 @@
             "archived": false,
             "id": 629831036,
             "language": "R",
-            "last_commit": "2026-08-10T14:58:49Z",
+            "last_commit": "2026-08-20T18:01:55Z",
             "owner": "ggsegverse",
             "repo": "ggseg.formats",
             "stars": 0
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:59:51.769Z",
+    "last_updated": "2026-08-20T18:03:25.112Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_id": 340234327,
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
