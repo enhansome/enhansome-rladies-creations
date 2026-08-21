@@ -12,7 +12,7 @@
             "archived": false,
             "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-20T17:14:19Z",
+            "last_commit": "2026-08-21T17:14:38Z",
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7495
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6981
+            "stars": 6985
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T23:59:36Z",
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2518
+            "stars": 2519
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 172829996,
             "language": "R",
-            "last_commit": "2026-08-20T05:17:10Z",
+            "last_commit": "2026-08-21T15:29:22Z",
             "owner": "ddsjoberg",
             "repo": "gtsummary",
             "stars": 1207
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-02T19:37:32Z",
             "owner": "juliasilge",
             "repo": "tidytext",
-            "stars": 1201
+            "stars": 1202
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-01-08T23:45:34Z",
             "owner": "ropensci",
             "repo": "skimr",
-            "stars": 1141
+            "stars": 1142
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-10T16:35:05Z",
             "owner": "tidyverse",
             "repo": "readr",
-            "stars": 1037
+            "stars": 1039
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-05-17T00:30:31Z",
             "owner": "tidyverse",
             "repo": "readxl",
-            "stars": 753
+            "stars": 752
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 28829926,
             "language": "R",
-            "last_commit": "2026-08-20T09:14:09Z",
+            "last_commit": "2026-08-21T10:24:30Z",
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 620
@@ -315,7 +315,7 @@
             "last_commit": "2026-07-07T08:10:10Z",
             "owner": "amices",
             "repo": "mice",
-            "stars": 517
+            "stars": 516
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-07-27T14:08:05Z",
             "owner": "h2oai",
             "repo": "h2o4gpu",
-            "stars": 467
+            "stars": 468
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 89657511,
             "language": "R",
-            "last_commit": "2026-08-20T11:26:04Z",
+            "last_commit": "2026-08-21T11:31:31Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 89535184,
             "language": "R",
-            "last_commit": "2026-08-20T14:15:11Z",
+            "last_commit": "2026-08-21T14:12:46Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -500,21 +500,6 @@
         },
         {
           "node_type": "item",
-          "title": "osmdata",
-          "description": "by Joan Maspons, Mark Padgham, Bob Rudis, Robin Lovelace, Maëlle Salmon, Andrew Smith, James Smith, Andrea Gilardi, Enrico Spinielli, Anthony North, Martin Machyna, Marcin Kalicinski, Eli Pousson",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 71071698,
-            "language": "R",
-            "last_commit": "2026-07-18T07:21:22Z",
-            "owner": "ropensci",
-            "repo": "osmdata",
-            "stars": 342
-          }
-        },
-        {
-          "node_type": "item",
           "title": "rsample",
           "description": "by Hannah Frick, Fanny Chow, Max Kuhn, Michael Mahoney, Julia Silge, Hadley Wickham, Posit Software, PBC",
           "children": [],
@@ -525,6 +510,21 @@
             "last_commit": "2026-04-14T13:53:37Z",
             "owner": "tidymodels",
             "repo": "rsample",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osmdata",
+          "description": "by Joan Maspons, Mark Padgham, Bob Rudis, Robin Lovelace, Maëlle Salmon, Andrew Smith, James Smith, Andrea Gilardi, Enrico Spinielli, Anthony North, Martin Machyna, Marcin Kalicinski, Eli Pousson",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71071698,
+            "language": "R",
+            "last_commit": "2026-07-18T07:21:22Z",
+            "owner": "ropensci",
+            "repo": "osmdata",
             "stars": 342
           }
         },
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 50974710,
             "language": "R",
-            "last_commit": "2026-08-19T17:27:54Z",
+            "last_commit": "2026-08-21T15:11:48Z",
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 313
@@ -762,7 +762,7 @@
             "archived": false,
             "id": 20771527,
             "language": "C++",
-            "last_commit": "2026-08-19T01:11:02Z",
+            "last_commit": "2026-08-21T15:48:45Z",
             "owner": "nimble-dev",
             "repo": "nimble",
             "stars": 197
@@ -912,7 +912,7 @@
             "archived": false,
             "id": 283946209,
             "language": "R",
-            "last_commit": "2026-08-05T10:27:29Z",
+            "last_commit": "2026-08-21T17:27:13Z",
             "owner": "tidymodels",
             "repo": "censored",
             "stars": 125
@@ -1212,7 +1212,7 @@
             "archived": false,
             "id": 152206619,
             "language": "R",
-            "last_commit": "2026-08-20T17:19:25Z",
+            "last_commit": "2026-08-21T17:20:57Z",
             "owner": "r-hub",
             "repo": "cransays",
             "stars": 83
@@ -1392,7 +1392,7 @@
             "archived": false,
             "id": 164153759,
             "language": "R",
-            "last_commit": "2026-08-20T10:44:30Z",
+            "last_commit": "2026-08-21T17:22:57Z",
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66
@@ -1632,7 +1632,7 @@
             "archived": false,
             "id": 100528653,
             "language": "R",
-            "last_commit": "2026-07-31T16:00:55Z",
+            "last_commit": "2026-08-20T22:10:47Z",
             "owner": "InsightRX",
             "repo": "PKPDsim",
             "stars": 50
@@ -1725,7 +1725,7 @@
             "last_commit": "2026-08-07T18:17:30Z",
             "owner": "ggsegverse",
             "repo": "ggseg3d",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -1932,7 +1932,7 @@
             "archived": false,
             "id": 105277533,
             "language": "HTML",
-            "last_commit": "2026-08-20T16:28:36Z",
+            "last_commit": "2026-08-21T17:55:50Z",
             "owner": "friendly",
             "repo": "vcdExtra",
             "stars": 28
@@ -2277,7 +2277,7 @@
             "archived": false,
             "id": 167440213,
             "language": "R",
-            "last_commit": "2026-08-19T17:31:39Z",
+            "last_commit": "2026-08-21T01:46:03Z",
             "owner": "BirdsCanada",
             "repo": "naturecounts",
             "stars": 17
@@ -3747,7 +3747,7 @@
             "archived": false,
             "id": 629831036,
             "language": "R",
-            "last_commit": "2026-08-20T18:01:55Z",
+            "last_commit": "2026-08-21T12:15:28Z",
             "owner": "ggsegverse",
             "repo": "ggseg.formats",
             "stars": 0
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:03:25.112Z",
+    "last_updated": "2026-08-21T18:03:26.885Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_id": 340234327,
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
