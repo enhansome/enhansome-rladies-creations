@@ -12,7 +12,7 @@
             "archived": false,
             "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T17:14:38Z",
+            "last_commit": "2026-08-22T17:10:30Z",
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7495
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6985
+            "stars": 6984
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 28829926,
             "language": "R",
-            "last_commit": "2026-08-21T10:24:30Z",
+            "last_commit": "2026-08-22T12:51:33Z",
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 620
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 89657511,
             "language": "R",
-            "last_commit": "2026-08-21T11:31:31Z",
+            "last_commit": "2026-08-22T11:23:18Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 89535184,
             "language": "R",
-            "last_commit": "2026-08-21T14:12:46Z",
+            "last_commit": "2026-08-22T13:58:30Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-19T04:14:57Z",
             "owner": "OpenIntroStat",
             "repo": "openintro",
-            "stars": 255
+            "stars": 256
           }
         },
         {
@@ -762,7 +762,7 @@
             "archived": false,
             "id": 20771527,
             "language": "C++",
-            "last_commit": "2026-08-21T15:48:45Z",
+            "last_commit": "2026-08-21T20:26:25Z",
             "owner": "nimble-dev",
             "repo": "nimble",
             "stars": 197
@@ -912,7 +912,7 @@
             "archived": false,
             "id": 283946209,
             "language": "R",
-            "last_commit": "2026-08-21T17:27:13Z",
+            "last_commit": "2026-08-21T19:33:47Z",
             "owner": "tidymodels",
             "repo": "censored",
             "stars": 125
@@ -1212,7 +1212,7 @@
             "archived": false,
             "id": 152206619,
             "language": "R",
-            "last_commit": "2026-08-21T17:20:57Z",
+            "last_commit": "2026-08-22T17:11:58Z",
             "owner": "r-hub",
             "repo": "cransays",
             "stars": 83
@@ -1392,7 +1392,7 @@
             "archived": false,
             "id": 164153759,
             "language": "R",
-            "last_commit": "2026-08-21T17:22:57Z",
+            "last_commit": "2026-08-22T15:20:04Z",
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66
@@ -1932,7 +1932,7 @@
             "archived": false,
             "id": 105277533,
             "language": "HTML",
-            "last_commit": "2026-08-21T17:55:50Z",
+            "last_commit": "2026-08-22T16:00:47Z",
             "owner": "friendly",
             "repo": "vcdExtra",
             "stars": 28
@@ -3747,7 +3747,7 @@
             "archived": false,
             "id": 629831036,
             "language": "R",
-            "last_commit": "2026-08-21T12:15:28Z",
+            "last_commit": "2026-08-22T15:19:01Z",
             "owner": "ggsegverse",
             "repo": "ggseg.formats",
             "stars": 0
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:03:26.885Z",
+    "last_updated": "2026-08-22T17:58:20.237Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_id": 340234327,
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
