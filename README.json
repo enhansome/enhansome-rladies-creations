@@ -30,7 +30,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6983
+            "stars": 6984
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 89657511,
             "language": "R",
-            "last_commit": "2026-08-23T11:21:41Z",
+            "last_commit": "2026-08-24T11:33:26Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 89535184,
             "language": "R",
-            "last_commit": "2026-08-23T14:00:17Z",
+            "last_commit": "2026-08-24T14:17:51Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -1212,7 +1212,7 @@
             "archived": false,
             "id": 152206619,
             "language": "R",
-            "last_commit": "2026-08-23T17:12:47Z",
+            "last_commit": "2026-08-24T14:32:10Z",
             "owner": "r-hub",
             "repo": "cransays",
             "stars": 83
@@ -1392,7 +1392,7 @@
             "archived": false,
             "id": 164153759,
             "language": "R",
-            "last_commit": "2026-08-22T15:20:04Z",
+            "last_commit": "2026-08-24T09:29:38Z",
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66
@@ -1632,7 +1632,7 @@
             "archived": false,
             "id": 100528653,
             "language": "R",
-            "last_commit": "2026-08-20T22:10:47Z",
+            "last_commit": "2026-08-24T14:45:18Z",
             "owner": "InsightRX",
             "repo": "PKPDsim",
             "stars": 50
@@ -1680,7 +1680,7 @@
             "last_commit": "2026-01-29T15:50:47Z",
             "owner": "cienciadedatos",
             "repo": "datos",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -3747,7 +3747,7 @@
             "archived": false,
             "id": 629831036,
             "language": "R",
-            "last_commit": "2026-08-23T17:33:37Z",
+            "last_commit": "2026-08-23T20:56:37Z",
             "owner": "ggsegverse",
             "repo": "ggseg.formats",
             "stars": 0
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:57:30.510Z",
+    "last_updated": "2026-08-24T14:45:26.731Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_id": 340234327,
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
