@@ -12,7 +12,7 @@
             "archived": false,
             "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T17:46:29Z",
+            "last_commit": "2026-08-24T17:20:09Z",
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7495
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 50974710,
             "language": "R",
-            "last_commit": "2026-08-21T15:11:48Z",
+            "last_commit": "2026-08-24T17:57:25Z",
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 313
@@ -1212,7 +1212,7 @@
             "archived": false,
             "id": 152206619,
             "language": "R",
-            "last_commit": "2026-08-24T14:32:10Z",
+            "last_commit": "2026-08-24T17:23:12Z",
             "owner": "r-hub",
             "repo": "cransays",
             "stars": 83
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:26.731Z",
+    "last_updated": "2026-08-24T18:05:00.201Z",
     "original_repository": "rladies/awesome-rladies-creations",
     "original_repository_id": 340234327,
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
