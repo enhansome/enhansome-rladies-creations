@@ -30,7 +30,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6986
+            "stars": 6988
           }
         },
         {
@@ -357,7 +357,7 @@
             "archived": false,
             "id": 103769370,
             "language": "R",
-            "last_commit": "2026-08-24T20:54:57Z",
+            "last_commit": "2026-08-26T23:03:36Z",
             "owner": "rvlenth",
             "repo": "emmeans",
             "stars": 425
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 50974710,
             "language": "R",
-            "last_commit": "2026-08-26T18:54:57Z",
+            "last_commit": "2026-08-27T04:06:08Z",
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 313
@@ -1212,7 +1212,7 @@
             "archived": false,
             "id": 152206619,
             "language": "R",
-            "last_commit": "2026-08-26T18:35:12Z",
+            "last_commit": "2026-08-27T02:19:52Z",
             "owner": "r-hub",
             "repo": "cransays",
             "stars": 83
@@ -2277,7 +2277,7 @@
             "archived": false,
             "id": 167440213,
             "language": "R",
-            "last_commit": "2026-08-21T01:46:03Z",
+            "last_commit": "2026-08-26T22:38:55Z",
             "owner": "BirdsCanada",
             "repo": "naturecounts",
             "stars": 17
@@ -2787,7 +2787,7 @@
             "archived": false,
             "id": 791752105,
             "language": "TeX",
-            "last_commit": "2026-08-19T18:27:33Z",
+            "last_commit": "2026-08-26T23:00:28Z",
             "owner": "kylieainslie",
             "repo": "mitey",
             "stars": 7
@@ -3923,9 +3923,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:02.163Z",
-    "original_repository": "rladies/awesome-rladies-creations",
-    "original_repository_id": 340234327,
+    "last_updated": "2026-08-27T12:00:30.533Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 340234327,
+      "language": "R",
+      "last_commit": "2026-07-01T11:11:49Z",
+      "owner": "rladies",
+      "repo": "awesome-rladies-creations",
+      "stars": 93
+    },
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
     "enhanced_repository_description": null,
