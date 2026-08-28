@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T23:59:36Z",
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2517
+            "stars": 2518
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-09-19T22:20:38Z",
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1014
+            "stars": 1015
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 89657511,
             "language": "R",
-            "last_commit": "2026-08-26T11:29:33Z",
+            "last_commit": "2026-08-27T21:02:29Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 377
@@ -462,7 +462,7 @@
             "archived": false,
             "id": 89535184,
             "language": "R",
-            "last_commit": "2026-08-26T14:24:51Z",
+            "last_commit": "2026-08-27T23:06:59Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 346
@@ -522,7 +522,7 @@
             "archived": false,
             "id": 71071698,
             "language": "R",
-            "last_commit": "2026-08-26T12:16:44Z",
+            "last_commit": "2026-08-27T16:56:18Z",
             "owner": "ropensci",
             "repo": "osmdata",
             "stars": 342
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 50974710,
             "language": "R",
-            "last_commit": "2026-08-27T04:06:08Z",
+            "last_commit": "2026-08-28T01:21:23Z",
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 313
@@ -1212,7 +1212,7 @@
             "archived": false,
             "id": 152206619,
             "language": "R",
-            "last_commit": "2026-08-27T02:19:52Z",
+            "last_commit": "2026-08-27T23:18:47Z",
             "owner": "r-hub",
             "repo": "cransays",
             "stars": 83
@@ -2277,7 +2277,7 @@
             "archived": false,
             "id": 167440213,
             "language": "R",
-            "last_commit": "2026-08-26T22:38:55Z",
+            "last_commit": "2026-08-27T13:45:07Z",
             "owner": "BirdsCanada",
             "repo": "naturecounts",
             "stars": 17
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:30.533Z",
+    "last_updated": "2026-08-28T01:46:47.624Z",
     "original_repository_info": {
       "archived": false,
       "id": 340234327,
