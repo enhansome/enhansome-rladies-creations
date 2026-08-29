@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.",
+            "homepage": "http://h2o.ai",
             "id": 17371412,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:05:32Z",
+            "open_issues": 2883,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7495
+            "stars": 7496,
+            "topics": [
+              "automl",
+              "big-data",
+              "data-science",
+              "deep-learning",
+              "distributed",
+              "ensemble-learning",
+              "gbm",
+              "gpu",
+              "h2o",
+              "h2o-automl",
+              "hadoop",
+              "java",
+              "machine-learning",
+              "naive-bayes",
+              "opensource",
+              "pca",
+              "python",
+              "r",
+              "random-forest",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -26,12 +52,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of the Grammar of Graphics in R",
+            "homepage": "https://ggplot2.tidyverse.org",
             "id": 19438,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-22T12:15:25Z",
+            "open_issues": 147,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6989
+            "stars": 6989,
+            "topics": [
+              "data-visualisation",
+              "r",
+              "visualisation"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -42,12 +77,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to make an R developer's life easier",
+            "homepage": "https://devtools.r-lib.org",
             "id": 643909,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T23:59:36Z",
+            "open_issues": 6,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2518
+            "stars": 2518,
+            "topics": [
+              "package-creation",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -58,12 +101,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Blogs and Websites with R Markdown",
+            "homepage": "https://pkgs.rstudio.com/blogdown/",
             "id": 72671522,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-19T19:22:36Z",
+            "open_issues": 29,
             "owner": "rstudio",
             "repo": "blogdown",
-            "stars": 1791
+            "stars": 1791,
+            "topics": [
+              "blog-engine",
+              "blogdown",
+              "hugo",
+              "r",
+              "rmarkdown",
+              "rstudio",
+              "website-generation"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -74,12 +130,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Presentation-Ready Data Summary and Analytic Result Tables",
+            "homepage": "http://www.danieldsjoberg.com/gtsummary",
             "id": 172829996,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T17:30:48Z",
+            "open_issues": 17,
             "owner": "ddsjoberg",
             "repo": "gtsummary",
-            "stars": 1208
+            "stars": 1208,
+            "topics": [
+              "easy-to-use",
+              "gt",
+              "html5",
+              "r",
+              "r-package",
+              "regression-models",
+              "reproducibility",
+              "reproducible-research",
+              "rstats",
+              "statistics",
+              "summary-statistics",
+              "summary-tables",
+              "table1",
+              "tableone"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -90,12 +166,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text mining using tidy tools :sparkles::page_facing_up::sparkles:",
+            "homepage": "https://juliasilge.github.io/tidytext/",
             "id": 55175084,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-02T19:37:32Z",
+            "open_issues": 8,
             "owner": "juliasilge",
             "repo": "tidytext",
-            "stars": 1201
+            "stars": 1201,
+            "topics": [
+              "natural-language-processing",
+              "r",
+              "text-mining",
+              "tidy-data",
+              "tidyverse"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -106,12 +193,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A frictionless, pipeable approach to dealing with summary statistics",
+            "homepage": "https://docs.ropensci.org/skimr",
             "id": 92435362,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-01-08T23:45:34Z",
+            "open_issues": 20,
             "owner": "ropensci",
             "repo": "skimr",
-            "stars": 1141
+            "stars": 1141,
+            "topics": [
+              "peer-reviewed",
+              "r",
+              "r-package",
+              "ropensci",
+              "rstats",
+              "summary-statistics",
+              "unconf",
+              "unconf17"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -122,12 +223,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read flat files (csv, tsv, fwf) into R",
+            "homepage": "https://readr.tidyverse.org",
             "id": 11663980,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-10T16:35:05Z",
+            "open_issues": 102,
             "owner": "tidyverse",
             "repo": "readr",
-            "stars": 1038
+            "stars": 1038,
+            "topics": [
+              "csv",
+              "fwf",
+              "parsing",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -138,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A great intro dataset for data exploration & visualization (alternative to iris).",
+            "homepage": "https://allisonhorst.github.io/palmerpenguins/",
             "id": 269674245,
             "language": "R",
+            "license": "CC0-1.0",
             "last_commit": "2024-09-19T22:20:38Z",
+            "open_issues": 18,
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1016
+            "stars": 1016,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -154,12 +270,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+            "homepage": "https://docs.h2o.ai/sparkling-water/3.3/latest-stable/doc/index.html",
             "id": 25181584,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-05T03:56:25Z",
+            "open_issues": 43,
             "owner": "h2oai",
             "repo": "sparkling-water",
-            "stars": 979
+            "stars": 979,
+            "topics": [
+              "big-data",
+              "h2o",
+              "integration",
+              "machine-learning",
+              "pyspark",
+              "pysparkling",
+              "rsparkling",
+              "scala",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -170,12 +301,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up commonly used 📦 components",
+            "homepage": "https://usethis.r-lib.org/",
             "id": 73086801,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-14T23:44:03Z",
+            "open_issues": 92,
             "owner": "r-lib",
             "repo": "usethis",
-            "stars": 920
+            "stars": 920,
+            "topics": [
+              "github",
+              "package",
+              "r",
+              "rstats",
+              "setup"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -186,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package for tidyverse-friendly statistical inference",
+            "homepage": "https://infer.tidymodels.org",
             "id": 93430707,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-13T14:50:21Z",
+            "open_issues": 7,
             "owner": "tidymodels",
             "repo": "infer",
-            "stars": 795
+            "stars": 795,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -202,12 +349,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate static html documentation for an R package",
+            "homepage": "https://pkgdown.r-lib.org/",
             "id": 3723845,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T09:24:43Z",
+            "open_issues": 104,
             "owner": "r-lib",
             "repo": "pkgdown",
-            "stars": 773
+            "stars": 773,
+            "topics": [
+              "documentation-tool",
+              "package",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -218,12 +374,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render bits of R code for sharing, e.g., on GitHub or StackOverflow.",
+            "homepage": "https://reprex.tidyverse.org",
             "id": 41376769,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-10T16:35:47Z",
+            "open_issues": 29,
             "owner": "tidyverse",
             "repo": "reprex",
-            "stars": 753
+            "stars": 753,
+            "topics": [
+              "github",
+              "r",
+              "reproducibility",
+              "rmarkdown",
+              "stackoverflow"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -234,12 +401,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read excel files (.xls and .xlsx) into R 🖇",
+            "homepage": "https://readxl.tidyverse.org",
             "id": 32161666,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-17T00:30:31Z",
+            "open_issues": 51,
             "owner": "tidyverse",
             "repo": "readxl",
-            "stars": 752
+            "stars": 752,
+            "topics": [
+              "excel",
+              "r",
+              "spreadsheet",
+              "xls",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -250,12 +428,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glue strings to data in R. Small, fast, dependency free interpreted string literals.",
+            "homepage": "https://glue.tidyverse.org",
             "id": 77250656,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-21T22:38:06Z",
+            "open_issues": 7,
             "owner": "tidyverse",
             "repo": "glue",
-            "stars": 750
+            "stars": 750,
+            "topics": [
+              "r",
+              "string-interpolation",
+              "strings"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -266,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
+            "homepage": "http://joey711.github.io/phyloseq/",
             "id": 2188402,
             "language": "R",
+            "license": null,
             "last_commit": "2026-02-27T23:48:26Z",
+            "open_issues": 769,
             "owner": "joey711",
             "repo": "phyloseq",
-            "stars": 652
+            "stars": 652,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -282,12 +474,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast reading of delimited files",
+            "homepage": "https://vroom.tidyverse.org",
             "id": 161399255,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-09T18:39:00Z",
+            "open_issues": 67,
             "owner": "tidyverse",
             "repo": "vroom",
-            "stars": 642
+            "stars": 642,
+            "topics": [
+              "csv",
+              "csv-parser",
+              "fixed-width-text",
+              "r",
+              "tsv",
+              "tsv-parser"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -298,12 +502,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "igraph R package",
+            "homepage": "https://r.igraph.org",
             "id": 28829926,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-28T13:54:02Z",
+            "open_issues": 173,
             "owner": "igraph",
             "repo": "rigraph",
-            "stars": 620
+            "stars": 620,
+            "topics": [
+              "complex-networks",
+              "graph-algorithms",
+              "graph-theory",
+              "mathematics",
+              "network-analysis",
+              "network-graph",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -314,12 +531,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accurate sample inference from amplicon data with single nucleotide resolution",
+            "homepage": "http://benjjneb.github.io/dada2/",
             "id": 28114218,
             "language": "R",
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-31T02:02:58Z",
+            "open_issues": 217,
             "owner": "benjjneb",
             "repo": "dada2",
-            "stars": 555
+            "stars": 555,
+            "topics": [
+              "amplicon",
+              "bioconductor",
+              "bioinformatics",
+              "metabarcoding",
+              "metagenomics",
+              "microbiome",
+              "taxonomy"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -330,12 +560,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multivariate Imputation by Chained Equations",
+            "homepage": "https://amices.org/mice/",
             "id": 8910139,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-07T08:10:10Z",
+            "open_issues": 30,
             "owner": "amices",
             "repo": "mice",
-            "stars": 517
+            "stars": 517,
+            "topics": [
+              "chained-equations",
+              "fcs",
+              "imputation",
+              "mice",
+              "missing-data",
+              "missing-values",
+              "multiple-imputation",
+              "multivariate-data"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -346,12 +590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advice on R Package Building",
+            "homepage": "https://docs.ropensci.org/goodpractice/",
             "id": 50784274,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:43:38Z",
+            "open_issues": 8,
             "owner": "ropensci-review-tools",
             "repo": "goodpractice",
-            "stars": 480
+            "stars": 480,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -362,12 +611,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "H2Oai GPU Edition",
+            "homepage": null,
             "id": 85352239,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T14:08:05Z",
+            "open_issues": 157,
             "owner": "h2oai",
             "repo": "h2o4gpu",
-            "stars": 468
+            "stars": 468,
+            "topics": [
+              "c-plus-plus",
+              "cpu",
+              "cuda",
+              "elastic-net",
+              "fedramp",
+              "glm",
+              "gpu",
+              "lasso",
+              "machine-learning",
+              "pca",
+              "python",
+              "r",
+              "rstats",
+              "svd"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -378,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Estimated marginal means",
+            "homepage": "https://rvlenth.github.io/emmeans/",
             "id": 103769370,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-26T23:03:36Z",
+            "open_issues": 3,
             "owner": "rvlenth",
             "repo": "emmeans",
-            "stars": 426
+            "stars": 426,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -394,12 +668,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "shiny API for Framework7 (IOS/android)",
+            "homepage": "https://shinymobile.rinterface.com",
             "id": 139186586,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-13T00:12:21Z",
+            "open_issues": 71,
             "owner": "RinteRface",
             "repo": "shinyMobile",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "android",
+              "hacktoberfest2022",
+              "pwa",
+              "r",
+              "shiny",
+              "shinyapps",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -410,12 +697,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tidy Geospatial Networks in R",
+            "homepage": "https://luukvdmeer.github.io/sfnetworks/",
             "id": 164439774,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-14T17:13:53Z",
+            "open_issues": 28,
             "owner": "luukvdmeer",
             "repo": "sfnetworks",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "geospatial-networks",
+              "network-analysis",
+              "rspatial",
+              "simple-features",
+              "spatial-analysis",
+              "spatial-data-science",
+              "spatial-networks",
+              "tidygraph",
+              "tidyverse"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -426,12 +728,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazon Simple Storage Service (S3) API Client",
+            "homepage": "https://cloud.r-project.org/package=aws.s3",
             "id": 28195859,
             "language": "R",
+            "license": null,
             "last_commit": "2025-08-18T23:50:12Z",
+            "open_issues": 95,
             "owner": "cloudyr",
             "repo": "aws.s3",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "amazon",
+              "aws",
+              "aws-s3",
+              "cloudyr",
+              "r",
+              "r-package",
+              "s3",
+              "s3-storage"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -442,12 +758,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Spreadsheets R API (reboot of the googlesheets package)",
+            "homepage": "https://googlesheets4.tidyverse.org",
             "id": 89657511,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:29:20Z",
+            "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "google-drive",
+              "google-sheets",
+              "r",
+              "spreadsheet"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -458,12 +784,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R-hub API client",
+            "homepage": "https://r-hub.github.io/rhub/",
             "id": 67287867,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-07T10:17:33Z",
+            "open_issues": 46,
             "owner": "r-hub",
             "repo": "rhub",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "r",
+              "r-package",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -474,12 +809,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cowsay w/ more animals, in R",
+            "homepage": "https://sckott.github.io/cowsay/",
             "id": 13485998,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-29T06:01:12Z",
+            "open_issues": 3,
             "owner": "sckott",
             "repo": "cowsay",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "ascii-art",
+              "r",
+              "r-stats",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -490,12 +835,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Drive R API",
+            "homepage": "https://googledrive.tidyverse.org/",
             "id": 89535184,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:14:16Z",
+            "open_issues": 41,
             "owner": "tidyverse",
             "repo": "googledrive",
-            "stars": 346
+            "stars": 346,
+            "topics": [
+              "google-drive",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -506,12 +859,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R Package 📦 Containing the Datasaurus Dozen datasets :bar_chart:",
+            "homepage": "https://jumpingrivers.github.io/datasauRus",
             "id": 89957068,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-23T17:19:29Z",
+            "open_issues": 1,
             "owner": "jumpingrivers",
             "repo": "datasauRus",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "anscombesquartet",
+              "datasaurus",
+              "datasaurus-dozen",
+              "datasets",
+              "r",
+              "r-package",
+              "rstats",
+              "summary-statistics"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -522,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functions for identifying and characterizing continuous developmental trajectories in single-cell data.",
+            "homepage": null,
             "id": 53689067,
             "language": "R",
+            "license": null,
             "last_commit": "2024-04-23T23:33:24Z",
+            "open_issues": 8,
             "owner": "kstreet13",
             "repo": "slingshot",
-            "stars": 345
+            "stars": 345,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -538,12 +910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Classes and functions to create and summarize resampling objects",
+            "homepage": "https://rsample.tidymodels.org",
             "id": 89093570,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-14T13:53:37Z",
+            "open_issues": 36,
             "owner": "tidymodels",
             "repo": "rsample",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -554,12 +931,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for downloading OpenStreetMap data",
+            "homepage": "https://docs.ropensci.org/osmdata",
             "id": 71071698,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-28T17:51:29Z",
+            "open_issues": 23,
             "owner": "ropensci",
             "repo": "osmdata",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "cpp",
+              "openstreetmap",
+              "osm",
+              "osm-data",
+              "overpass-api",
+              "peer-reviewed",
+              "r",
+              "r-package",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -570,12 +962,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pin, discover, and share resources",
+            "homepage": "https://pins.rstudio.com",
             "id": 177171231,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-02T19:46:40Z",
+            "open_issues": 44,
             "owner": "rstudio",
             "repo": "pins-r",
-            "stars": 335
+            "stars": 335,
+            "topics": [
+              "azure",
+              "gcloud",
+              "rpins",
+              "rsconnect",
+              "rstats",
+              "s3",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -586,12 +991,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Widen, process, and re-tidy a dataset",
+            "homepage": "http://juliasilge.github.io/widyr/",
             "id": 59056701,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-09T17:36:56Z",
+            "open_issues": 18,
             "owner": "juliasilge",
             "repo": "widyr",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -602,12 +1012,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities.",
+            "homepage": "http://www.canvasXpress.org",
             "id": 50974710,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-28T20:18:54Z",
+            "open_issues": 27,
             "owner": "neuhausi",
             "repo": "canvasXpress",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "analytics",
+              "bioinformatics",
+              "chart",
+              "charting",
+              "cran",
+              "dash",
+              "dashboard",
+              "data-analytics",
+              "data-science",
+              "data-visualization",
+              "genomics",
+              "graphs",
+              "javascript",
+              "network",
+              "network-visualization",
+              "python",
+              "r",
+              "reproducible-research",
+              "shiny",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -618,12 +1054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Excerpt from the Gapminder data, as an R data package and in plain text delimited form",
+            "homepage": "http://jennybc.github.io/gapminder/",
             "id": 25721466,
             "language": "R",
+            "license": null,
             "last_commit": "2025-06-12T15:04:02Z",
+            "open_issues": 0,
             "owner": "jennybc",
             "repo": "gapminder",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -634,12 +1075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Current version of the SuperLearner R package",
+            "homepage": null,
             "id": 1622048,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-16T01:39:12Z",
+            "open_issues": 20,
             "owner": "ecpolley",
             "repo": "SuperLearner",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -650,12 +1096,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use the Google Analytics API from R",
+            "homepage": "https://8-bit-sheep.com/googleAnalyticsR/",
             "id": 41787098,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-05T12:39:25Z",
+            "open_issues": 33,
             "owner": "8-bit-sheep",
             "repo": "googleAnalyticsR",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "analytics",
+              "api",
+              "google",
+              "googleanalyticsr",
+              "googleauthr",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -666,12 +1124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plotting tool for brain atlases, in ggplot",
+            "homepage": "https://ggsegverse.github.io/ggseg/",
             "id": 145827720,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:45:37Z",
+            "open_issues": 2,
             "owner": "ggsegverse",
             "repo": "ggseg",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -682,12 +1145,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time series features",
+            "homepage": "http://pkg.robjhyndman.com/tsfeatures",
             "id": 111623521,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-30T11:44:29Z",
+            "open_issues": 2,
             "owner": "robjhyndman",
             "repo": "tsfeatures",
-            "stars": 262
+            "stars": 262,
+            "topics": [
+              "feature-extraction",
+              "r",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -698,12 +1170,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 R package for data and supplemental functions for OpenIntro resources",
+            "homepage": "http://openintrostat.github.io/openintro/",
             "id": 21526118,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T04:14:57Z",
+            "open_issues": 3,
             "owner": "OpenIntroStat",
             "repo": "openintro",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "data",
+              "openintro",
+              "rstats",
+              "rstats-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -714,12 +1196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access the Gmail RESTful API from R.",
+            "homepage": "https://gmailr.r-lib.org",
             "id": 21660856,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-30T16:21:50Z",
+            "open_issues": 23,
             "owner": "r-lib",
             "repo": "gmailr",
-            "stars": 237
+            "stars": 237,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -730,12 +1217,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download ⬇️ Qualtrics survey data directly into R!",
+            "homepage": "https://docs.ropensci.org/qualtRics",
             "id": 70817337,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-25T15:43:13Z",
+            "open_issues": 49,
             "owner": "ropensci",
             "repo": "qualtRics",
-            "stars": 229
+            "stars": 229,
+            "topics": [
+              "api",
+              "qualtrics",
+              "qualtrics-api",
+              "r",
+              "r-package",
+              "rstats",
+              "survey",
+              "survey-data"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -746,12 +1247,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R-package that encapsulate elements of experimental design for better planning, management, and workflow",
+            "homepage": "https://edibble.emitanaka.org",
             "id": 219115863,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-30T23:21:23Z",
+            "open_issues": 12,
             "owner": "emitanaka",
             "repo": "edibble",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "experimental-designs",
+              "r",
+              "rstats-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -762,12 +1272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modeling Workflows",
+            "homepage": "https://workflows.tidymodels.org/",
             "id": 210882705,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-14T09:56:41Z",
+            "open_issues": 18,
             "owner": "tidymodels",
             "repo": "workflows",
-            "stars": 211
+            "stars": 211,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -778,12 +1293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tidyverse compatible package for creating memes in R using the magick package.  ",
+            "homepage": "https://sctyner.github.io/memer/",
             "id": 132645678,
             "language": "R",
+            "license": null,
             "last_commit": "2021-08-05T14:35:20Z",
+            "open_issues": 5,
             "owner": "sctyner",
             "repo": "memer",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -794,12 +1314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Version, share, deploy, and monitor models",
+            "homepage": "https://rstudio.github.io/vetiver-r/",
             "id": 384312833,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T16:43:38Z",
+            "open_issues": 29,
             "owner": "rstudio",
             "repo": "vetiver-r",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -810,12 +1335,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The base NIMBLE package for R",
+            "homepage": "http://R-nimble.org",
             "id": 20771527,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T22:31:31Z",
+            "open_issues": 98,
             "owner": "nimble-dev",
             "repo": "nimble",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "bayesian-inference",
+              "bayesian-methods",
+              "hierarchical-models",
+              "mcmc",
+              "probabilistic-programming",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -826,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative artwork that looks a bit like trees",
+            "homepage": "https://flametree.djnavarro.net/",
             "id": 255175955,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T10:51:05Z",
+            "open_issues": 0,
             "owner": "djnavarro",
             "repo": "flametree",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -842,12 +1384,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hot_pepper: Create lightweight schema.org descriptions of your datasets",
+            "homepage": "https://docs.ropensci.org/dataspice",
             "id": 134324345,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-24T14:25:06Z",
+            "open_issues": 34,
             "owner": "ropensci",
             "repo": "dataspice",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "data",
+              "dataset",
+              "metadata",
+              "r",
+              "r-package",
+              "rstats",
+              "schema-org",
+              "unconf",
+              "unconf18"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -858,12 +1415,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to make a data frame messy and untidy.",
+            "homepage": "https://nrennie.rbind.io/messy/",
             "id": 685562521,
             "language": "R",
+            "license": "CC-BY-4.0",
             "last_commit": "2025-08-29T18:13:24Z",
+            "open_issues": 2,
             "owner": "nrennie",
             "repo": "messy",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "r",
+              "r-package",
+              "teaching"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -874,12 +1440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for managing classroom organizations",
+            "homepage": "https://rundel.github.io/ghclass/",
             "id": 67464178,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T02:10:41Z",
+            "open_issues": 21,
             "owner": "rundel",
             "repo": "ghclass",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -890,12 +1461,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package for data screening",
+            "homepage": null,
             "id": 69242550,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-04-13T18:58:23Z",
+            "open_issues": 15,
             "owner": "ekstroem",
             "repo": "dataMaid",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "data-cleaning",
+              "data-screening",
+              "reproducible-research"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -906,12 +1486,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A place for the development version of the changepoint package on CRAN.",
+            "homepage": null,
             "id": 49007800,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-26T16:00:58Z",
+            "open_issues": 14,
             "owner": "rkillick",
             "repo": "changepoint",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "changepoint",
+              "cran",
+              "package",
+              "r",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -922,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reduce the size of model objects saved to disk",
+            "homepage": "https://butcher.tidymodels.org/",
             "id": 190640087,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-25T22:43:47Z",
+            "open_issues": 12,
             "owner": "tidymodels",
             "repo": "butcher",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -938,12 +1534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recursive lists to use in teaching and examples, because there is no mtcars for lists.",
+            "homepage": "https://jennybc.github.io/repurrrsive/",
             "id": 71662491,
             "language": "R",
+            "license": null,
             "last_commit": "2023-08-08T03:44:11Z",
+            "open_issues": 5,
             "owner": "jennybc",
             "repo": "repurrrsive",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "data",
+              "json",
+              "package",
+              "r",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -954,12 +1561,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R-based project management tools",
+            "homepage": "https://emilyriederer.github.io/projmgr/",
             "id": 163583327,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-29T21:47:51Z",
+            "open_issues": 7,
             "owner": "emilyriederer",
             "repo": "projmgr",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "github-api",
+              "project-management",
+              "r",
+              "r-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -970,12 +1587,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsnip wrappers for survival models",
+            "homepage": "https://censored.tidymodels.org/",
             "id": 283946209,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T19:33:47Z",
+            "open_issues": 28,
             "owner": "tidymodels",
             "repo": "censored",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "parsnip",
+              "tidymodels"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -986,12 +1611,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animated icons for R markdown and Shiny apps",
+            "homepage": "https://emitanaka.github.io/anicon/",
             "id": 137966093,
             "language": "R",
+            "license": null,
             "last_commit": "2026-07-13T08:31:04Z",
+            "open_issues": 4,
             "owner": "emitanaka",
             "repo": "anicon",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "font-awesome",
+              "fontawesome",
+              "icon",
+              "r",
+              "rmarkdown",
+              "rshiny",
+              "rstats",
+              "shiny",
+              "xaringan"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1002,12 +1642,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A R package for Bootstrap Components to make Landing Home Pages for Shiny :globe_with_meridians:",
+            "homepage": "http://jasminedaly.com/shinyLP/",
             "id": 66678777,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-15T20:38:32Z",
+            "open_issues": 0,
             "owner": "jasdumas",
             "repo": "shinyLP",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "bootstrap",
+              "r",
+              "r-shiny",
+              "shiny",
+              "ui-design"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1018,12 +1669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for creating tuning parameter values",
+            "homepage": "https://dials.tidymodels.org/",
             "id": 141954544,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T18:33:42Z",
+            "open_issues": 19,
             "owner": "tidymodels",
             "repo": "dials",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1034,12 +1690,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for downloading weather data from Environment and Climate Change Canada",
+            "homepage": "https://docs.ropensci.org/weathercan",
             "id": 60650396,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T05:23:22Z",
+            "open_issues": 7,
             "owner": "ropensci",
             "repo": "weathercan",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "environment-canada",
+              "peer-reviewed",
+              "r",
+              "r-package",
+              "rstats",
+              "weather-data",
+              "weather-downloader"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1050,12 +1719,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infrastructure for calling Google APIs from R, including auth",
+            "homepage": "https://gargle.r-lib.org/",
             "id": 48555251,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-28T17:59:31Z",
+            "open_issues": 34,
             "owner": "r-lib",
             "repo": "gargle",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "authentication",
+              "google",
+              "package",
+              "r",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1066,12 +1746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "miscellaneous functions for Danielle's art ",
+            "homepage": "https://jasmines.djnavarro.net",
             "id": 212026148,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-14T08:21:39Z",
+            "open_issues": 8,
             "owner": "djnavarro",
             "repo": "jasmines",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1082,12 +1767,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search R packages on CRAN",
+            "homepage": "https://r-hub.github.io/pkgsearch",
             "id": 23968905,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-12T12:52:51Z",
+            "open_issues": 31,
             "owner": "r-hub",
             "repo": "pkgsearch",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "cran",
+              "package",
+              "r",
+              "r-package",
+              "ranking",
+              "rstats",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1098,12 +1796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Construct Modeling Packages",
+            "homepage": "https://hardhat.tidymodels.org",
             "id": 170162478,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-09T12:16:05Z",
+            "open_issues": 6,
             "owner": "tidymodels",
             "repo": "hardhat",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1114,12 +1817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package for common supervised machine learning metrics.",
+            "homepage": null,
             "id": 107830447,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-25T18:10:02Z",
+            "open_issues": 20,
             "owner": "mfrasco",
             "repo": "Metrics",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1130,12 +1838,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weighted tidy log odds ratio ⚖️",
+            "homepage": "https://juliasilge.github.io/tidylo/",
             "id": 191687088,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-22T15:07:55Z",
+            "open_issues": 0,
             "owner": "juliasilge",
             "repo": "tidylo",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "empirical-bayes",
+              "log-odds-ratio",
+              "r",
+              "tidy-data",
+              "tidyverse",
+              "weighted-log-odds"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1146,12 +1866,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R Package for Jane Austen's Complete Novels :orange_book:",
+            "homepage": null,
             "id": 53640070,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-26T22:36:45Z",
+            "open_issues": 1,
             "owner": "juliasilge",
             "repo": "janeaustenr",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "jane-austen",
+              "novels",
+              "r",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1162,12 +1892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a collection of modeling workflows",
+            "homepage": "https://workflowsets.tidymodels.org/",
             "id": 315496922,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-24T14:15:05Z",
+            "open_issues": 14,
             "owner": "tidymodels",
             "repo": "workflowsets",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1178,12 +1913,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package :package: for labelling chunks of RMarkdown files! :boom:",
+            "homepage": "https://jumpingrivers.github.io/namer/",
             "id": 147656313,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-23T16:52:31Z",
+            "open_issues": 4,
             "owner": "jumpingrivers",
             "repo": "namer",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "r",
+              "r-package",
+              "rmarkdown",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1194,12 +1939,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Record and replay HTTP requests",
+            "homepage": "https://docs.ropensci.org/vcr",
             "id": 27778540,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T18:03:45Z",
+            "open_issues": 34,
             "owner": "ropensci",
             "repo": "vcr",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "mocking",
+              "r",
+              "r-package",
+              "rstats",
+              "testing",
+              "unit-testing",
+              "vcr"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1210,12 +1968,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and data for geom_net",
+            "homepage": "http://sctyner.github.io/geomnet/",
             "id": 24339210,
             "language": "R",
+            "license": null,
             "last_commit": "2021-08-23T06:55:17Z",
+            "open_issues": 10,
             "owner": "sctyner",
             "repo": "geomnet",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "cran",
+              "ggplot2",
+              "networks",
+              "plotly",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1226,12 +1995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infrastructure for Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices",
+            "homepage": "http://cran.r-project.org/package=trackeR",
             "id": 44336554,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-08-29T09:02:35Z",
+            "open_issues": 7,
             "owner": "trackerproject",
             "repo": "trackeR",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1242,12 +2016,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for producing flowcharts using ggplot2.",
+            "homepage": "https://nrennie.github.io/ggflowchart/",
             "id": 506244499,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-20T20:58:33Z",
+            "open_issues": 11,
             "owner": "nrennie",
             "repo": "ggflowchart",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "cran",
+              "r",
+              "r-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1258,12 +2041,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for creating monochrome colour palettes and easily converting rgba values to hex codes",
+            "homepage": null,
             "id": 436599601,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-10T05:28:55Z",
+            "open_issues": 3,
             "owner": "cararthompson",
             "repo": "monochromeR",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "color-palette",
+              "dataviz",
+              "ggplot2",
+              "palette",
+              "palette-generation",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1274,12 +2069,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":globe_with_meridians: R package for the OpenCage API -- both forward and reverse geocoding :globe_with_meridians:",
+            "homepage": "https://docs.ropensci.org/opencage",
             "id": 55807177,
             "language": "R",
+            "license": null,
             "last_commit": "2025-01-25T19:56:29Z",
+            "open_issues": 5,
             "owner": "ropensci",
             "repo": "opencage",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "geocode",
+              "geocoder",
+              "opencage",
+              "opencage-api",
+              "opencage-geocoder",
+              "peer-reviewed",
+              "placenames",
+              "r",
+              "r-package",
+              "rspatial",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1290,12 +2102,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creates an Overview of CRAN Incoming Submissions :mailbox_with_mail:",
+            "homepage": "https://r-hub.github.io/cransays/articles/dashboard.html",
             "id": 152206619,
             "language": "R",
-            "last_commit": "2026-08-28T19:40:53Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:31:31Z",
+            "open_issues": 9,
             "owner": "r-hub",
             "repo": "cransays",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "cran",
+              "cran-r",
+              "r",
+              "r-package",
+              "r-packages",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1306,12 +2130,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R interface to the Meetup API",
+            "homepage": "https://rladies.github.io/meetupr",
             "id": 72182571,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-14T19:43:35Z",
+            "open_issues": 6,
             "owner": "rladies",
             "repo": "meetupr",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "api",
+              "api-wrapper",
+              "meetup",
+              "r",
+              "r-ladies",
+              "rladies",
+              "rladies-global",
+              "rpackage",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1322,12 +2161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create and summarize spatial resampling objects 🗺",
+            "homepage": "https://spatialsample.tidymodels.org",
             "id": 331109525,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-06T17:00:30Z",
+            "open_issues": 4,
             "owner": "tidymodels",
             "repo": "spatialsample",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1338,12 +2182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":chart_with_upwards_trend: Feature-based Forecast Model Selection (FFORMS) :clock1: :clock130: :clock10: :clock1030: :clock11: :clock1130: :clock12: :clock1230: :clock2: :clock230: :clock3: :clock330: :clock4: :clock430: :clock5: :clock530: :clock6: :clock630: :clock7: :clock730: :clock8: :clock830: :clock9: :clock930:",
+            "homepage": "https://thiyangt.github.io/seer/",
             "id": 120705348,
             "language": "R",
+            "license": null,
             "last_commit": "2022-10-01T06:51:25Z",
+            "open_issues": 0,
             "owner": "thiyangt",
             "repo": "seer",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1354,12 +2203,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 R package for Supplemental Materials for the Bayes Rules! Book",
+            "homepage": "https://bayes-rules.github.io/bayesrules/docs/",
             "id": 228913618,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-20T01:51:55Z",
+            "open_issues": 7,
             "owner": "bayes-rules",
             "repo": "bayesrules",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "bayesian-statistics",
+              "data",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1370,12 +2228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsnip wrappers for mixed-level and hierarchical models",
+            "homepage": "https://multilevelmod.tidymodels.org/",
             "id": 258349675,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-14T13:45:07Z",
+            "open_issues": 22,
             "owner": "tidymodels",
             "repo": "multilevelmod",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1386,12 +2249,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Companion package for the Coursera Statistics with R specialization",
+            "homepage": null,
             "id": 55707343,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-27T16:38:56Z",
+            "open_issues": 6,
             "owner": "StatsWithR",
             "repo": "statsr",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "bayesian-inference",
+              "coursera",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1402,12 +2274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The goal of bakeoff is to enable data wrangling, analysis, and visualizations with R using data from “The Great British Bake Off”.",
+            "homepage": "https://bakeoff.netlify.app",
             "id": 137939073,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-02T11:42:20Z",
+            "open_issues": 5,
             "owner": "apreshill",
             "repo": "bakeoff",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1418,12 +2295,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensions for the DALEX package",
+            "homepage": "https://ModelOriented.github.io/DALEXtra/",
             "id": 196374651,
             "language": "R",
+            "license": null,
             "last_commit": "2026-01-14T01:10:21Z",
+            "open_issues": 3,
             "owner": "ModelOriented",
             "repo": "DALEXtra",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "extension-for-dalex-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1434,12 +2318,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Historical and Contemporary Boundaries of the United States of America",
+            "homepage": "https://docs.ropensci.org/USAboundaries",
             "id": 25009759,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-29T22:51:54Z",
+            "open_issues": 0,
             "owner": "ropensci",
             "repo": "USAboundaries",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "digital-history",
+              "history",
+              "r",
+              "r-package",
+              "rstats",
+              "spatial-data"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1450,12 +2346,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an R package for generating and working with codemeta",
+            "homepage": "https://docs.ropensci.org/codemetar",
             "id": 86626030,
             "language": "R",
+            "license": null,
             "last_commit": "2026-02-10T18:06:51Z",
+            "open_issues": 26,
             "owner": "ropensci",
             "repo": "codemetar",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "codemeta",
+              "json-ld",
+              "metadata",
+              "peer-reviewed",
+              "r",
+              "r-package",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1466,12 +2375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A implementation of tour algorithms in R",
+            "homepage": "http://ggobi.github.io/tourr/",
             "id": 954753,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-30T22:25:04Z",
+            "open_issues": 1,
             "owner": "ggobi",
             "repo": "tourr",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1482,12 +2396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for extra atlases for the ggseg-package",
+            "homepage": "https://ggsegverse.github.io/ggseg.extra/",
             "id": 164153759,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T11:17:39Z",
+            "open_issues": 20,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1498,12 +2417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "oddstream {Outlier Detection in Data STREAMs}     :fish: :fish: :fish: :fish: :tropical_fish: :fish:  :fish: :fish: :fish: :fish:   :fish: :fish: :fish: :fish::fish:",
+            "homepage": "https://acems.org.au/projects/anomaly-detection-streaming-nonstationary-temporal-data",
             "id": 93370079,
             "language": "R",
+            "license": null,
             "last_commit": "2020-04-02T09:12:50Z",
+            "open_issues": 2,
             "owner": "pridiltal",
             "repo": "oddstream",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1514,12 +2438,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert (R)Markdown files to XML, edit them, write them back as (R)Markdown",
+            "homepage": "https://docs.ropensci.org/tinkr",
             "id": 149107238,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-01T14:00:44Z",
+            "open_issues": 35,
             "owner": "ropensci",
             "repo": "tinkr",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "commonmark",
+              "r",
+              "r-package",
+              "rstats",
+              "xml",
+              "xpath"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1530,12 +2466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for visualizing uncertainty in spatial data",
+            "homepage": "https://lydialucchesi.github.io/Vizumap/",
             "id": 100490142,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-23T19:39:45Z",
+            "open_issues": 0,
             "owner": "lydialucchesi",
             "repo": "Vizumap",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1546,12 +2487,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model verification, validation, and error analysis",
+            "homepage": "https://modeloriented.github.io/auditor/",
             "id": 110183650,
             "language": "R",
+            "license": null,
             "last_commit": "2024-01-09T23:32:23Z",
+            "open_issues": 8,
             "owner": "ModelOriented",
             "repo": "auditor",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "classification",
+              "error-analysis",
+              "explainable-artificial-intelligence",
+              "machine-learning",
+              "model-validation",
+              "regression-models",
+              "residuals",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1562,12 +2517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package FactoMineR",
+            "homepage": null,
             "id": 32511270,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-02T09:12:10Z",
+            "open_issues": 26,
             "owner": "husson",
             "repo": "FactoMineR",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1578,12 +2538,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "stray {Search and TRace AnomalY}.  Full paper is available from  https://arxiv.org/pdf/1908.04000.pdf  :dog::dog::dog::dog::cat: :dog: :dog::dog::dog::dog:",
+            "homepage": null,
             "id": 116096810,
             "language": "R",
+            "license": null,
             "last_commit": "2023-11-19T23:14:35Z",
+            "open_issues": 2,
             "owner": "pridiltal",
             "repo": "stray",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "stray"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1594,12 +2561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tidy structure for spatio-temporal vector data",
+            "homepage": "https://huizezhang-sherry.github.io/cubble/",
             "id": 367240686,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-05T14:47:51Z",
+            "open_issues": 4,
             "owner": "huizezhang-sherry",
             "repo": "cubble",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1610,12 +2582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Machine Learning datasets for health care and beyond",
+            "homepage": null,
             "id": 442768008,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-23T19:50:01Z",
+            "open_issues": 0,
             "owner": "StatsGary",
             "repo": "MLDataR",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1626,12 +2603,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package for interacting with the Posit Connect server API",
+            "homepage": "https://posit-dev.github.io/connectapi/",
             "id": 167249814,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T19:04:37Z",
+            "open_issues": 77,
             "owner": "posit-dev",
             "repo": "connectapi",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "api-client",
+              "package",
+              "posit-connect",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1642,12 +2629,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔦 Easily Extracting Information About Your Data in R",
+            "homepage": "https://cosimameyer.github.io/overviewR/",
             "id": 269955026,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-04T18:25:37Z",
+            "open_issues": 1,
             "owner": "cosimameyer",
             "repo": "overviewR",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "package-development"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1658,12 +2652,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package containing pretty colour palettes.",
+            "homepage": "https://nrennie.github.io/PrettyCols/",
             "id": 474019994,
             "language": "R",
+            "license": "CC0-1.0",
             "last_commit": "2025-04-23T01:08:32Z",
+            "open_issues": 1,
             "owner": "nrennie",
             "repo": "PrettyCols",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "cran",
+              "r",
+              "r-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1674,12 +2677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper functions to work with spreadsheets and the \"A1:D10\" style of cell range specification ",
+            "homepage": null,
             "id": 34276600,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-17T22:16:11Z",
+            "open_issues": 21,
             "owner": "rsheets",
             "repo": "cellranger",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1690,12 +2698,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an R package which writes SPARQL queries",
+            "homepage": "https://lvaudor.github.io/glitter",
             "id": 366650966,
             "language": "Rez",
+            "license": null,
             "last_commit": "2024-07-10T07:18:30Z",
+            "open_issues": 54,
             "owner": "lvaudor",
             "repo": "glitter",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "rstat",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1706,12 +2722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Translate Datasets to Portuguese",
+            "homepage": "https://cienciadedatos.github.io/dados/",
             "id": 272733101,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T12:08:39Z",
+            "open_issues": 9,
             "owner": "cienciadedatos",
             "repo": "dados",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1722,12 +2743,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ecological niche model workflow based on dismo",
+            "homepage": "https://model-r.github.io/modleR",
             "id": 102991429,
             "language": "R",
+            "license": null,
             "last_commit": "2025-08-09T17:41:07Z",
+            "open_issues": 22,
             "owner": "Model-R",
             "repo": "modleR",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "dismo",
+              "ecological-niche-models",
+              "r",
+              "r-package",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1738,12 +2770,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simulate PK-PD models defined as ODE systems",
+            "homepage": "https://insightrx.github.io/PKPDsim/",
             "id": 100528653,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:07:00Z",
+            "open_issues": 3,
             "owner": "InsightRX",
             "repo": "PKPDsim",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "ode",
+              "pharmacodynamics",
+              "pharmacokinetics",
+              "pharmacometrics",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1754,12 +2797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quarto Website Templates for Academics",
+            "homepage": "https://chizapoth.github.io/qtwAcademic/",
             "id": 577852964,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-12T10:59:29Z",
+            "open_issues": 1,
             "owner": "chizapoth",
             "repo": "qtwAcademic",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1770,12 +2818,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://shinymodels.tidymodels.org/",
             "id": 373378921,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-22T19:20:15Z",
+            "open_issues": 5,
             "owner": "tidymodels",
             "repo": "shinymodels",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "r",
+              "r-package",
+              "rstats",
+              "shiny"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1786,12 +2844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Traducción al español de los datasets utilizados en el libro \"R para Ciencia de Datos\"",
+            "homepage": "https://cienciadedatos.github.io/datos/",
             "id": 140963726,
             "language": "R",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-29T15:50:47Z",
+            "open_issues": 3,
             "owner": "cienciadedatos",
             "repo": "datos",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1802,12 +2865,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":airplane: :sunny: R package for accessing ASOS data via the Iowa Environment Mesonet :cloud: :airplane:",
+            "homepage": "https://docs.ropensci.org/riem",
             "id": 56859354,
             "language": "R",
+            "license": null,
             "last_commit": "2025-10-21T07:23:38Z",
+            "open_issues": 4,
             "owner": "ropensci",
             "repo": "riem",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "airports",
+              "asos",
+              "iowa-environment-mesonet",
+              "metar",
+              "peer-reviewed",
+              "r",
+              "r-package",
+              "rstats",
+              "temperature",
+              "weather",
+              "weather-api"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1818,12 +2898,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datalegreya, the typeface that melts text and data visualisation, for R markdown",
+            "homepage": null,
             "id": 141126000,
             "language": "R",
+            "license": null,
             "last_commit": "2018-07-16T11:36:23Z",
+            "open_issues": 0,
             "owner": "emitanaka",
             "repo": "datalegreyar",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "r",
+              "rmarkdown",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1834,12 +2923,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ggseg3d R package for visualising brain atlases through plotly",
+            "homepage": "https://ggseg.github.io/ggseg3d/",
             "id": 220097457,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:33:52Z",
+            "open_issues": 7,
             "owner": "ggsegverse",
             "repo": "ggseg3d",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1850,12 +2944,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "subsemble R package for ensemble learning on subsets of data",
+            "homepage": null,
             "id": 27205699,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-21T08:03:22Z",
+            "open_issues": 1,
             "owner": "ledell",
             "repo": "subsemble",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "big-data",
+              "cross-validation",
+              "ensemble",
+              "ensemble-learning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1866,12 +2973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Regulatory Tables for Clinical Research",
+            "homepage": "https://shannonpileggi.github.io/gtreg/",
             "id": 433181287,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-01T17:58:42Z",
+            "open_issues": 7,
             "owner": "shannonpileggi",
             "repo": "gtreg",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1882,12 +2994,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ggPMX R package",
+            "homepage": null,
             "id": 181708751,
             "language": "R",
+            "license": null,
             "last_commit": "2026-07-01T01:29:32Z",
+            "open_issues": 61,
             "owner": "ggPMXdevelopment",
             "repo": "ggPMX",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "pharmacometrics",
+              "pmx",
+              "r",
+              "reporting"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1898,12 +3020,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R interface to the HealthData.gov Data API",
+            "homepage": null,
             "id": 18212595,
             "language": "R",
+            "license": null,
             "last_commit": "2014-12-29T06:54:19Z",
+            "open_issues": 2,
             "owner": "rOpenHealth",
             "repo": "rHealthDataGov",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "api",
+              "health-data",
+              "healthcare",
+              "open-data"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1914,12 +3046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for AUTHORS to use for checking and submitting articles to the R Journal",
+            "homepage": "https://rjournal.github.io/rjtools/",
             "id": 333294040,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T15:25:30Z",
+            "open_issues": 44,
             "owner": "rjournal",
             "repo": "rjtools",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1930,12 +3067,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sknifedatar is a package that serves primarily as an extension to the modeltime 📦 ecosystem. In addition to some functionalities of spatial data and visualization.",
+            "homepage": "https://rafzamb.github.io/sknifedatar/",
             "id": 323522493,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-06T21:43:02Z",
+            "open_issues": 5,
             "owner": "rafzamb",
             "repo": "sknifedatar",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "data",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "forecasting",
+              "r",
+              "statistics",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1946,12 +3097,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opinionated `ggplot2` extension package to automatically choose the best chart type and styling.",
+            "homepage": "http://nrennie.rbind.io/ggauto/",
             "id": 1172857970,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-28T14:17:18Z",
+            "open_issues": 4,
             "owner": "nrennie",
             "repo": "ggauto",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "r-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1962,12 +3120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to identify genes with differential distributions in single-cell RNA-seq",
+            "homepage": null,
             "id": 44693106,
             "language": "R",
+            "license": null,
             "last_commit": "2022-03-24T22:43:12Z",
+            "open_issues": 0,
             "owner": "kdkorthauer",
             "repo": "scDD",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1978,12 +3141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package to help make your R-generated text mighty fine",
+            "homepage": null,
             "id": 528843276,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-04T12:40:26Z",
+            "open_issues": 0,
             "owner": "cararthompson",
             "repo": "verbaliseR",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1994,12 +3162,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Equations and tools for clinical pharmacokinetics",
+            "homepage": "https://insightrx.github.io/clinPK/",
             "id": 100978357,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:07:05Z",
+            "open_issues": 0,
             "owner": "InsightRX",
             "repo": "clinPK",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "clinical-research",
+              "pharmacokinetics",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2010,12 +3187,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "R scripts for processing CMIP5 data",
+            "homepage": null,
             "id": 20114074,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-21T10:25:38Z",
+            "open_issues": 16,
             "owner": "JGCRI",
             "repo": "RCMIP5",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2026,12 +3208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prepare objects for serialization with a consistent interface",
+            "homepage": "https://rstudio.github.io/bundle/",
             "id": 506762939,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-10T20:48:33Z",
+            "open_issues": 7,
             "owner": "rstudio",
             "repo": "bundle",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2042,12 +3229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R interface to REDCap (http://www.project-redcap.org/)",
+            "homepage": null,
             "id": 5859513,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-25T16:42:32Z",
+            "open_issues": 18,
             "owner": "vubiostat",
             "repo": "redcapAPI",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2058,12 +3250,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensions and additions to vcd: Visualizing Categorical Data ",
+            "homepage": "https://friendly.github.io/vcdExtra/",
             "id": 105277533,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-26T17:49:14Z",
+            "open_issues": 5,
             "owner": "friendly",
             "repo": "vcdExtra",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "categorical-data-visualization",
+              "generalized-linear-models",
+              "mosaic-plots",
+              "r-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2074,12 +3276,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PlackettLuce package for Plackett-Luce models in R",
+            "homepage": "https://hturner.github.io/PlackettLuce/",
             "id": 86344815,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-24T11:16:06Z",
+            "open_issues": 6,
             "owner": "hturner",
             "repo": "PlackettLuce",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "plackett-luce-models",
+              "preferences",
+              "r",
+              "ranking",
+              "rankings-data",
+              "statistical-models"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2090,12 +3304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serialize vctrs objects to JSON 🥣",
+            "homepage": "https://r-lib.github.io/cereal/",
             "id": 643999023,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-20T19:07:26Z",
+            "open_issues": 1,
             "owner": "r-lib",
             "repo": "cereal",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2106,12 +3325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamically Generate Quarto Syntax",
+            "homepage": "https://quartose.djnavarro.net/",
             "id": 1005468685,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T02:04:22Z",
+            "open_issues": 0,
             "owner": "djnavarro",
             "repo": "quartose",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2122,12 +3346,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BradleyTerry2 package for Bradley-Terry models in R ",
+            "homepage": null,
             "id": 102193512,
             "language": "R",
+            "license": null,
             "last_commit": "2025-04-10T10:16:16Z",
+            "open_issues": 18,
             "owner": "hturner",
             "repo": "BradleyTerry2",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "bradley-terry-models",
+              "paired-comparisons",
+              "r",
+              "statistical-models"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2138,12 +3372,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computationally efficient confidence intervals for cross-validated AUC estimates in R",
+            "homepage": null,
             "id": 27469939,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-18T03:29:51Z",
+            "open_issues": 7,
             "owner": "ledell",
             "repo": "cvAUC",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "auc",
+              "confidence-intervals",
+              "cross-validation",
+              "machine-learning",
+              "r",
+              "statistics",
+              "variance"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2154,12 +3401,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R Dataset Package for US Beer Statistics From TTB :beer:",
+            "homepage": "http://jasminedaly.com/ttbbeer/",
             "id": 62466648,
             "language": "R",
+            "license": null,
             "last_commit": "2025-06-30T17:05:47Z",
+            "open_issues": 0,
             "owner": "jasdumas",
             "repo": "ttbbeer",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "beer-statistics",
+              "data-analysis",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2170,12 +3426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for fitting the Bradley-Terry model to large datasets",
+            "homepage": "https://ellakaye.github.io/BradleyTerryScalable",
             "id": 73819953,
             "language": "R",
+            "license": null,
             "last_commit": "2022-09-28T10:54:10Z",
+            "open_issues": 3,
             "owner": "EllaKaye",
             "repo": "BradleyTerryScalable",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2186,12 +3447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "parsnip wrappers for Poisson regression",
+            "homepage": "https://poissonreg.tidymodels.org",
             "id": 250132537,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-20T13:47:13Z",
+            "open_issues": 4,
             "owner": "tidymodels",
             "repo": "poissonreg",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2202,12 +3468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package to create shiny compatible HTML tables",
+            "homepage": null,
             "id": 59435961,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-28T16:10:05Z",
+            "open_issues": 10,
             "owner": "LyzandeR",
             "repo": "tableHTML",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2218,12 +3489,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UK Baby Names Data",
+            "homepage": "https://mine-cetinkaya-rundel.github.io/ukbabynames",
             "id": 94882842,
             "language": "R",
+            "license": null,
             "last_commit": "2022-03-25T14:41:10Z",
+            "open_issues": 0,
             "owner": "mine-cetinkaya-rundel",
             "repo": "ukbabynames",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "data",
+              "opendata",
+              "r-package",
+              "uk"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2234,12 +3515,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica.",
+            "homepage": "https://docs.ropensci.org/agroclimatico",
             "id": 296643452,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-05T06:19:48Z",
+            "open_issues": 4,
             "owner": "ropensci",
             "repo": "agroclimatico",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "agricultura",
+              "meteorologia"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2250,12 +3539,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Client for the Bioconductor AnnotationHub web resource",
+            "homepage": "https://bioconductor.org/packages/AnnotationHub",
             "id": 101198961,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-30T17:56:19Z",
+            "open_issues": 11,
             "owner": "Bioconductor",
             "repo": "AnnotationHub",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "core-package",
+              "u24ca289073"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2266,12 +3563,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://drmowinckels.github.io/colorhex/",
             "id": 326275318,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-22T08:36:14Z",
+            "open_issues": 0,
             "owner": "drmowinckels",
             "repo": "colorhex",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "color-hex",
+              "color-picker",
+              "colors",
+              "r",
+              "rstats",
+              "rstats-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2282,12 +3591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Procesamiento de la Encuesta Continua de Hogares de Uruguay",
+            "homepage": "https://calcita.github.io/ech/",
             "id": 224897952,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-27T16:38:24Z",
+            "open_issues": 2,
             "owner": "calcita",
             "repo": "ech",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2298,12 +3612,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R Package - Analysis of Archaeological Mortality Data",
+            "homepage": "https://isaakiel.github.io/mortAAR/",
             "id": 63867359,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-02T19:22:25Z",
+            "open_issues": 3,
             "owner": "ISAAKiel",
             "repo": "mortAAR",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "anthropology",
+              "archaeology",
+              "demography",
+              "r",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2314,12 +3639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to access the Vagalume API",
+            "homepage": null,
             "id": 97045907,
             "language": "R",
+            "license": null,
             "last_commit": "2019-06-07T11:48:06Z",
+            "open_issues": 0,
             "owner": "r-music",
             "repo": "vagalumeR",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2330,12 +3660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Classes for storing very large GWAS data sets and annotation, and functions for GWAS data cleaning and analysis",
+            "homepage": "https://bioconductor.org/packages/GWASTools",
             "id": 100623140,
             "language": "R",
+            "license": null,
             "last_commit": "2025-03-18T16:28:00Z",
+            "open_issues": 2,
             "owner": "smgogarten",
             "repo": "GWASTools",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2346,12 +3681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R/BioC package to estimate the cell composition of whole blood in DNA methylation samples in microarray or sequencing platforms",
+            "homepage": null,
             "id": 98489849,
             "language": "R",
+            "license": null,
             "last_commit": "2025-11-26T16:06:41Z",
+            "open_issues": 0,
             "owner": "stephaniehicks",
             "repo": "methylCC",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2362,12 +3702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pacote que disponibiliza dados de pesquisas OD do Brasil",
+            "homepage": "https://hsvab.github.io/odbr/",
             "id": 634934114,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-02T21:26:24Z",
+            "open_issues": 7,
             "owner": "hsvab",
             "repo": "odbr",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2378,12 +3723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Projection Pursuit Forest Algorithm for Supervised Classification",
+            "homepage": "https://natydasilva.github.io/PPforest/",
             "id": 69304307,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-09-04T11:44:28Z",
+            "open_issues": 1,
             "owner": "natydasilva",
             "repo": "PPforest",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2394,12 +3744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Continuous mapping of genetic diversity",
+            "homepage": null,
             "id": 499617621,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-28T17:25:14Z",
+            "open_issues": 0,
             "owner": "AnushaPB",
             "repo": "wingen",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2410,12 +3765,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gnm package for generalized nonlinear models in R ",
+            "homepage": null,
             "id": 102191600,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2024-03-20T18:19:21Z",
+            "open_issues": 15,
             "owner": "hturner",
             "repo": "gnm",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "generalized-linear-models",
+              "generalized-nonlinear-models",
+              "r",
+              "statistical-models"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2426,12 +3791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to access data from the NatureCounts platform by Bird Studies Canada",
+            "homepage": "https://birdscanada.github.io/naturecounts/",
             "id": 167440213,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-27T13:45:07Z",
+            "open_issues": 12,
             "owner": "BirdsCanada",
             "repo": "naturecounts",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2442,12 +3812,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for styling graphics for RSS publications.",
+            "homepage": "https://royal-statistical-society.github.io/datavisguide/docs/tools.html#r",
             "id": 566037754,
             "language": "R",
+            "license": "CC-BY-4.0",
             "last_commit": "2024-03-02T21:02:59Z",
+            "open_issues": 3,
             "owner": "nrennie",
             "repo": "RSSthemes",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "cran",
+              "r",
+              "r-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2458,12 +3837,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 104064155,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-19T05:49:12Z",
+            "open_issues": 0,
             "owner": "tuxette",
             "repo": "SOMbrero",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2474,12 +3858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Iterative Steps for Postprocessing Model Predictions",
+            "homepage": "https://tailor.tidymodels.org",
             "id": 785377400,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-26T00:00:50Z",
+            "open_issues": 15,
             "owner": "tidymodels",
             "repo": "tailor",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2490,12 +3879,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adjacency-constrained hierarchical clustering of a similarity matrix",
+            "homepage": "https://pneuvial.github.io/adjclust/",
             "id": 61875551,
             "language": "R",
+            "license": null,
             "last_commit": "2025-11-21T10:49:48Z",
+            "open_issues": 5,
             "owner": "pneuvial",
             "repo": "adjclust",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "gwas",
+              "hi-c",
+              "hierarchical-clustering",
+              "linkage-disequilibrium"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2506,12 +3905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preparing Experimental Data for Statistical Analysis",
+            "homepage": null,
             "id": 41477416,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2019-03-01T01:42:06Z",
+            "open_issues": 0,
             "owner": "ayalaallon",
             "repo": "prepdat",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2522,12 +3926,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package containing datelife's core functionality",
+            "homepage": "http://phylotastic.org/datelife/",
             "id": 44699507,
             "language": "R",
+            "license": null,
             "last_commit": "2025-11-02T17:40:14Z",
+            "open_issues": 55,
             "owner": "phylotastic",
             "repo": "datelife",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "dating-software",
+              "evolution",
+              "phylogenetics",
+              "r",
+              "reproducible-research"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2538,12 +3953,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package designed to create raster images from QuadKey-identified data (Microsoft Bing Maps Tile System), aiming to simplify the analysis of Facebook mobility data.  ",
+            "homepage": "https://docs.ropensci.org/quadkeyr/",
             "id": 727433503,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-25T19:51:20Z",
+            "open_issues": 3,
             "owner": "ropensci",
             "repo": "quadkeyr",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "geospatial",
+              "quadkey",
+              "raster",
+              "rstats",
+              "tilemap"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2554,12 +3980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access and Work with the AviList Global Avian Checklist 🐦",
+            "homepage": "https://dalyanalytics.github.io/avilistr/",
             "id": 1000543589,
             "language": "R",
+            "license": "CC0-1.0",
             "last_commit": "2025-06-17T20:02:45Z",
+            "open_issues": 0,
             "owner": "dalyanalytics",
             "repo": "avilistr",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2570,12 +4001,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage Files Across Sessions",
+            "homepage": "https://bioconductor.org/packages/BiocFileCache",
             "id": 83349790,
             "language": "R",
+            "license": null,
             "last_commit": "2026-04-29T18:28:46Z",
+            "open_issues": 11,
             "owner": "Bioconductor",
             "repo": "BiocFileCache",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "core-package",
+              "u24ca289073"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2586,12 +4025,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to perform sensitivity analysis for comparative methods",
+            "homepage": "http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12990/full",
             "id": 28606120,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2020-06-10T17:51:56Z",
+            "open_issues": 6,
             "owner": "paternogbc",
             "repo": "sensiPhy",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "comparative-methods",
+              "cran",
+              "ecology",
+              "evolution",
+              "phylogenetics",
+              "r",
+              "sensitivity-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2602,12 +4054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The simex Package -- This pakage for R implements the simex procedure developed by Cook & Stefanski for dealing with measurement error models, as well as the mcsimex for misclassified data developed by Küchenhoff, Mwalili and Lesaffre.",
+            "homepage": "http://wolfganglederer.github.io/simex/",
             "id": 54746535,
             "language": "R",
+            "license": null,
             "last_commit": "2019-08-06T12:11:33Z",
+            "open_issues": 5,
             "owner": "wolfganglederer",
             "repo": "simex",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2618,12 +4075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use 'TauDEM' from R, trustworthily",
+            "homepage": "https://lucarraro.github.io/traudem/",
             "id": 532772560,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-24T14:52:07Z",
+            "open_issues": 2,
             "owner": "lucarraro",
             "repo": "traudem",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2634,12 +4096,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for simulating the typing effect of R scripts, ideal for live coding presentations, teaching, or creating interactive demonstrations.",
+            "homepage": "https://fgazzelloni.github.io/typeR/",
             "id": 1135573235,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-08T19:24:45Z",
+            "open_issues": 0,
             "owner": "fgazzelloni",
             "repo": "typeR",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "r",
+              "rprogramming",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2650,12 +4121,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package to download package source files, and for package dependencies, to port into TSD UIO",
+            "homepage": "https://www.capro.dev/uiothemes/",
             "id": 307359781,
             "language": "HTML",
+            "license": "CC-BY-4.0",
             "last_commit": "2023-08-16T18:26:13Z",
+            "open_issues": 0,
             "owner": "capro-uio",
             "repo": "uiothemes",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "branding",
+              "r",
+              "uio"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2666,12 +4146,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variable importance via oscillations ",
+            "homepage": "https://modeloriented.github.io/vivo/",
             "id": 163335297,
             "language": "R",
+            "license": null,
             "last_commit": "2020-09-26T19:15:22Z",
+            "open_issues": 2,
             "owner": "ModelOriented",
             "repo": "vivo",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "explainable-ai",
+              "explainable-artificial-intelligence",
+              "explainable-ml",
+              "iml",
+              "interpretable-machine-learning",
+              "variable-importance",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2682,12 +4175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QueryWikidataR",
+            "homepage": null,
             "id": 61031040,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2017-01-18T17:21:11Z",
+            "open_issues": 1,
             "owner": "serenasignorelli",
             "repo": "QueryWikidataR",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2698,12 +4196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checks Session Status",
+            "homepage": "https://sessioncheck.djnavarro.net/",
             "id": 1065783320,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T00:08:01Z",
+            "open_issues": 5,
             "owner": "djnavarro",
             "repo": "sessioncheck",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2714,12 +4217,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LITAP is an R package for terrain analysis and landscape and hydrology models built on terrain attributes. A major component of LITAP is founded on R. A. (Bob) MacMillan's LandMapR suite of programs for flow topology and landform segmentation analyses with extended new parameters and methodologies, as well as with new calculations and uses of directional terrain attributes.",
+            "homepage": "http://FRDC-SHL.github.io/LITAP",
             "id": 100303415,
             "language": "R",
+            "license": null,
             "last_commit": "2024-10-02T18:53:05Z",
+            "open_issues": 3,
             "owner": "FRDC-SHL",
             "repo": "LITAP",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "elevation",
+              "flow",
+              "hydrology",
+              "landscape",
+              "science",
+              "terrain",
+              "water"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2730,12 +4246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package associated with \"Learning Statistics with R\"",
+            "homepage": "https://lsr.djnavarro.net/",
             "id": 84037133,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-19T03:12:53Z",
+            "open_issues": 1,
             "owner": "djnavarro",
             "repo": "lsr",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2746,12 +4267,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "phylogenetic networks using ggplot2 and ggtree",
+            "homepage": "https://klausvigo.github.io/tanggle/",
             "id": 223012561,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-11T07:58:08Z",
+            "open_issues": 5,
             "owner": "KlausVigo",
             "repo": "tanggle",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "phylogenetic-networks",
+              "r",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2762,12 +4292,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 Data on the states and counties of the United States 🇺🇸",
+            "homepage": "http://openintrostat.github.io/usdata",
             "id": 275014817,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-02T01:22:42Z",
+            "open_issues": 3,
             "owner": "OpenIntroStat",
             "repo": "usdata",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "data",
+              "openintro",
+              "rstats",
+              "rstats-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2778,12 +4318,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client to access ExperimentHub resources",
+            "homepage": "https://bioconductor.org/packages/ExperimentHub",
             "id": 101312073,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-19T16:09:21Z",
+            "open_issues": 7,
             "owner": "Bioconductor",
             "repo": "ExperimentHub",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "core-package",
+              "u24ca289073"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2794,12 +4342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lvm4net Latent Variable Models for Networks",
+            "homepage": null,
             "id": 28144907,
             "language": "R",
+            "license": null,
             "last_commit": "2021-12-10T20:56:24Z",
+            "open_issues": 2,
             "owner": "igollini",
             "repo": "lvm4net",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2810,12 +4363,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically generate shiny inputs based on the variables of a dataframe",
+            "homepage": "https://karbartolome.github.io/shinymatic/",
             "id": 504356102,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-23T11:20:23Z",
+            "open_issues": 0,
             "owner": "karbartolome",
             "repo": "shinymatic",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "datascience",
+              "r",
+              "shiny"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2826,12 +4388,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extracting mutational signatures via LASSO. The manuscript of the method is published on PLOS Computational Biology and available at: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009119",
+            "homepage": "https://danro9685.github.io/SparseSignatures/",
             "id": 98468975,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-07T09:24:34Z",
+            "open_issues": 0,
             "owner": "danro9685",
             "repo": "SparseSignatures",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2842,12 +4409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prints garbled praise",
+            "homepage": "https://ellakaye.github.io/aperol/",
             "id": 828788186,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-27T15:35:16Z",
+            "open_issues": 1,
             "owner": "EllaKaye",
             "repo": "aperol",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2858,12 +4430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Statistical Framework for Modeling and Identifying Differential Distributions in Single-cell RNA-sequencing Data",
+            "homepage": null,
             "id": 337285038,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-08T08:35:47Z",
+            "open_issues": 0,
             "owner": "Malindrie",
             "repo": "scShapes",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2874,12 +4451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: A smaller codemetar",
+            "homepage": null,
             "id": 262124851,
             "language": "R",
+            "license": null,
             "last_commit": "2023-11-14T16:31:35Z",
+            "open_issues": 2,
             "owner": "cboettig",
             "repo": "codemeta",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2890,12 +4472,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access EMODnet Web Feature Service data through R",
+            "homepage": "https://docs.ropensci.org/emodnet.wfs/",
             "id": 270789361,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-20T12:05:37Z",
+            "open_issues": 5,
             "owner": "EMODnet",
             "repo": "emodnet.wfs",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "biology",
+              "dataproducts",
+              "emodnet",
+              "marine-data",
+              "rstats",
+              "wfs"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2906,12 +4500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://ellakaye.github.io/pregnancy/",
             "id": 375598079,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-15T15:56:05Z",
+            "open_issues": 1,
             "owner": "EllaKaye",
             "repo": "pregnancy",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2922,12 +4521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wordsearch and crossword puzzle generator",
+            "homepage": "https://anthonypileggi.github.io/worrrd/",
             "id": 151271257,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-21T01:21:06Z",
+            "open_issues": 13,
             "owner": "anthonypileggi",
             "repo": "worrrd",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2938,12 +4542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Companion to Advent of Code and Associated Personal Website",
+            "homepage": "https://ellakaye.github.io/aochelpers/",
             "id": 715978208,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-25T20:10:45Z",
+            "open_issues": 6,
             "owner": "EllaKaye",
             "repo": "aochelpers",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2954,12 +4563,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive Rtistry toolset package.",
+            "homepage": "https://meghansaha.github.io/artpack/",
             "id": 547634198,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-17T03:27:49Z",
+            "open_issues": 8,
             "owner": "Meghansaha",
             "repo": "artpack",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "generative-art",
+              "ggplot2",
+              "r",
+              "rtistry"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2970,12 +4589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight package with methods to estimate infectious disease dynamics parameters",
+            "homepage": "https://kylieainslie.github.io/mitey/",
             "id": 791752105,
             "language": "TeX",
+            "license": null,
             "last_commit": "2026-08-26T23:00:28Z",
+            "open_issues": 9,
             "owner": "kylieainslie",
             "repo": "mitey",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2986,12 +4610,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an R tool for standardised rigid rotations of articulated Three-Dimensional structures with application for geometric morphometrics",
+            "homepage": null,
             "id": 118719962,
             "language": "R",
+            "license": null,
             "last_commit": "2021-02-05T03:41:39Z",
+            "open_issues": 0,
             "owner": "marta-vidalgarcia",
             "repo": "ShapeRotator",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "articulated-structures",
+              "dimensional-structures",
+              "geometric-morphometrics",
+              "landmark",
+              "shape",
+              "standardised-rigid-rotations"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3002,12 +4638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paquete de R para procesar y acceder a los datos de SISINTA",
+            "homepage": null,
             "id": 346337421,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-30T21:21:14Z",
+            "open_issues": 4,
             "owner": "INTA-Suelos",
             "repo": "SISINTAR",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3018,12 +4659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools For Generative Art Workflows",
+            "homepage": "https://arttools.djnavarro.net/",
             "id": 668481843,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-19T03:13:32Z",
+            "open_issues": 0,
             "owner": "djnavarro",
             "repo": "arttools",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3034,12 +4680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert files to use R's built-in `penguins` dataset",
+            "homepage": "https://ellakaye.github.io/basepenguins/",
             "id": 940096064,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-10T19:14:56Z",
+            "open_issues": 5,
             "owner": "EllaKaye",
             "repo": "basepenguins",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3050,12 +4701,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 R package for data from the Cherry Blossom Ten Mile Run 🌸",
+            "homepage": "https://openintrostat.github.io/cherryblossom",
             "id": 272399600,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-10T01:03:29Z",
+            "open_issues": 0,
             "owner": "OpenIntroStat",
             "repo": "cherryblossom",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "data",
+              "openintro",
+              "rstats",
+              "rstats-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3066,12 +4727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dySEM",
+            "homepage": "https://jsakaluk.github.io/dySEM/",
             "id": 191775266,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-25T17:47:10Z",
+            "open_issues": 29,
             "owner": "jsakaluk",
             "repo": "dySEM",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3082,12 +4748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Facilitate Exploration of touRR optimisatioN (ferrn)",
+            "homepage": "https://huizezhang-sherry.github.io/ferrn/",
             "id": 262208868,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-20T21:34:11Z",
+            "open_issues": 1,
             "owner": "huizezhang-sherry",
             "repo": "ferrn",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3098,12 +4769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forest Attributes in U.S. States",
+            "homepage": "https://simonpcouch.github.io/forested/",
             "id": 830659569,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T16:23:54Z",
+            "open_issues": 0,
             "owner": "simonpcouch",
             "repo": "forested",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3114,12 +4790,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial Null Models and Transforms for Brain Map Comparison",
+            "homepage": "http://lcbc-uio.github.io/neuromapr/",
             "id": 1156352155,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-30T10:24:06Z",
+            "open_issues": 0,
             "owner": "LCBC-UiO",
             "repo": "neuromapr",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3130,12 +4811,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detecting Outliers in Network Meta-Analysis",
+            "homepage": null,
             "id": 131567067,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2025-09-12T11:48:34Z",
+            "open_issues": 0,
             "owner": "petropouloumaria",
             "repo": "NMAoutlier",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "influence-measures",
+              "mahalanobis-distance",
+              "network-meta-analysis",
+              "outlier",
+              "outlier-detection-measures"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3146,12 +4838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Multi-Threaded Task Queuing",
+            "homepage": "https://queue.djnavarro.net/",
             "id": 578868820,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-19T03:13:46Z",
+            "open_issues": 0,
             "owner": "djnavarro",
             "repo": "queue",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3162,12 +4859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R data package for alternative text for media attached to TidyTuesday tweets",
+            "homepage": null,
             "id": 335745058,
             "language": "R",
+            "license": "CC-BY-4.0",
             "last_commit": "2022-08-09T19:15:21Z",
+            "open_issues": 2,
             "owner": "spcanelon",
             "repo": "TidyTuesdayAltText",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3178,12 +4880,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Summarized data on cases of COVID-19 in Tunisia",
+            "homepage": "https://mounabelaid.shinyapps.io/coronavirus/",
             "id": 263910992,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-30T14:31:47Z",
+            "open_issues": 2,
             "owner": "MounaBelaid",
             "repo": "covid19tunisia",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "coronavirus",
+              "coronavirus-tracking",
+              "covid-19",
+              "covid-19-tunisia",
+              "covid-19data"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3194,12 +4907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inference from both epidemiological and genetic data. Functions generate input files for EpiGenMCMC and to visualise output.",
+            "homepage": null,
             "id": 63424701,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2020-08-19T20:47:54Z",
+            "open_issues": 0,
             "owner": "lucymli",
             "repo": "EpiGenR",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3210,12 +4928,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R-Shiny package to explore Air-Pollution Mobile Monitoring data ",
+            "homepage": null,
             "id": 263698537,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-10T08:43:08Z",
+            "open_issues": 1,
             "owner": "meenakshi-kushwaha",
             "repo": "mmaqshiny",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3226,12 +4949,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rOpenSci blog helpers",
+            "homepage": "https://docs.ropensci.org/roblog",
             "id": 151410988,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-18T14:57:52Z",
+            "open_issues": 4,
             "owner": "ropensci-org",
             "repo": "roblog",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "r",
+              "r-package",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3242,12 +4974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Emax model fit with Stan",
+            "homepage": "https://yoshidk6.github.io/rstanemax/",
             "id": 170807759,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-13T07:05:36Z",
+            "open_issues": 22,
             "owner": "yoshidk6",
             "repo": "rstanemax",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3258,12 +4995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paquete que descarga y lee datos del Sistema de Información y Gestión Agrometeorológica del INTA ",
+            "homepage": "https://github.com/AgRoMeteorologiaINTA/agromet",
             "id": 302981282,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-21T08:23:31Z",
+            "open_issues": 2,
             "owner": "AgRoMeteorologiaINTA",
             "repo": "siga",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3274,12 +5016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repositorio del tutorial para generar gráficos en R festejando a Florence Nightingale realizado con learnr",
+            "homepage": null,
             "id": 265384602,
             "language": "CSS",
+            "license": "CC-BY-4.0",
             "last_commit": "2021-05-11T20:51:51Z",
+            "open_issues": 0,
             "owner": "yabellini",
             "repo": "tutorialgRaficosFN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3290,12 +5037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💫 R wrapper around the VoteSmart galaxy of data  💫",
+            "homepage": "https://justfacts.votesmart.org/",
             "id": 238507320,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-01T14:45:38Z",
+            "open_issues": 1,
             "owner": "decktools",
             "repo": "votesmart",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3306,12 +5058,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package of utility functions for working with vulture data",
+            "homepage": null,
             "id": 505986601,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-16T21:20:58Z",
+            "open_issues": 17,
             "owner": "kaijagahm",
             "repo": "vultureUtils",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "networks",
+              "vultures"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3322,12 +5082,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny App for helping process BC aquifer data",
+            "homepage": "https://bcgov.github.io/bcaquiferdata/",
             "id": 448135095,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-25T21:06:45Z",
+            "open_issues": 4,
             "owner": "bcgov",
             "repo": "bcaquiferdata",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3338,12 +5103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infer the adjacency matrix of a network from time course data using an empirical Bayes estimation procedure based on Dynamic Bayesian Networks.",
+            "homepage": null,
             "id": 71287688,
             "language": "C",
+            "license": null,
             "last_commit": "2023-09-04T14:17:35Z",
+            "open_issues": 0,
             "owner": "andreamrau",
             "repo": "ebdbNet",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3354,12 +5124,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package provides the data used in the Health Metrics and the Spread of Infectious Diseases with R book",
+            "homepage": "https://fgazzelloni.github.io/hmsidwR/",
             "id": 768163778,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-16T08:56:50Z",
+            "open_issues": 1,
             "owner": "fgazzelloni",
             "repo": "hmsidwR",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "deaths",
+              "health-data",
+              "infectious-diseases",
+              "lifeexpectancy"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3370,12 +5150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package is an assortment of functions that aid R programming.",
+            "homepage": null,
             "id": 139880898,
             "language": "R",
+            "license": null,
             "last_commit": "2026-02-18T13:49:33Z",
+            "open_issues": 0,
             "owner": "sysilviakim",
             "repo": "Kmisc",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3386,12 +5171,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for log-multiplicative models, including association models",
+            "homepage": "http://cran.r-project.org/web/packages/logmult/",
             "id": 23069097,
             "language": "R",
+            "license": null,
             "last_commit": "2025-08-26T12:00:15Z",
+            "open_issues": 0,
             "owner": "nalimilan",
             "repo": "logmult",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "log-linear-model",
+              "modelling",
+              "r",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3402,12 +5197,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset containing radio frequencies, geo-locations, and habitat types for Oregon frogs",
+            "homepage": "https://fgazzelloni.github.io/oregonfrogs/",
             "id": 526891877,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-27T17:45:27Z",
+            "open_issues": 0,
             "owner": "fgazzelloni",
             "repo": "oregonfrogs",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "classification-model",
+              "frequency-analysis",
+              "geolocation",
+              "regression-analysis",
+              "rstats",
+              "rstats-package",
+              "spatial-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3418,12 +5226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to help manage, construct, and reshape PSID data files in a simplified way using existing text from the official website.",
+            "homepage": null,
             "id": 736843802,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-20T21:00:13Z",
+            "open_issues": 0,
             "owner": "Qcrates",
             "repo": "psidread",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3434,12 +5247,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily analyze the file contents of Shiny apps 🗂️",
+            "homepage": "https://dalyanalytics.github.io/shinyfa/",
             "id": 934367779,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-10T18:29:49Z",
+            "open_issues": 0,
             "owner": "dalyanalytics",
             "repo": "shinyfa",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "analysis",
+              "r-lang",
+              "rstats",
+              "shiny",
+              "shiny-r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3450,12 +5274,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 R package for data on airports 🛫",
+            "homepage": "http://openintrostat.github.io/airports",
             "id": 272937326,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-10T01:08:05Z",
+            "open_issues": 2,
             "owner": "OpenIntroStat",
             "repo": "airports",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "data",
+              "openintro",
+              "rstats",
+              "rstats-package"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3466,12 +5300,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R code to report on the current status of observation well groundwater levels",
+            "homepage": null,
             "id": 344224506,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-07T17:38:00Z",
+            "open_issues": 1,
             "owner": "bcgov",
             "repo": "bcgwlreports",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bcgov",
+              "env",
+              "groundwater"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3482,12 +5325,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use the Early Pandemic Age-structured Compartmental (EPAC) model",
+            "homepage": "https://phac-modelling-hub.github.io/EPACmodel/",
             "id": 650812719,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-03T13:40:43Z",
+            "open_issues": 18,
             "owner": "phac-modelling-hub",
             "repo": "EPACmodel",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "modeling",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3498,12 +5349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 R package for Supplemental Materials for the Hello Data Science Book",
+            "homepage": "https://hellodata-science.github.io/hellodatascience/",
             "id": 1132856402,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-12T17:16:02Z",
+            "open_issues": 0,
             "owner": "hellodata-science",
             "repo": "hellodatascience",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3514,12 +5370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 165838424,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-29T07:49:59Z",
+            "open_issues": 2,
             "owner": "husson",
             "repo": "missMDA",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3530,12 +5391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 149791202,
             "language": "R",
+            "license": null,
             "last_commit": "2018-12-07T04:12:12Z",
+            "open_issues": 4,
             "owner": "apjacobson",
             "repo": "parmsurvfit",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3546,12 +5412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for a 4 hour workshop with quick introduction to tidyverse",
+            "homepage": "http://drmowinckels.io/tidyquintro/",
             "id": 290709855,
             "language": "R",
+            "license": "CC-BY-4.0",
             "last_commit": "2023-08-23T07:23:31Z",
+            "open_issues": 0,
             "owner": "drmowinckels",
             "repo": "tidyquintro",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3562,12 +5433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "USCensus2020 provides easy access to the demographic data and shape files released by US Census",
+            "homepage": null,
             "id": 497522439,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-26T06:30:54Z",
+            "open_issues": 2,
             "owner": "shreshtha48",
             "repo": "USCensus2020",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3578,12 +5454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Palette and themes for Washington Soil Health Initiative branding",
+            "homepage": "https://wa-department-of-agriculture.github.io/washi/",
             "id": 621060101,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-16T19:25:31Z",
+            "open_issues": 0,
             "owner": "WA-Department-of-Agriculture",
             "repo": "washi",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3594,12 +5475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Block Bootstrap Method for Longitudinal  Microbiome Data",
+            "homepage": "https://pratheepaj.github.io/bootLong/",
             "id": 121357751,
             "language": "R",
+            "license": null,
             "last_commit": "2020-04-02T13:52:43Z",
+            "open_issues": 1,
             "owner": "PratheepaJ",
             "repo": "bootLong",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3610,12 +5496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for analysis helpers",
+            "homepage": null,
             "id": 101250864,
             "language": "R",
+            "license": null,
             "last_commit": "2019-05-03T21:36:37Z",
+            "open_issues": 0,
             "owner": "aedobbyn",
             "repo": "dobtools",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3626,12 +5517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 100307954,
             "language": "R",
+            "license": null,
             "last_commit": "2023-12-08T17:40:11Z",
+            "open_issues": 0,
             "owner": "forwards",
             "repo": "forwards",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3642,12 +5538,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 199467953,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T09:14:52Z",
+            "open_issues": 0,
             "owner": "OttaviaE",
             "repo": "implicitMeasures",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "iat",
+              "implicit-measures",
+              "sc-iat"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3658,12 +5563,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package to work with UiO nettskjema",
+            "homepage": "https://www.capro.dev/nettskjemar/",
             "id": 206264675,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-08T22:27:46Z",
+            "open_issues": 0,
             "owner": "capro-uio",
             "repo": "nettskjemar",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3674,12 +5584,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Area and volume calculation of riverbed changes",
+            "homepage": null,
             "id": 69460885,
             "language": "R",
+            "license": null,
             "last_commit": "2023-02-16T09:57:54Z",
+            "open_issues": 0,
             "owner": "lvaudor",
             "repo": "riverbed",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3690,12 +5605,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny app to provide tools for those using EMS groundwater",
+            "homepage": "https://bcgov.github.io/bcgwcat/",
             "id": 190086473,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-12T17:57:30Z",
+            "open_issues": 9,
             "owner": "bcgov",
             "repo": "bcgwcat",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "aquachem",
+              "chemistry",
+              "ems",
+              "r",
+              "water"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3706,12 +5632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluate timeseries forecasts",
+            "homepage": "https://phac-nml-phrsd.github.io/casteval/",
             "id": 846701839,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-27T15:33:40Z",
+            "open_issues": 9,
             "owner": "phac-nml-phrsd",
             "repo": "casteval",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3722,12 +5653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Empirical Saddlepoint Approximation Based Method for Smoothing Survival Functions Under Right Censoring",
+            "homepage": null,
             "id": 149573274,
             "language": "R",
+            "license": null,
             "last_commit": "2018-09-20T08:16:50Z",
+            "open_issues": 0,
             "owner": "PratheepaJ",
             "repo": "ESPA",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3738,12 +5674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package of helper functions for my own frequent use.",
+            "homepage": null,
             "id": 77569155,
             "language": "R",
+            "license": null,
             "last_commit": "2017-02-22T21:12:08Z",
+            "open_issues": 16,
             "owner": "jenniferthompson",
             "repo": "JTHelpers",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3754,12 +5695,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 308474707,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-19T01:02:06Z",
+            "open_issues": 3,
             "owner": "yabellini",
             "repo": "learnres",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3770,12 +5716,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 87838588,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-03T14:49:52Z",
+            "open_issues": 1,
             "owner": "fulyagokalp",
             "repo": "lmmpar",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3786,12 +5737,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package for performing Principal Component Analysis-based Data Structure Comparisons (PCADSC)",
+            "homepage": null,
             "id": 74759620,
             "language": "TeX",
+            "license": null,
             "last_commit": "2025-05-21T07:40:00Z",
+            "open_issues": 0,
             "owner": "annennenne",
             "repo": "PCADSC",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "data-structures",
+              "exploratory-data-visualizations",
+              "principal-component-analysis",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3802,12 +5763,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package to compute scores for different regression models.",
+            "homepage": null,
             "id": 120829291,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2018-04-22T21:03:45Z",
+            "open_issues": 0,
             "owner": "UBC-MDS-2017-18",
             "repo": "regscoreR",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "aic",
+              "bic",
+              "feature-selection",
+              "mallow",
+              "r",
+              "score"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3818,12 +5791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data from the Welham et al (2015) Statistical Methods in Biology",
+            "homepage": "http://emitanaka.org/smbdata/",
             "id": 1060034610,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-21T01:50:12Z",
+            "open_issues": 0,
             "owner": "emitanaka",
             "repo": "smbdata",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3834,12 +5812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Estimate the Probability in the Upper Tail of the Aggregate Loss Distribution",
+            "homepage": null,
             "id": 38750421,
             "language": "R",
+            "license": null,
             "last_commit": "2015-07-08T11:39:00Z",
+            "open_issues": 0,
             "owner": "igollini",
             "repo": "tailloss",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3850,12 +5833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial learnr de introducción a Text Mining",
+            "homepage": null,
             "id": 367035232,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-05-19T11:35:26Z",
+            "open_issues": 0,
             "owner": "yabellini",
             "repo": "TextMiningTutorial",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3866,12 +5854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Survival Analysis for Weighted Composite Endpoints",
+            "homepage": null,
             "id": 653872701,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T21:03:13Z",
+            "open_issues": 0,
             "owner": "sarah-0k",
             "repo": "wcep",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3882,12 +5875,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package which models and predicts wood flux based on videomonitoring and discharge data",
+            "homepage": "http://perso.ens-lyon.fr/lise.vaudor/Rpackages/woody",
             "id": 301959926,
             "language": "R",
+            "license": null,
             "last_commit": "2022-03-15T14:49:52Z",
+            "open_issues": 0,
             "owner": "lvaudor",
             "repo": "woody",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "discharge",
+              "rstat",
+              "video-monitoring",
+              "wood"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3898,12 +5901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of functions that have come in useful in handling ARU data",
+            "homepage": "https://arutools.github.io/ARUtools/",
             "id": 433163719,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-17T18:23:56Z",
+            "open_issues": 4,
             "owner": "ARUtools",
             "repo": "ARUtools",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3914,12 +5922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  BayesCVI — Bayesian Cluster Validity Index  ",
+            "homepage": null,
             "id": 968689239,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-05T02:52:01Z",
+            "open_issues": 0,
             "owner": "O-PREEDASAWAKUL",
             "repo": "BayesCVI",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3930,12 +5943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an implementation of the Chartkick.js library in R using the htmlwidgets framework.",
+            "homepage": null,
             "id": 685415809,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-22T14:15:25Z",
+            "open_issues": 0,
             "owner": "BWOlatunji",
             "repo": "chartkickR",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3946,12 +5964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1121669416,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-12-23T11:16:34Z",
+            "open_issues": 0,
             "owner": "csids",
             "repo": "cstime",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3962,12 +5985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EscrocR: a R package implementing the model ESCROC",
+            "homepage": null,
             "id": 158558235,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-07T12:43:21Z",
+            "open_issues": 0,
             "owner": "Irstea",
             "repo": "escroc",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3978,12 +6006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 53404163,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2016-03-08T11:01:38Z",
+            "open_issues": 0,
             "owner": "lucymli",
             "repo": "GenBank",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3994,12 +6027,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://ggsegverse.github.io/ggseg.formats/",
             "id": 629831036,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:29:50Z",
+            "open_issues": 1,
             "owner": "ggsegverse",
             "repo": "ggseg.formats",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4010,12 +6048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Additional brain meshes for ggseg3d in the ggsegverse ecosystem",
+            "homepage": "https://ggsegverse.github.io/ggseg.meshes/",
             "id": 1199521052,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:29:38Z",
+            "open_issues": 1,
             "owner": "ggsegverse",
             "repo": "ggseg.meshes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4026,12 +6069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package in progress about simulating genotyped family data with gene-environment correlation and calculating power.",
+            "homepage": null,
             "id": 791508234,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-04T09:16:42Z",
+            "open_issues": 0,
             "owner": "josefinabernardo",
             "repo": "gnomesims",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4042,12 +6090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add-on package to manage environmental data and use it with Haplin",
+            "homepage": "https://jromanowska.github.io/HaplinMethyl/",
             "id": 350686987,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-03-31T13:00:08Z",
+            "open_issues": 4,
             "owner": "jromanowska",
             "repo": "HaplinMethyl",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4058,12 +6111,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package to read in specific yaml files and convert them to tibbles for analysis of CPD data.",
+            "homepage": "https://statsrhian.github.io/levelup/",
             "id": 277090335,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-20T16:15:58Z",
+            "open_issues": 10,
             "owner": "StatsRhian",
             "repo": "levelup",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cpd",
+              "professional-development",
+              "rmarkdown-template",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4074,12 +6137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  model4you — Stratified and Personalised Models Based on Model-Based Trees and Forests  ",
+            "homepage": null,
             "id": 117701502,
             "language": "R",
+            "license": null,
             "last_commit": "2026-02-12T11:10:47Z",
+            "open_issues": 1,
             "owner": "cran",
             "repo": "model4you",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4090,12 +6158,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arizona's beauty captured in R",
+            "homepage": null,
             "id": 339881469,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-08T23:06:33Z",
+            "open_issues": 0,
             "owner": "sborrego",
             "repo": "saguaRo",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "color",
+              "color-palette"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4106,12 +6182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub repo for CRAN sendplot package",
+            "homepage": null,
             "id": 109736411,
             "language": "R",
+            "license": null,
             "last_commit": "2017-11-06T18:57:47Z",
+            "open_issues": 3,
             "owner": "lshep",
             "repo": "sendplot",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4122,12 +6203,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R Package for Serology Data Analysis, Visualisation and Application of a Machine Learning Classification Model.",
+            "homepage": "https://dionnecargy.github.io/SeroTrackR/",
             "id": 1016494729,
             "language": "HTML",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-06-05T03:18:29Z",
+            "open_issues": 0,
             "owner": "dionnecargy",
             "repo": "SeroTrackR",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "data-analysis",
+              "package",
+              "r",
+              "r-package",
+              "serology"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4138,12 +6230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Saddlepoint-Based Boostratp (SPBB) Inference for Spatial Dependence",
+            "homepage": null,
             "id": 93351239,
             "language": "R",
+            "license": null,
             "last_commit": "2018-12-05T22:08:48Z",
+            "open_issues": 0,
             "owner": "PratheepaJ",
             "repo": "SPBBspatial",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4154,12 +6251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repositorio del tutorial de learnr para aprender a iterar en R",
+            "homepage": null,
             "id": 316985669,
             "language": "CSS",
+            "license": "CC-BY-4.0",
             "last_commit": "2021-04-25T14:53:21Z",
+            "open_issues": 0,
             "owner": "yabellini",
             "repo": "TutorialIterar",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -4170,12 +6272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proyecto para obtener datos de la comisión de la verdad de Ecuador",
+            "homepage": null,
             "id": 793317956,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-01T21:06:59Z",
+            "open_issues": 0,
             "owner": "Demografiando",
             "repo": "verdadecu",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         }
@@ -4184,15 +6291,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:10:49.630Z",
+    "last_updated": "2026-08-29T04:59:17.984Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
+      "homepage": null,
       "id": 340234327,
       "language": "R",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-01T11:11:49Z",
+      "open_issues": 57,
       "owner": "rladies",
       "repo": "awesome-rladies-creations",
-      "stars": 93
+      "stars": 93,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rladies"
+      ]
     },
     "original_repository_sha": "7717f31a3fd5b838bf545a0b5eadd973faf53201",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
