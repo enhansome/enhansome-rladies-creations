@@ -61,7 +61,7 @@
             "open_issues": 147,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6989,
+            "stars": 6990,
             "topics": [
               "data-visualisation",
               "r",
@@ -86,7 +86,7 @@
             "open_issues": 6,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2518,
+            "stars": 2517,
             "topics": [
               "package-creation",
               "r"
@@ -383,7 +383,7 @@
             "open_issues": 29,
             "owner": "tidyverse",
             "repo": "reprex",
-            "stars": 753,
+            "stars": 754,
             "topics": [
               "github",
               "r",
@@ -763,7 +763,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T21:29:20Z",
+            "last_commit": "2026-08-29T15:37:32Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -818,7 +818,7 @@
             "open_issues": 3,
             "owner": "sckott",
             "repo": "cowsay",
-            "stars": 351,
+            "stars": 349,
             "topics": [
               "ascii-art",
               "r",
@@ -840,7 +840,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T23:14:16Z",
+            "last_commit": "2026-08-29T17:25:07Z",
             "open_issues": 41,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -1340,7 +1340,7 @@
             "id": 20771527,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-25T22:31:31Z",
+            "last_commit": "2026-08-29T18:03:06Z",
             "open_issues": 98,
             "owner": "nimble-dev",
             "repo": "nimble",
@@ -2107,7 +2107,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T02:31:31Z",
+            "last_commit": "2026-08-29T17:59:10Z",
             "open_issues": 9,
             "owner": "r-hub",
             "repo": "cransays",
@@ -5269,6 +5269,27 @@
         },
         {
           "node_type": "item",
+          "title": "washi",
+          "description": "by Jadey Ryan, Molly McIlquham, Dani Gelardi, Washington State Department of Agriculture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Palette and themes for Washington Soil Health Initiative branding",
+            "homepage": "https://wa-department-of-agriculture.github.io/washi/",
+            "id": 621060101,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2025-09-16T19:25:31Z",
+            "open_issues": 0,
+            "owner": "WA-Department-of-Agriculture",
+            "repo": "washi",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "airports",
           "description": "by Mine Çetinkaya-Rundel",
           "children": [],
@@ -5442,27 +5463,6 @@
             "open_issues": 2,
             "owner": "shreshtha48",
             "repo": "USCensus2020",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "washi",
-          "description": "by Jadey Ryan, Molly McIlquham, Dani Gelardi, Washington State Department of Agriculture",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Palette and themes for Washington Soil Health Initiative branding",
-            "homepage": "https://wa-department-of-agriculture.github.io/washi/",
-            "id": 621060101,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2025-09-16T19:25:31Z",
-            "open_issues": 0,
-            "owner": "WA-Department-of-Agriculture",
-            "repo": "washi",
             "stars": 3,
             "topics": []
           },
@@ -6291,7 +6291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:17.984Z",
+    "last_updated": "2026-08-29T19:59:29.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",

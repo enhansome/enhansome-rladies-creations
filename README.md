@@ -123,11 +123,11 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Brandon Hill, Sebastian Vidrio, Surekha Jadhawani, Amy Wang, Raymond
   Peck, Jan Gorecki, Matt Dowle, Yuan Tang, Lauren DiPerna, Veronika
   Maurerova, Yuliia Syzon, Adam Valenta, Marek Novotny, H2O.ai
-* [ggplot2](https://github.com/tidyverse/ggplot2) ⭐ 6,989 | 🐛 147 | 🌐 R | 📅 2026-04-22 by Hadley Wickham,
+* [ggplot2](https://github.com/tidyverse/ggplot2) ⭐ 6,990 | 🐛 147 | 🌐 R | 📅 2026-04-22 by Hadley Wickham,
   Winston Chang, Lionel Henry, Thomas Lin Pedersen, Kohske Takahashi,
   Claus Wilke, Kara Woo, Hiroaki Yutani, Dewey Dunnington, Teun van den
   Brand, Posit, PBC
-* [devtools](https://github.com/r-lib/devtools) ⭐ 2,518 | 🐛 6 | 🌐 R | 📅 2026-08-18 by Hadley Wickham, Jim
+* [devtools](https://github.com/r-lib/devtools) ⭐ 2,517 | 🐛 6 | 🌐 R | 📅 2026-08-18 by Hadley Wickham, Jim
   Hester, Winston Chang, Jennifer Bryan, Posit Software, PBC
 * [blogdown](https://github.com/rstudio/blogdown) ⭐ 1,791 | 🐛 29 | 🌐 R | 📅 2026-06-19 by Yihui Xie,
   Christophe Dervieux, Alison Presmanes Hill, Amber Thomas, Beilei Bian,
@@ -170,7 +170,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [pkgdown](https://github.com/r-lib/pkgdown) ⭐ 773 | 🐛 104 | 🌐 R | 📅 2026-08-12 by Hadley Wickham, Jay
   Hesselberth, Maëlle Salmon, Olivier Roy, Salim Brüggemann, Posit
   Software, PBC
-* [reprex](https://github.com/tidyverse/reprex) ⭐ 753 | 🐛 29 | 🌐 R | 📅 2026-04-10 by Jennifer Bryan, Jim
+* [reprex](https://github.com/tidyverse/reprex) ⭐ 754 | 🐛 29 | 🌐 R | 📅 2026-04-10 by Jennifer Bryan, Jim
   Hester, David Robinson, Hadley Wickham, Christophe Dervieux, Posit
   Software, PBC
 * [readxl](https://github.com/tidyverse/readxl) ⭐ 752 | 🐛 51 | 🌐 C++ | 📅 2026-05-17 by Hadley Wickham,
@@ -216,16 +216,16 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Boettiger Carl, Andrew Martin, Mark Thompson, Tyler Hunt, Steven
   Akins, Bao Nguyen, Thierry Onkelinx, Andrii Degtiarov, Dhruv Aggarwal,
   Alyssa Columbus, Simon Urbanek
-* [googlesheets4](https://github.com/tidyverse/googlesheets4) ⭐ 377 | 🐛 37 | 🌐 R | 📅 2026-08-28 by
+* [googlesheets4](https://github.com/tidyverse/googlesheets4) ⭐ 377 | 🐛 37 | 🌐 R | 📅 2026-08-29 by
   Jennifer Bryan, Posit Software, PBC
 * [rhub](https://github.com/r-hub/rhub) ⭐ 366 | 🐛 46 | 🌐 R | 📅 2025-03-07 by Gábor Csárdi, Maëlle Salmon,
   R Consortium
-* [cowsay](https://github.com/sckott/cowsay) ⭐ 351 | 🐛 3 | 🌐 HTML | 📅 2025-10-29 by Scott Chamberlain,
+* [cowsay](https://github.com/sckott/cowsay) ⭐ 349 | 🐛 3 | 🌐 HTML | 📅 2025-10-29 by Scott Chamberlain,
   Amanda Dobbyn, Tyler Rinker, Thomas Leeper, Noam Ross, Rich FitzJohn,
   Carson Sievert, Kiyoko Gotanda, Andy Teucher, Karl Broman,
   Franz-Sebastian Krah, Lucy D’Agostino McGowan, Guangchuang Yu, Philipp
   Boersch-Supan, Andreas Brandmaier, Marion Louveaux, David Schoch
-* [googledrive](https://github.com/tidyverse/googledrive) ⭐ 346 | 🐛 41 | 🌐 R | 📅 2026-08-28 by Lucy
+* [googledrive](https://github.com/tidyverse/googledrive) ⭐ 346 | 🐛 41 | 🌐 R | 📅 2026-08-29 by Lucy
   D’Agostino McGowan, Jennifer Bryan, Posit Software, PBC
 * [datasauRus](https://github.com/jumpingrivers/datasauRus) ⭐ 345 | 🐛 1 | 🌐 R | 📅 2025-01-23 by Colin
   Gillespie, Steph Locke, Alberto Cairo, Rhian Davies, Justin Matejka,
@@ -275,7 +275,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [memer](https://github.com/sctyner/memer) ⭐ 204 | 🐛 5 | 🌐 R | 📅 2021-08-05 by Sam Tyner, Haley Jeppson
 * [vetiver](https://github.com/rstudio/vetiver-r/) ⭐ 199 | 🐛 29 | 🌐 R | 📅 2026-08-23 by Julia Silge, Posit
   Software, PBC
-* [nimble](https://github.com/nimble-dev/nimble) ⭐ 197 | 🐛 98 | 🌐 C++ | 📅 2026-08-25 by Perry de Valpine,
+* [nimble](https://github.com/nimble-dev/nimble) ⭐ 197 | 🐛 98 | 🌐 C++ | 📅 2026-08-29 by Perry de Valpine,
   Christopher Paciorek, Daniel Turek, Nick Michaud, Cliff
   Anderson-Bergman, Fritz Obermeyer, Claudia Wehrhahn Cortes, Abel
   Rodríguez, Duncan Temple Lang, Wei Zhang, Sally Paganin, Joshua Hug,
@@ -639,6 +639,9 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Gazzelloni
 * [psidread](https://github.com/Qcrates/psidread) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2026-06-20 by Shuyi Qiu
 * [shinyfa](https://github.com/dalyanalytics/shinyfa) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2025-11-10 by Jasmine Daly
+* [washi](https://github.com/WA-Department-of-Agriculture/washi) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2025-09-16 by
+  Jadey Ryan, Molly McIlquham, Dani Gelardi, Washington State Department
+  of Agriculture
 * [airports](https://github.com/OpenIntroStat/airports) ⭐ 3 | 🐛 2 | 🌐 R | 📅 2024-01-10 by Mine
   Çetinkaya-Rundel
 * [bcgwlreports](https://github.com/bcgov/bcgwlreports) ⭐ 3 | 🐛 1 | 🌐 R | 📅 2024-08-07 by Steffi
@@ -655,9 +658,6 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Athanasia Mo Mowinckel
 * [USCensus2020](https://github.com/shreshtha48/USCensus2020) ⭐ 3 | 🐛 2 | 🌐 R | 📅 2024-04-26 by
   shreshtha modi
-* [washi](https://github.com/WA-Department-of-Agriculture/washi) ⭐ 3 | 🐛 0 | 🌐 R | 📅 2025-09-16 by
-  Jadey Ryan, Molly McIlquham, Dani Gelardi, Washington State Department
-  of Agriculture
 * [bootLong](https://github.com/PratheepaJ/bootLong) ⭐ 2 | 🐛 1 | 🌐 R | 📅 2020-04-02 by Jeganathan
   Pratheepa, Holmes, Susan
 * [dobtools](https://github.com/aedobbyn/dobtools) ⭐ 2 | 🐛 0 | 🌐 R | 📅 2019-05-03 by Amanda Dobbyn
