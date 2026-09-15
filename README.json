@@ -16,7 +16,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-08T13:10:41Z",
-            "open_issues": 2881,
+            "open_issues": 2879,
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7504,
@@ -61,7 +61,7 @@
             "open_issues": 124,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6992,
+            "stars": 6994,
             "topics": [
               "data-visualisation",
               "r",
@@ -86,7 +86,7 @@
             "open_issues": 9,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2517,
+            "stars": 2518,
             "topics": [
               "package-creation",
               "r"
@@ -307,7 +307,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T19:22:13Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "r-lib",
             "repo": "usethis",
             "stars": 922,
@@ -507,11 +507,11 @@
             "id": 28829926,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-13T23:30:41Z",
+            "last_commit": "2026-09-15T13:38:57Z",
             "open_issues": 172,
             "owner": "igraph",
             "repo": "rigraph",
-            "stars": 620,
+            "stars": 621,
             "topics": [
               "complex-networks",
               "graph-algorithms",
@@ -763,7 +763,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T16:51:25Z",
+            "last_commit": "2026-09-15T15:30:35Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -861,7 +861,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T18:55:54Z",
+            "last_commit": "2026-09-15T17:49:44Z",
             "open_issues": 42,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -1017,7 +1017,7 @@
             "id": 50974710,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-14T20:25:25Z",
+            "last_commit": "2026-09-15T18:56:49Z",
             "open_issues": 28,
             "owner": "neuhausi",
             "repo": "canvasXpress",
@@ -1081,7 +1081,7 @@
             "language": "R",
             "license": null,
             "last_commit": "2026-08-16T01:39:12Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "ecpolley",
             "repo": "SuperLearner",
             "stars": 294,
@@ -1130,7 +1130,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T14:45:59Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "ggsegverse",
             "repo": "ggseg",
             "stars": 273,
@@ -2107,7 +2107,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T19:40:48Z",
+            "last_commit": "2026-09-15T17:23:15Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -2401,8 +2401,8 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T20:13:36Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-15T18:09:46Z",
+            "open_issues": 12,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66,
@@ -3463,6 +3463,30 @@
         },
         {
           "node_type": "item",
+          "title": "AnnotationHub",
+          "description": "by Bioconductor Package Maintainer, Martin Morgan, Marc Carlson, Dan Tenenbaum, Sonali Arora, Valerie Oberchain, Kayla Morrell, Lori Shepherd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": " Client for the Bioconductor AnnotationHub web resource",
+            "homepage": "https://bioconductor.org/packages/AnnotationHub",
+            "id": 101198961,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-06-30T17:56:19Z",
+            "open_issues": 11,
+            "owner": "Bioconductor",
+            "repo": "AnnotationHub",
+            "stars": 20,
+            "topics": [
+              "core-package",
+              "u24ca289073"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "tableHTML",
           "description": "by Theo Boutaris, Clemens Zauchner, Dana Jomar",
           "children": [],
@@ -3528,30 +3552,6 @@
             "topics": [
               "agricultura",
               "meteorologia"
-            ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AnnotationHub",
-          "description": "by Bioconductor Package Maintainer, Martin Morgan, Marc Carlson, Dan Tenenbaum, Sonali Arora, Valerie Oberchain, Kayla Morrell, Lori Shepherd",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": " Client for the Bioconductor AnnotationHub web resource",
-            "homepage": "https://bioconductor.org/packages/AnnotationHub",
-            "id": 101198961,
-            "language": "R",
-            "license": null,
-            "last_commit": "2026-06-30T17:56:19Z",
-            "open_issues": 11,
-            "owner": "Bioconductor",
-            "repo": "AnnotationHub",
-            "stars": 19,
-            "topics": [
-              "core-package",
-              "u24ca289073"
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -4049,6 +4049,27 @@
         },
         {
           "node_type": "item",
+          "title": "sessioncheck",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Checks Session Status",
+            "homepage": "https://sessioncheck.djnavarro.net/",
+            "id": 1065783320,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-13T11:23:26Z",
+            "open_issues": 1,
+            "owner": "djnavarro",
+            "repo": "sessioncheck",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "simex",
           "description": "by Wolfgang Lederer, Heidi Seibold, Helmut Küchenhoff, Chris Lawrence, Rasmus Froberg Brøndum",
           "children": [],
@@ -4184,27 +4205,6 @@
             "open_issues": 1,
             "owner": "serenasignorelli",
             "repo": "QueryWikidataR",
-            "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sessioncheck",
-          "description": "by Danielle Navarro",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Checks Session Status",
-            "homepage": "https://sessioncheck.djnavarro.net/",
-            "id": 1065783320,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-13T11:23:26Z",
-            "open_issues": 1,
-            "owner": "djnavarro",
-            "repo": "sessioncheck",
             "stars": 13,
             "topics": []
           },
@@ -6291,7 +6291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:03:59.610Z",
+    "last_updated": "2026-09-15T20:27:26.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
