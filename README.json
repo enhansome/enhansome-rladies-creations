@@ -61,7 +61,7 @@
             "open_issues": 124,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6994,
+            "stars": 6997,
             "topics": [
               "data-visualisation",
               "r",
@@ -507,7 +507,7 @@
             "id": 28829926,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-15T13:38:57Z",
+            "last_commit": "2026-09-15T23:43:04Z",
             "open_issues": 172,
             "owner": "igraph",
             "repo": "rigraph",
@@ -537,7 +537,7 @@
             "language": "R",
             "license": "LGPL-3.0",
             "last_commit": "2026-07-31T02:02:58Z",
-            "open_issues": 221,
+            "open_issues": 222,
             "owner": "benjjneb",
             "repo": "dada2",
             "stars": 555,
@@ -599,7 +599,7 @@
             "open_issues": 6,
             "owner": "ropensci-review-tools",
             "repo": "goodpractice",
-            "stars": 480,
+            "stars": 481,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -763,7 +763,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T15:30:35Z",
+            "last_commit": "2026-09-16T15:24:06Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -861,7 +861,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T17:49:44Z",
+            "last_commit": "2026-09-16T17:47:58Z",
             "open_issues": 42,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -1017,7 +1017,7 @@
             "id": 50974710,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-15T18:56:49Z",
+            "last_commit": "2026-09-15T22:21:23Z",
             "open_issues": 28,
             "owner": "neuhausi",
             "repo": "canvasXpress",
@@ -1896,7 +1896,7 @@
             "open_issues": 1,
             "owner": "juliasilge",
             "repo": "janeaustenr",
-            "stars": 97,
+            "stars": 96,
             "topics": [
               "jane-austen",
               "novels",
@@ -2107,7 +2107,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T17:23:15Z",
+            "last_commit": "2026-09-16T17:22:06Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -2401,8 +2401,8 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T18:09:46Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-16T20:12:28Z",
+            "open_issues": 13,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66,
@@ -2727,8 +2727,8 @@
             "id": 100528653,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T15:07:00Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-16T17:29:25Z",
+            "open_issues": 6,
             "owner": "InsightRX",
             "repo": "PKPDsim",
             "stars": 51,
@@ -2739,6 +2739,27 @@
               "pharmacometrics",
               "r"
             ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "qtwAcademic",
+          "description": "by Chi Zhang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Quarto Website Templates for Academics",
+            "homepage": "https://chizapoth.github.io/qtwAcademic/",
+            "id": 577852964,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2023-01-12T10:59:29Z",
+            "open_issues": 1,
+            "owner": "chizapoth",
+            "repo": "qtwAcademic",
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2787,27 +2808,6 @@
               "r-package",
               "rstats"
             ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "qtwAcademic",
-          "description": "by Chi Zhang",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Quarto Website Templates for Academics",
-            "homepage": "https://chizapoth.github.io/qtwAcademic/",
-            "id": 577852964,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2023-01-12T10:59:29Z",
-            "open_issues": 1,
-            "owner": "chizapoth",
-            "repo": "qtwAcademic",
-            "stars": 50,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -6291,7 +6291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:27:26.773Z",
+    "last_updated": "2026-09-16T20:26:01.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
