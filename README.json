@@ -15,11 +15,11 @@
             "id": 17371412,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T13:16:25Z",
-            "open_issues": 2879,
+            "last_commit": "2026-09-18T15:51:20Z",
+            "open_issues": 2863,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7506,
+            "stars": 7507,
             "topics": [
               "automl",
               "big-data",
@@ -279,7 +279,7 @@
             "open_issues": 43,
             "owner": "h2oai",
             "repo": "sparkling-water",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "big-data",
               "h2o",
@@ -307,7 +307,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T20:19:30Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "r-lib",
             "repo": "usethis",
             "stars": 922,
@@ -507,7 +507,7 @@
             "id": 28829926,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-16T23:50:41Z",
+            "last_commit": "2026-09-17T23:41:15Z",
             "open_issues": 172,
             "owner": "igraph",
             "repo": "rigraph",
@@ -540,7 +540,7 @@
             "open_issues": 222,
             "owner": "benjjneb",
             "repo": "dada2",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "amplicon",
               "bioconductor",
@@ -763,7 +763,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T15:32:24Z",
+            "last_commit": "2026-09-18T14:50:38Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -793,12 +793,33 @@
             "open_issues": 47,
             "owner": "r-hub",
             "repo": "rhub",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "r",
               "r-package",
               "rstats"
             ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "slingshot",
+          "description": "by Kelly Street, Davide Risso, Diya Das, Sandrine Dudoit, Koen Van den Berge, Robrecht Cannoodt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Functions for identifying and characterizing continuous developmental trajectories in single-cell data.",
+            "homepage": null,
+            "id": 53689067,
+            "language": "R",
+            "license": null,
+            "last_commit": "2024-04-23T23:33:24Z",
+            "open_issues": 8,
+            "owner": "kstreet13",
+            "repo": "slingshot",
+            "stars": 349,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -830,27 +851,6 @@
         },
         {
           "node_type": "item",
-          "title": "slingshot",
-          "description": "by Kelly Street, Davide Risso, Diya Das, Sandrine Dudoit, Koen Van den Berge, Robrecht Cannoodt",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Functions for identifying and characterizing continuous developmental trajectories in single-cell data.",
-            "homepage": null,
-            "id": 53689067,
-            "language": "R",
-            "license": null,
-            "last_commit": "2024-04-23T23:33:24Z",
-            "open_issues": 8,
-            "owner": "kstreet13",
-            "repo": "slingshot",
-            "stars": 348,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
           "title": "googledrive",
           "description": "by Lucy D’Agostino McGowan, Jennifer Bryan, Posit Software, PBC",
           "children": [],
@@ -861,7 +861,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T18:35:37Z",
+            "last_commit": "2026-09-18T17:15:19Z",
             "open_issues": 44,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -1017,8 +1017,8 @@
             "id": 50974710,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-17T19:21:30Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-18T19:49:40Z",
+            "open_issues": 28,
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 313,
@@ -1091,34 +1091,6 @@
         },
         {
           "node_type": "item",
-          "title": "googleAnalyticsR",
-          "description": "by Mark Edmondson, Erik Grönroos, Artem Klevtsov, Johann deBoer, David Watkins, Olivia Brode-Roger, Jas Sohi, Zoran Selinger, Octavian Corlade, Maegan Whytock, Masaki Terashi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Use the Google Analytics API from R",
-            "homepage": "https://8-bit-sheep.com/googleAnalyticsR/",
-            "id": 41787098,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2024-09-05T12:39:25Z",
-            "open_issues": 33,
-            "owner": "8-bit-sheep",
-            "repo": "googleAnalyticsR",
-            "stars": 274,
-            "topics": [
-              "analytics",
-              "api",
-              "google",
-              "googleanalyticsr",
-              "googleauthr",
-              "r"
-            ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
           "title": "ggseg",
           "description": "by Athanasia Mo Mowinckel, Didac Vidal-Piñeiro, Ramiro Magno, Center for Lifespan Changes in Brain and Cognition, University of Oslo, Norway",
           "children": [],
@@ -1133,8 +1105,36 @@
             "open_issues": 5,
             "owner": "ggsegverse",
             "repo": "ggseg",
-            "stars": 273,
+            "stars": 274,
             "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "googleAnalyticsR",
+          "description": "by Mark Edmondson, Erik Grönroos, Artem Klevtsov, Johann deBoer, David Watkins, Olivia Brode-Roger, Jas Sohi, Zoran Selinger, Octavian Corlade, Maegan Whytock, Masaki Terashi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Use the Google Analytics API from R",
+            "homepage": "https://8-bit-sheep.com/googleAnalyticsR/",
+            "id": 41787098,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2024-09-05T12:39:25Z",
+            "open_issues": 34,
+            "owner": "8-bit-sheep",
+            "repo": "googleAnalyticsR",
+            "stars": 274,
+            "topics": [
+              "analytics",
+              "api",
+              "google",
+              "googleanalyticsr",
+              "googleauthr",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2107,7 +2107,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T17:21:56Z",
+            "last_commit": "2026-09-18T18:43:01Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -2401,8 +2401,8 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T20:33:49Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-18T19:57:57Z",
+            "open_issues": 9,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66,
@@ -2786,6 +2786,27 @@
         },
         {
           "node_type": "item",
+          "title": "datos",
+          "description": "by Riva Quiroga, Edgar Ruiz, Mauricio Vargas, Mauro Lepore, Rayna Harris, Daniela Vasquez, Joshua Kunst",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Traducción al español de los datasets utilizados en el libro \"R para Ciencia de Datos\"",
+            "homepage": "https://cienciadedatos.github.io/datos/",
+            "id": 140963726,
+            "language": "R",
+            "license": "CC0-1.0",
+            "last_commit": "2026-01-29T15:50:47Z",
+            "open_issues": 3,
+            "owner": "cienciadedatos",
+            "repo": "datos",
+            "stars": 50,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "modleR",
           "description": "by Andrea Sánchez-Tapia, Sara Mortara, Diogo Rocha, Felipe Barros, Guilherme Gall, Tiago Castro Silva",
           "children": [],
@@ -2834,27 +2855,6 @@
               "rstats",
               "shiny"
             ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "datos",
-          "description": "by Riva Quiroga, Edgar Ruiz, Mauricio Vargas, Mauro Lepore, Rayna Harris, Daniela Vasquez, Joshua Kunst",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Traducción al español de los datasets utilizados en el libro \"R para Ciencia de Datos\"",
-            "homepage": "https://cienciadedatos.github.io/datos/",
-            "id": 140963726,
-            "language": "R",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-29T15:50:47Z",
-            "open_issues": 3,
-            "owner": "cienciadedatos",
-            "repo": "datos",
-            "stars": 49,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3203,27 +3203,6 @@
         },
         {
           "node_type": "item",
-          "title": "bundle",
-          "description": "by Julia Silge, Simon Couch, Qiushi Yan, Max Kuhn, Posit Software, PBC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Prepare objects for serialization with a consistent interface",
-            "homepage": "https://rstudio.github.io/bundle/",
-            "id": 506762939,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2025-12-10T20:48:33Z",
-            "open_issues": 7,
-            "owner": "rstudio",
-            "repo": "bundle",
-            "stars": 31,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
           "title": "redcapAPI",
           "description": "by Benjamin Nutter, Shawn Garbett, Savannah Obregon, Thomas Obadia, Marcus Lehr, Brian High, Stephen Lane, Will Beasley, Will Gray, Nick Kennedy, Tan Hsi-Nien, Jeffrey Horner, Jeremy Stephens, Cole Beck, Bradley Johnson, Philip Chase, Paddy Tobias, Michael Chirico, William Sharp, Alexander Strübing",
           "children": [],
@@ -3238,6 +3217,27 @@
             "open_issues": 18,
             "owner": "vubiostat",
             "repo": "redcapAPI",
+            "stars": 32,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "bundle",
+          "description": "by Julia Silge, Simon Couch, Qiushi Yan, Max Kuhn, Posit Software, PBC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Prepare objects for serialization with a consistent interface",
+            "homepage": "https://rstudio.github.io/bundle/",
+            "id": 506762939,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2025-12-10T20:48:33Z",
+            "open_issues": 7,
+            "owner": "rstudio",
+            "repo": "bundle",
             "stars": 31,
             "topics": []
           },
@@ -6291,7 +6291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:34:18.155Z",
+    "last_updated": "2026-09-18T19:58:38.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
