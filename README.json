@@ -19,7 +19,7 @@
             "open_issues": 2863,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7507,
+            "stars": 7508,
             "topics": [
               "automl",
               "big-data",
@@ -86,7 +86,7 @@
             "open_issues": 10,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2518,
+            "stars": 2519,
             "topics": [
               "package-creation",
               "r"
@@ -479,7 +479,7 @@
             "id": 161399255,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T20:11:23Z",
+            "last_commit": "2026-09-19T18:51:45Z",
             "open_issues": 73,
             "owner": "tidyverse",
             "repo": "vroom",
@@ -507,7 +507,7 @@
             "id": 28829926,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-17T23:41:15Z",
+            "last_commit": "2026-09-18T23:36:05Z",
             "open_issues": 172,
             "owner": "igraph",
             "repo": "rigraph",
@@ -763,7 +763,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T14:50:38Z",
+            "last_commit": "2026-09-19T14:11:27Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -861,7 +861,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T17:15:19Z",
+            "last_commit": "2026-09-19T16:47:59Z",
             "open_issues": 44,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -1017,7 +1017,7 @@
             "id": 50974710,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-18T19:49:40Z",
+            "last_commit": "2026-09-18T20:51:14Z",
             "open_issues": 28,
             "owner": "neuhausi",
             "repo": "canvasXpress",
@@ -2107,7 +2107,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T18:43:01Z",
+            "last_commit": "2026-09-19T17:33:36Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -2401,7 +2401,7 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T19:57:57Z",
+            "last_commit": "2026-09-19T19:29:22Z",
             "open_issues": 9,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
@@ -2727,8 +2727,8 @@
             "id": 100528653,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T17:29:25Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-18T20:15:53Z",
+            "open_issues": 4,
             "owner": "InsightRX",
             "repo": "PKPDsim",
             "stars": 51,
@@ -3697,6 +3697,27 @@
         },
         {
           "node_type": "item",
+          "title": "naturecounts",
+          "description": "by Steffi LaZerte, Denis Lepage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "R package to access data from the NatureCounts platform by Bird Studies Canada",
+            "homepage": "https://birdscanada.github.io/naturecounts/",
+            "id": 167440213,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-09-13T19:21:27Z",
+            "open_issues": 12,
+            "owner": "BirdsCanada",
+            "repo": "naturecounts",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "odbr",
           "description": "by Haydee Svab, Beatriz Milz, Diego Rabatone Oliveira, Rafael H. M. Pereira",
           "children": [],
@@ -3781,27 +3802,6 @@
               "r",
               "statistical-models"
             ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "naturecounts",
-          "description": "by Steffi LaZerte, Denis Lepage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "R package to access data from the NatureCounts platform by Bird Studies Canada",
-            "homepage": "https://birdscanada.github.io/naturecounts/",
-            "id": 167440213,
-            "language": "R",
-            "license": null,
-            "last_commit": "2026-09-13T19:21:27Z",
-            "open_issues": 12,
-            "owner": "BirdsCanada",
-            "repo": "naturecounts",
-            "stars": 17,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -6291,7 +6291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:58:38.873Z",
+    "last_updated": "2026-09-19T19:36:15.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
