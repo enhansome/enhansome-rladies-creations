@@ -15,7 +15,7 @@
             "id": 17371412,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T09:38:52Z",
+            "last_commit": "2026-09-25T08:28:44Z",
             "open_issues": 2856,
             "owner": "h2oai",
             "repo": "h2o-3",
@@ -61,7 +61,7 @@
             "open_issues": 121,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 7002,
+            "stars": 7003,
             "topics": [
               "data-visualisation",
               "r",
@@ -310,7 +310,7 @@
             "open_issues": 84,
             "owner": "r-lib",
             "repo": "usethis",
-            "stars": 922,
+            "stars": 923,
             "topics": [
               "github",
               "package",
@@ -507,11 +507,11 @@
             "id": 28829926,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-24T12:03:23Z",
+            "last_commit": "2026-09-25T00:01:25Z",
             "open_issues": 170,
             "owner": "igraph",
             "repo": "rigraph",
-            "stars": 622,
+            "stars": 623,
             "topics": [
               "complex-networks",
               "graph-algorithms",
@@ -596,7 +596,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T11:06:33Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "ropensci-review-tools",
             "repo": "goodpractice",
             "stars": 481,
@@ -763,7 +763,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T15:46:30Z",
+            "last_commit": "2026-09-25T15:48:14Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -818,7 +818,7 @@
             "open_issues": 3,
             "owner": "sckott",
             "repo": "cowsay",
-            "stars": 348,
+            "stars": 349,
             "topics": [
               "ascii-art",
               "r",
@@ -861,7 +861,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T18:00:04Z",
+            "last_commit": "2026-09-25T18:07:35Z",
             "open_issues": 44,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -905,6 +905,37 @@
         },
         {
           "node_type": "item",
+          "title": "osmdata",
+          "description": "by Joan Maspons, Mark Padgham, Bob Rudis, Robin Lovelace, Maëlle Salmon, Andrew Smith, James Smith, Andrea Gilardi, Enrico Spinielli, Anthony North, Martin Machyna, Marcin Kalicinski, Eli Pousson",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "R package for downloading OpenStreetMap data",
+            "homepage": "https://docs.ropensci.org/osmdata",
+            "id": 71071698,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-09-01T12:00:08Z",
+            "open_issues": 21,
+            "owner": "ropensci",
+            "repo": "osmdata",
+            "stars": 343,
+            "topics": [
+              "cpp",
+              "openstreetmap",
+              "osm",
+              "osm-data",
+              "overpass-api",
+              "peer-reviewed",
+              "r",
+              "r-package",
+              "rstats"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "rsample",
           "description": "by Hannah Frick, Fanny Chow, Max Kuhn, Michael Mahoney, Julia Silge, Hadley Wickham, Posit Software, PBC",
           "children": [],
@@ -921,37 +952,6 @@
             "repo": "rsample",
             "stars": 343,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "osmdata",
-          "description": "by Joan Maspons, Mark Padgham, Bob Rudis, Robin Lovelace, Maëlle Salmon, Andrew Smith, James Smith, Andrea Gilardi, Enrico Spinielli, Anthony North, Martin Machyna, Marcin Kalicinski, Eli Pousson",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "R package for downloading OpenStreetMap data",
-            "homepage": "https://docs.ropensci.org/osmdata",
-            "id": 71071698,
-            "language": "R",
-            "license": null,
-            "last_commit": "2026-09-01T12:00:08Z",
-            "open_issues": 21,
-            "owner": "ropensci",
-            "repo": "osmdata",
-            "stars": 342,
-            "topics": [
-              "cpp",
-              "openstreetmap",
-              "osm",
-              "osm-data",
-              "overpass-api",
-              "peer-reviewed",
-              "r",
-              "r-package",
-              "rstats"
-            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1017,8 +1017,8 @@
             "id": 50974710,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-24T02:06:50Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-25T19:59:37Z",
+            "open_issues": 2,
             "owner": "neuhausi",
             "repo": "canvasXpress",
             "stars": 315,
@@ -2107,7 +2107,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T17:38:45Z",
+            "last_commit": "2026-09-25T19:01:12Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -2401,8 +2401,8 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T18:31:38Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-25T15:08:37Z",
+            "open_issues": 21,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66,
@@ -4467,6 +4467,32 @@
         },
         {
           "node_type": "item",
+          "title": "artpack",
+          "description": "by Meghan Harris",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A comprehensive Rtistry toolset package.",
+            "homepage": "https://meghansaha.github.io/artpack/",
+            "id": 547634198,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2025-09-17T03:27:49Z",
+            "open_issues": 8,
+            "owner": "Meghansaha",
+            "repo": "artpack",
+            "stars": 8,
+            "topics": [
+              "generative-art",
+              "ggplot2",
+              "r",
+              "rtistry"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "codemeta",
           "description": "by Carl Boettiger, Maëlle Salmon, Katrin Leinweber, Noam Ross, Arfon Smith, Jeroen Ooms, Sebastian Meyer, Michael Rustler, Hauke Sonnenberg, Sebastian Kreutzer, rOpenSci",
           "children": [],
@@ -4553,32 +4579,6 @@
             "repo": "aochelpers",
             "stars": 7,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "artpack",
-          "description": "by Meghan Harris",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive Rtistry toolset package.",
-            "homepage": "https://meghansaha.github.io/artpack/",
-            "id": 547634198,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2025-09-17T03:27:49Z",
-            "open_issues": 8,
-            "owner": "Meghansaha",
-            "repo": "artpack",
-            "stars": 7,
-            "topics": [
-              "generative-art",
-              "ggplot2",
-              "r",
-              "rtistry"
-            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -6032,8 +6032,8 @@
             "id": 629831036,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T11:10:04Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-25T10:18:01Z",
+            "open_issues": 1,
             "owner": "ggsegverse",
             "repo": "ggseg.formats",
             "stars": 0,
@@ -6291,7 +6291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:47:50.048Z",
+    "last_updated": "2026-09-25T20:45:42.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
