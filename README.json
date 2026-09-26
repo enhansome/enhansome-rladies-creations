@@ -379,8 +379,8 @@
             "id": 32161666,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T00:13:27Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-25T21:40:14Z",
+            "open_issues": 49,
             "owner": "tidyverse",
             "repo": "readxl",
             "stars": 754,
@@ -507,8 +507,8 @@
             "id": 28829926,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-25T00:01:25Z",
-            "open_issues": 170,
+            "last_commit": "2026-09-26T15:38:55Z",
+            "open_issues": 169,
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 623,
@@ -763,7 +763,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T15:48:14Z",
+            "last_commit": "2026-09-26T14:57:26Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -861,7 +861,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T18:07:35Z",
+            "last_commit": "2026-09-26T17:26:20Z",
             "open_issues": 44,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -2107,7 +2107,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T19:01:12Z",
+            "last_commit": "2026-09-26T18:48:08Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -4743,6 +4743,27 @@
         },
         {
           "node_type": "item",
+          "title": "EpiGenR",
+          "description": "by Lucy M Li",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Inference from both epidemiological and genetic data. Functions generate input files for EpiGenMCMC and to visualise output.",
+            "homepage": null,
+            "id": 63424701,
+            "language": "R",
+            "license": "MIT",
+            "last_commit": "2020-08-19T20:47:54Z",
+            "open_issues": 0,
+            "owner": "lucymli",
+            "repo": "EpiGenR",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "ferrn",
           "description": "by H. Sherry Zhang, Dianne Cook, Ursula Laa, Nicolas Langrené, Patricia Menéndez",
           "children": [],
@@ -4897,27 +4918,6 @@
               "covid-19-tunisia",
               "covid-19data"
             ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EpiGenR",
-          "description": "by Lucy M Li",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Inference from both epidemiological and genetic data. Functions generate input files for EpiGenMCMC and to visualise output.",
-            "homepage": null,
-            "id": 63424701,
-            "language": "R",
-            "license": "MIT",
-            "last_commit": "2020-08-19T20:47:54Z",
-            "open_issues": 0,
-            "owner": "lucymli",
-            "repo": "EpiGenR",
-            "stars": 5,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -6291,7 +6291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:45:42.154Z",
+    "last_updated": "2026-09-26T20:09:25.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
