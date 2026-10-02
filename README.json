@@ -15,11 +15,11 @@
             "id": 51905353,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T21:44:58Z",
-            "open_issues": 2455,
+            "last_commit": "2026-10-02T21:18:44Z",
+            "open_issues": 2460,
             "owner": "apache",
             "repo": "arrow",
-            "stars": 17166,
+            "stars": 17169,
             "topics": [
               "arrow",
               "parquet"
@@ -43,7 +43,7 @@
             "open_issues": 2857,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7509,
+            "stars": 7510,
             "topics": [
               "automl",
               "big-data",
@@ -81,11 +81,11 @@
             "id": 19438,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T08:14:24Z",
-            "open_issues": 123,
+            "last_commit": "2026-10-02T12:00:03Z",
+            "open_issues": 106,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 7005,
+            "stars": 7004,
             "topics": [
               "data-visualisation",
               "r",
@@ -146,6 +146,34 @@
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rticles",
+          "description": "by JJ Allaire, Yihui Xie, Christophe Dervieux, Posit Software, PBC, R Foundation, Hadley Wickham, Journal of Statistical Software, Ramnath Vaidyanathan, Association for Computing Machinery, Carl Boettiger, Elsevier, Karl Broman, Kirill Mueller, Bastiaan Quast, Randall Pruim, Ben Marwick, Charlotte Wickham, Oliver Keyes, Miao Yu, Daniel Emaasit, Thierry Onkelinx, Alessandro Gasparini, Marc-Andre Desautels, Dominik Leutnant, MDPI, Taylor and Francis, Oğuzhan Öğreden, Dalton Hance, Daniel Nüst, Petter Uvesten, Elio Campitelli, John Muschelli, Alex Hayes, Zhian N. Kamvar, Noam Ross, Robrecht Cannoodt, Duncan Luguern, David M. Kaplan, Sebastian Kreutzer, Shixiang Wang, Jay Hesselberth, Alfredo Hernández, Stefano Coretta, Greg Macfarlane, Matthias Templ, Alvaro Uzaheta, JooYoung Seo, Callum Arnold, Rob Hyndman, Dmytro Perepolkin, Tom Palmer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LaTeX Journal Article Templates for R Markdown",
+            "homepage": "https://pkgs.rstudio.com/rticles/",
+            "id": 17756613,
+            "language": "TeX",
+            "license": null,
+            "last_commit": "2026-10-01T10:05:15Z",
+            "open_issues": 59,
+            "owner": "rstudio",
+            "repo": "rticles",
+            "stars": 1540,
+            "topics": [
+              "article",
+              "journal",
+              "paper",
+              "r",
+              "r-package",
+              "rmarkdown"
+            ]
+          },
+          "first_seen": "2026-10-02T21:26:40.014Z"
         },
         {
           "node_type": "item",
@@ -282,7 +310,7 @@
             "open_issues": 18,
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1019,
+            "stars": 1020,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -531,8 +559,8 @@
             "id": 28829926,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-01T17:53:42Z",
-            "open_issues": 176,
+            "last_commit": "2026-10-02T08:31:37Z",
+            "open_issues": 179,
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 623,
@@ -787,7 +815,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T17:49:05Z",
+            "last_commit": "2026-10-02T16:35:43Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -885,7 +913,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T19:06:03Z",
+            "last_commit": "2026-10-02T18:43:54Z",
             "open_issues": 44,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -971,7 +999,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T18:05:37Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "tidymodels",
             "repo": "rsample",
             "stars": 343,
@@ -1147,7 +1175,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2024-09-05T12:39:25Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "8-bit-sheep",
             "repo": "googleAnalyticsR",
             "stars": 274,
@@ -1738,6 +1766,30 @@
         },
         {
           "node_type": "item",
+          "title": "munsell",
+          "description": "by Charlotte Wickham cwickham@gmail.com, Charlotte Wickham",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "munsell colour system for R",
+            "homepage": null,
+            "id": 108308,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2024-04-02T16:28:08Z",
+            "open_issues": 6,
+            "owner": "cwickham",
+            "repo": "munsell",
+            "stars": 116,
+            "topics": [
+              "munsell-colour",
+              "r"
+            ]
+          },
+          "first_seen": "2026-10-02T21:26:40.014Z"
+        },
+        {
+          "node_type": "item",
           "title": "gargle",
           "description": "by Jennifer Bryan, Craig Citro, Hadley Wickham, Google Inc, Posit Software, PBC",
           "children": [],
@@ -1748,8 +1800,8 @@
             "id": 48555251,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-05-28T17:59:31Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-02T21:01:05Z",
+            "open_issues": 35,
             "owner": "r-lib",
             "repo": "gargle",
             "stars": 114,
@@ -2131,7 +2183,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T21:29:44Z",
+            "last_commit": "2026-10-02T19:38:46Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -2215,7 +2267,7 @@
             "open_issues": 0,
             "owner": "thiyangt",
             "repo": "seer",
-            "stars": 78,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -2425,8 +2477,8 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T20:32:14Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-02T20:31:57Z",
+            "open_issues": 6,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66,
@@ -2573,7 +2625,7 @@
             "open_issues": 27,
             "owner": "husson",
             "repo": "FactoMineR",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -6427,7 +6479,7 @@
             "id": 1016494729,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-06-05T03:18:29Z",
+            "last_commit": "2026-10-02T05:25:12Z",
             "open_issues": 0,
             "owner": "dionnecargy",
             "repo": "SeroTrackR",
@@ -6531,7 +6583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:00:26.855Z",
+    "last_updated": "2026-10-02T21:26:40.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
@@ -6539,8 +6591,8 @@
       "id": 340234327,
       "language": "R",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-01T18:03:37Z",
-      "open_issues": 54,
+      "last_commit": "2026-10-02T10:06:24Z",
+      "open_issues": 50,
       "owner": "rladies",
       "repo": "awesome-rladies-creations",
       "stars": 93,
@@ -6550,7 +6602,7 @@
         "rladies"
       ]
     },
-    "original_repository_sha": "e36af01a029d7c589cef23f30018c6745254183e",
+    "original_repository_sha": "a4f74863dedee5005a6a00189faf39d12e0850d3",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
     "enhanced_repository_description": null,
     "title": "Awesome RLadies+ Content and Packages with stars"
