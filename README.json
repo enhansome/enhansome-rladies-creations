@@ -19,7 +19,7 @@
             "open_issues": 2463,
             "owner": "apache",
             "repo": "arrow",
-            "stars": 17169,
+            "stars": 17171,
             "topics": [
               "arrow",
               "parquet"
@@ -81,8 +81,8 @@
             "id": 19438,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T12:00:03Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-03T07:10:36Z",
+            "open_issues": 105,
             "owner": "tidyverse",
             "repo": "ggplot2",
             "stars": 7004,
@@ -815,7 +815,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T16:35:43Z",
+            "last_commit": "2026-10-03T15:09:50Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -913,7 +913,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:43:54Z",
+            "last_commit": "2026-10-03T17:38:15Z",
             "open_issues": 44,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -1462,6 +1462,34 @@
         },
         {
           "node_type": "item",
+          "title": "plyranges",
+          "description": "by Stuart Lee, Michael Lawrence, Dianne Cook, Spencer Nystrom, Pierre-Paul Axisa, Michael Love",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A grammar of genomic data transformation",
+            "homepage": "https://tidyomics.github.io/plyranges/",
+            "id": 101606084,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-07-30T15:33:54Z",
+            "open_issues": 37,
+            "owner": "tidyomics",
+            "repo": "plyranges",
+            "stars": 156,
+            "topics": [
+              "bioconductor",
+              "data-analysis",
+              "dplyr",
+              "genomic-ranges",
+              "genomics",
+              "tidy-data"
+            ]
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "messy",
           "description": "by Nicola Rennie",
           "children": [],
@@ -1766,6 +1794,27 @@
         },
         {
           "node_type": "item",
+          "title": "ggbio",
+          "description": "by Tengfei Yin, Michael Lawrence, Dianne Cook, Sanchit Saini, Johannes Rainer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Grid and ggplot2 based visualization for biological data",
+            "homepage": null,
+            "id": 2337610,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-04-26T11:16:20Z",
+            "open_issues": 76,
+            "owner": "lawremi",
+            "repo": "ggbio",
+            "stars": 116,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "munsell",
           "description": "by Charlotte Wickham cwickham@gmail.com, Charlotte Wickham",
           "children": [],
@@ -1800,8 +1849,8 @@
             "id": 48555251,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:55:50Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-03T16:27:48Z",
+            "open_issues": 35,
             "owner": "r-lib",
             "repo": "gargle",
             "stars": 114,
@@ -2183,7 +2232,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:27:12Z",
+            "last_commit": "2026-10-03T18:24:50Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -2477,8 +2526,8 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T20:31:57Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-03T16:20:14Z",
+            "open_issues": 7,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66,
@@ -3015,6 +3064,27 @@
         },
         {
           "node_type": "item",
+          "title": "sugarbag",
+          "description": "by Dianne Cook, Stephanie Kobakian, Matt Cowgill",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An R package to create tessellated hexagon maps of Australia.",
+            "homepage": "https://srkobakian.github.io/sugarbag/",
+            "id": 148102617,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-01-22T22:03:38Z",
+            "open_issues": 0,
+            "owner": "srkobakian",
+            "repo": "sugarbag",
+            "stars": 44,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "subsemble",
           "description": "by Erin LeDell, Stephanie Sapp, Mark van der Laan",
           "children": [],
@@ -3191,6 +3261,27 @@
         },
         {
           "node_type": "item",
+          "title": "learningtower",
+          "description": "by Kevin Wang, Paul Yacobellis, Erika Siregar, Sarah Romanes, Kim Fitter, Giulio Valentino Dalla Riva, Dianne Cook, Nick Tierney, Priya Dingorkar, Shabarish Sai Subramanian, Guan Ru Chen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Easily accessible PISA data",
+            "homepage": "https://kevinwang09.github.io/learningtower/",
+            "id": 227478465,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-24T16:57:34Z",
+            "open_issues": 2,
+            "owner": "kevinwang09",
+            "repo": "learningtower",
+            "stars": 36,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "scDD",
           "description": "by Keegan Korthauer",
           "children": [],
@@ -3318,6 +3409,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ggdibbler",
+          "description": "by Harriet Mason, Dianne Cook, Sarah Goodwin, Susan VanderPlas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "R package for implementing signal suppression in ggplot2",
+            "homepage": "https://harriet-mason.github.io/ggdibbler/",
+            "id": 862870690,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-09-08T05:47:01Z",
+            "open_issues": 29,
+            "owner": "harriet-mason",
+            "repo": "ggdibbler",
+            "stars": 30,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
         },
         {
           "node_type": "item",
@@ -4681,6 +4793,27 @@
         },
         {
           "node_type": "item",
+          "title": "quollr",
+          "description": "by Jayani P. Gamage, Dianne Cook, Paul Harrison, Michael Lydeamore, Thiyanga S. Talagala",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Visualise how 2-D model looks in high dimensional space",
+            "homepage": "https://jayanilakshika.github.io/quollr/",
+            "id": 656488974,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-09T06:08:55Z",
+            "open_issues": 2,
+            "owner": "JayaniLakshika",
+            "repo": "quollr",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "aochelpers",
           "description": "by Ella Kaye",
           "children": [],
@@ -5237,6 +5370,33 @@
         },
         {
           "node_type": "item",
+          "title": "cassowaryr",
+          "description": "by Harriet Mason, Stuart Lee, Ursula Laa, Dianne Cook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Compute scagnostics on your scatterplots",
+            "homepage": "https://numbats.github.io/cassowaryr/",
+            "id": 406213695,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-09-17T23:28:32Z",
+            "open_issues": 15,
+            "owner": "numbats",
+            "repo": "cassowaryr",
+            "stars": 4,
+            "topics": [
+              "data-science",
+              "data-visualization",
+              "eda",
+              "high-dimensional-data",
+              "multivariate"
+            ]
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "ebdbNet",
           "description": "by Andrea Rau",
           "children": [],
@@ -5328,6 +5488,27 @@
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mulgar",
+          "description": "by Dianne Cook, Ursula Laa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is a companion to the book Interactive and dynamic graphics for high-dimensional data using R at https://dicook.github.io/mulgar_book/. It contains useful functions for processing data in preparation for visualising with a tour. There are also several sample data sets.",
+            "homepage": "https://dicook.github.io/mulgar/",
+            "id": 336165033,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-30T22:08:33Z",
+            "open_issues": 2,
+            "owner": "dicook",
+            "repo": "mulgar",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
         },
         {
           "node_type": "item",
@@ -5567,6 +5748,32 @@
         },
         {
           "node_type": "item",
+          "title": "spinifex",
+          "description": "by Nicholas Spyrison, Dianne Cook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "manually control the contribution of variable to linear projections and tours",
+            "homepage": "https://nspyrison.github.io/spinifex/",
+            "id": 125002840,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2025-09-17T21:37:41Z",
+            "open_issues": 1,
+            "owner": "nspyrison",
+            "repo": "spinifex",
+            "stars": 3,
+            "topics": [
+              "dimension",
+              "reduction",
+              "tours",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "tidyquintro",
           "description": "by Athanasia Mo Mowinckel",
           "children": [],
@@ -5627,6 +5834,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cardinalR",
+          "description": "by Jayani P. Gamage, Dianne Cook, Paul Harrison, Michael Lydeamore, Thiyanga S. Talagala",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "collection of high-dimensional data structures",
+            "homepage": "https://jayanilakshika.github.io/cardinalR/",
+            "id": 768900655,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-05-13T04:47:15Z",
+            "open_issues": 0,
+            "owner": "JayaniLakshika",
+            "repo": "cardinalR",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
         },
         {
           "node_type": "item",
@@ -5697,6 +5925,27 @@
         },
         {
           "node_type": "item",
+          "title": "mapycusmaximus",
+          "description": "by Alex Nguyen, Dianne Cook, Michael Lydeamore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://alex-nguyen-vn.github.io/mapycusmaximus/",
+            "id": 1048171619,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-05-11T05:49:24Z",
+            "open_issues": 1,
+            "owner": "Alex-Nguyen-VN",
+            "repo": "mapycusmaximus",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "nettskjemar",
           "description": "by Athanasia Mo Mowinckel, Trym Nohr Fjørtoft",
           "children": [],
@@ -5736,6 +5985,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "animbook",
+          "description": "by Krisanat Anukarnsakulchularp, Dianne Cook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Visualizing changes in performance measures and demographic affiliations using animation.",
+            "homepage": "https://krisanata.github.io/animbook/",
+            "id": 610203309,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2025-09-02T15:18:04Z",
+            "open_issues": 4,
+            "owner": "KrisanatA",
+            "repo": "animbook",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
         },
         {
           "node_type": "item",
@@ -5784,6 +6054,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ecotourism",
+          "description": "by Dianne Cook, Lyn Cook, Javad Vahdat Atashgah",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The goal of ecotourism is to provide clean, ready-to-use datasets for example analyses in teaching, demos, and reproducible workflows.",
+            "homepage": "https://vahdatjavad.github.io/ecotourism/",
+            "id": 1000840753,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-23T14:34:50Z",
+            "open_issues": 26,
+            "owner": "vahdatjavad",
+            "repo": "ecotourism",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
         },
         {
           "node_type": "item",
@@ -5894,6 +6185,27 @@
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "prefviz",
+          "description": "by Linh Ngo, Dianne Cook, Damjan Vukcevic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is a package for visualising preference data, such as from elections where voters rank candidates.",
+            "homepage": "https://numbats.github.io/prefviz/",
+            "id": 1102704270,
+            "language": "HTML",
+            "license": "GPL-3.0",
+            "last_commit": "2026-06-23T05:58:37Z",
+            "open_issues": 5,
+            "owner": "numbats",
+            "repo": "prefviz",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
         },
         {
           "node_type": "item",
@@ -6251,6 +6563,27 @@
         },
         {
           "node_type": "item",
+          "title": "DescribeDisplay",
+          "description": "by Dianne Cook, Hadley Wickham, Andreas Buja, Barret Schloerke",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 3430586,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2023-08-24T22:54:46Z",
+            "open_issues": 1,
+            "owner": "ggobi",
+            "repo": "DescribeDisplay",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "escrocR",
           "description": "by Hilaire Drouineau, Marine Ballutaud, Jeremy Lobry",
           "children": [],
@@ -6424,6 +6757,27 @@
         },
         {
           "node_type": "item",
+          "title": "PPtreeExt",
+          "description": "by Natalia da Silva, Dianne Cook, Eun-Kyung Lee",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PPtree algorithm extensions",
+            "homepage": "https://natydasilva.github.io/PPtreeExt/",
+            "id": 91097953,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-02-05T21:32:13Z",
+            "open_issues": 0,
+            "owner": "natydasilva",
+            "repo": "PPtreeExt",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "saguaRo",
           "description": "by Stacey Borrego",
           "children": [],
@@ -6538,6 +6892,27 @@
         },
         {
           "node_type": "item",
+          "title": "spinebil",
+          "description": "by Ursula Laa, Dianne Cook, Tina Rashid Jafari",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://uschilaa.github.io/spinebil/index.html",
+            "id": 188365328,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-07-08T02:05:09Z",
+            "open_issues": 0,
+            "owner": "uschiLaa",
+            "repo": "spinebil",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
           "title": "TutorialIterar",
           "description": "by Yanina Bellini Saibene",
           "children": [],
@@ -6577,13 +6952,34 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "woylier",
+          "description": "by Zola Batsaikan, Dianne Cook, Ursula Laa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Interpolations between bases rather than planes for the tourr package",
+            "homepage": "https://numbats.github.io/woylier/",
+            "id": 504033240,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-15T03:43:58Z",
+            "open_issues": 0,
+            "owner": "numbats",
+            "repo": "woylier",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:12:57.507Z"
         }
       ],
       "title": "List of packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:51.281Z",
+    "last_updated": "2026-10-03T20:12:57.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
@@ -6591,8 +6987,8 @@
       "id": 340234327,
       "language": "R",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-02T10:06:24Z",
-      "open_issues": 50,
+      "last_commit": "2026-10-03T07:37:48Z",
+      "open_issues": 49,
       "owner": "rladies",
       "repo": "awesome-rladies-creations",
       "stars": 93,
@@ -6602,7 +6998,7 @@
         "rladies"
       ]
     },
-    "original_repository_sha": "a4f74863dedee5005a6a00189faf39d12e0850d3",
+    "original_repository_sha": "5e5f007d2de9a36e4266fdb1687957b69eff945f",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
     "enhanced_repository_description": null,
     "title": "Awesome RLadies+ Content and Packages with stars"
