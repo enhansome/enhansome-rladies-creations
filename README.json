@@ -15,11 +15,11 @@
             "id": 51905353,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:18:44Z",
-            "open_issues": 2466,
+            "last_commit": "2026-10-05T08:19:33Z",
+            "open_issues": 2470,
             "owner": "apache",
             "repo": "arrow",
-            "stars": 17178,
+            "stars": 17183,
             "topics": [
               "arrow",
               "parquet"
@@ -81,11 +81,11 @@
             "id": 19438,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T07:10:36Z",
-            "open_issues": 105,
+            "last_commit": "2026-10-05T08:50:05Z",
+            "open_issues": 106,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 7005,
+            "stars": 7006,
             "topics": [
               "data-visualisation",
               "r",
@@ -281,7 +281,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-04-10T16:35:05Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "tidyverse",
             "repo": "readr",
             "stars": 1041,
@@ -310,7 +310,7 @@
             "open_issues": 18,
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1020,
+            "stars": 1021,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -359,7 +359,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-22T21:57:55Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "r-lib",
             "repo": "usethis",
             "stars": 923,
@@ -407,7 +407,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-08-12T09:24:43Z",
-            "open_issues": 109,
+            "open_issues": 110,
             "owner": "r-lib",
             "repo": "pkgdown",
             "stars": 776,
@@ -560,7 +560,7 @@
             "language": "R",
             "license": null,
             "last_commit": "2026-10-02T08:31:37Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 623,
@@ -621,7 +621,7 @@
             "open_issues": 32,
             "owner": "amices",
             "repo": "mice",
-            "stars": 519,
+            "stars": 518,
             "topics": [
               "chained-equations",
               "fcs",
@@ -648,7 +648,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T10:26:31Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "ropensci-review-tools",
             "repo": "goodpractice",
             "stars": 481,
@@ -815,7 +815,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T15:41:39Z",
+            "last_commit": "2026-10-05T19:35:37Z",
             "open_issues": 37,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -913,11 +913,11 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T17:51:51Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-05T21:23:06Z",
+            "open_issues": 45,
             "owner": "tidyverse",
             "repo": "googledrive",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "google-drive",
               "r"
@@ -1069,7 +1069,7 @@
             "id": 50974710,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-01T17:46:20Z",
+            "last_commit": "2026-10-05T16:13:56Z",
             "open_issues": 3,
             "owner": "neuhausi",
             "repo": "canvasXpress",
@@ -1153,8 +1153,8 @@
             "id": 145827720,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T14:45:59Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-05T20:31:33Z",
+            "open_issues": 6,
             "owner": "ggsegverse",
             "repo": "ggseg",
             "stars": 274,
@@ -1717,6 +1717,32 @@
         },
         {
           "node_type": "item",
+          "title": "shinycustomloader",
+          "description": "by Emi Tanaka and Niichan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Add a custom loader for R shiny",
+            "homepage": "https://emitanaka.github.io/shinycustomloader/",
+            "id": 124728862,
+            "language": "R",
+            "license": null,
+            "last_commit": "2018-07-17T18:50:18Z",
+            "open_issues": 8,
+            "owner": "emitanaka",
+            "repo": "shinycustomloader",
+            "stars": 121,
+            "topics": [
+              "r",
+              "rshiny",
+              "rstats",
+              "shiny"
+            ]
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "shinyLP",
           "description": "by Jasmine Daly",
           "children": [],
@@ -1849,8 +1875,8 @@
             "id": 48555251,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T16:27:48Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-05T17:11:36Z",
+            "open_issues": 35,
             "owner": "r-lib",
             "repo": "gargle",
             "stars": 114,
@@ -2232,7 +2258,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T17:12:14Z",
+            "last_commit": "2026-10-05T18:55:47Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -2526,8 +2552,8 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T20:03:46Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-05T20:39:39Z",
+            "open_issues": 9,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
             "stars": 66,
@@ -3053,8 +3079,8 @@
             "id": 220097457,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T20:33:52Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-05T20:33:20Z",
+            "open_issues": 9,
             "owner": "ggsegverse",
             "repo": "ggseg3d",
             "stars": 45,
@@ -3487,6 +3513,32 @@
         },
         {
           "node_type": "item",
+          "title": "BradleyTerry2",
+          "description": "by Heather Turner, David Firth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "BradleyTerry2 package for Bradley-Terry models in R ",
+            "homepage": null,
+            "id": 102193512,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-09-29T13:38:39Z",
+            "open_issues": 11,
+            "owner": "hturner",
+            "repo": "BradleyTerry2",
+            "stars": 26,
+            "topics": [
+              "bradley-terry-models",
+              "paired-comparisons",
+              "r",
+              "statistical-models"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "cereal",
           "description": "by Julia Silge, Davis Vaughan, Posit Software, PBC",
           "children": [],
@@ -3524,32 +3576,6 @@
             "repo": "quartose",
             "stars": 26,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BradleyTerry2",
-          "description": "by Heather Turner, David Firth",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "BradleyTerry2 package for Bradley-Terry models in R ",
-            "homepage": null,
-            "id": 102193512,
-            "language": "R",
-            "license": null,
-            "last_commit": "2026-09-29T13:38:39Z",
-            "open_issues": 11,
-            "owner": "hturner",
-            "repo": "BradleyTerry2",
-            "stars": 25,
-            "topics": [
-              "bradley-terry-models",
-              "paired-comparisons",
-              "r",
-              "statistical-models"
-            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -3990,6 +4016,27 @@
         },
         {
           "node_type": "item",
+          "title": "emend",
+          "description": "by Emi Tanaka, Jiajia Li",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Standarise data with an AI assistant",
+            "homepage": "https://anuopensci.github.io/emend/",
+            "id": 867090504,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2025-04-08T22:57:48Z",
+            "open_issues": 7,
+            "owner": "anuopensci",
+            "repo": "emend",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "gnm",
           "description": "by Heather Turner, David Firth, Brian Ripley, Bill Venables, Douglas M. Bates, Martin Maechler",
           "children": [],
@@ -4400,6 +4447,27 @@
         },
         {
           "node_type": "item",
+          "title": "nestr",
+          "description": "by Emi Tanaka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An R-package to build nesting or hierarchical structures",
+            "homepage": "http://nestr.emitanaka.org",
+            "id": 339557656,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2022-02-02T10:22:56Z",
+            "open_issues": 0,
+            "owner": "emitanaka",
+            "repo": "nestr",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "QueryWikidataR",
           "description": "by Serena Signorelli",
           "children": [],
@@ -4418,6 +4486,30 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "deggust",
+          "description": "by Emi Tanaka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An R-package to visualise edibble designs as ggplot graphics",
+            "homepage": "https://deggust.emitanaka.org",
+            "id": 325951746,
+            "language": "R",
+            "license": null,
+            "last_commit": "2023-12-12T23:20:51Z",
+            "open_issues": 6,
+            "owner": "emitanaka",
+            "repo": "deggust",
+            "stars": 12,
+            "topics": [
+              "ggplot-extension",
+              "rstats-package"
+            ]
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -4835,6 +4927,29 @@
         },
         {
           "node_type": "item",
+          "title": "heritable",
+          "description": "by Emi Tanaka, Yidi Deng, Fonti Kar, Weihao, Paul Schmidt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "R package for computing various heritability estimates from mixed models",
+            "homepage": "https://anu-aagi.github.io/heritable/",
+            "id": 1053052540,
+            "language": "R",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T04:51:38Z",
+            "open_issues": 8,
+            "owner": "anu-aagi",
+            "repo": "heritable",
+            "stars": 7,
+            "topics": [
+              "rstats-package"
+            ]
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "mitey",
           "description": "by Kylie Ainslie",
           "children": [],
@@ -4970,6 +5085,27 @@
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dir",
+          "description": "by Emi Tanaka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An R-package to make html directory listing ",
+            "homepage": "https://emitanaka.org/dir/",
+            "id": 359283435,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2024-02-17T06:29:16Z",
+            "open_issues": 3,
+            "owner": "emitanaka",
+            "repo": "dir",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -5158,7 +5294,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2020-11-30T14:31:47Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "MounaBelaid",
             "repo": "covid19tunisia",
             "stars": 5,
@@ -5491,6 +5627,48 @@
         },
         {
           "node_type": "item",
+          "title": "metaextractoR",
+          "description": "by Danyang Dai, Emi Tanaka, Jason Pole",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is an R package that utlising Larage Language Models to assist with data extraction during meta-analysis. ",
+            "homepage": "https://danyangdai.github.io/metaextractoR/",
+            "id": 950340918,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-07T22:22:42Z",
+            "open_issues": 3,
+            "owner": "DanyangDai",
+            "repo": "metaextractoR",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
+          "title": "moodlequiz",
+          "description": "by Mitchell O’Hara-Wild, Emi Tanaka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "R Markdown format for Moodle XML cloze quizzes",
+            "homepage": "https://numbats.github.io/moodlequiz/",
+            "id": 537093750,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-10T09:11:44Z",
+            "open_issues": 4,
+            "owner": "numbats",
+            "repo": "moodlequiz",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "mulgar",
           "description": "by Dianne Cook, Ursula Laa",
           "children": [],
@@ -5559,6 +5737,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rvad",
+          "description": "by Paola Corrales, Elio Campitelli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Package for Velocity Azimuth Display in R",
+            "homepage": null,
+            "id": 180021871,
+            "language": "R",
+            "license": null,
+            "last_commit": "2020-07-16T02:13:42Z",
+            "open_issues": 1,
+            "owner": "paocorrales",
+            "repo": "rvad",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -5706,6 +5905,48 @@
         },
         {
           "node_type": "item",
+          "title": "jugglr",
+          "description": "by Ella Kaye",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Juggling pattern validation and visualisation",
+            "homepage": "https://ellakaye.github.io/jugglr/",
+            "id": 1122801324,
+            "language": "R",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-08T21:26:46Z",
+            "open_issues": 3,
+            "owner": "EllaKaye",
+            "repo": "jugglr",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mesoda",
+          "description": "by Paola Corrales",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mesoscale data assimilation experiment for a case study during the RELAMPAGO campaign",
+            "homepage": null,
+            "id": 301771945,
+            "language": "TeX",
+            "license": null,
+            "last_commit": "2024-02-22T14:26:33Z",
+            "open_issues": 2,
+            "owner": "paocorrales",
+            "repo": "mesoda",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "missMDA",
           "description": "by Francois Husson, Julie Josse",
           "children": [],
@@ -5724,6 +5965,32 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "moosecounter",
+          "description": "by Subhash Lele, Sophie Czetwertynski, Peter Solymos, Steffi LaZerte, Government of Yukon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Adaptive Moose Surveys",
+            "homepage": "https://psolymos.github.io/moosecounter",
+            "id": 398106664,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-04-25T18:09:42Z",
+            "open_issues": 1,
+            "owner": "psolymos",
+            "repo": "moosecounter",
+            "stars": 3,
+            "topics": [
+              "r",
+              "r-package",
+              "rstats",
+              "shiny"
+            ]
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -5876,6 +6143,48 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "emaxnls",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Nonlinear Least Squares Estimation for Emax Regression Models",
+            "homepage": "https://emaxnls.djnavarro.net/",
+            "id": 1056373757,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-16T23:14:32Z",
+            "open_issues": 4,
+            "owner": "djnavarro",
+            "repo": "emaxnls",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ertte",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://ertte.djnavarro.net/",
+            "id": 1321215331,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-04T23:40:59Z",
+            "open_issues": 0,
+            "owner": "djnavarro",
+            "repo": "ertte",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -6078,6 +6387,27 @@
         },
         {
           "node_type": "item",
+          "title": "erplots",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Model-agnostic exposure-response plots",
+            "homepage": "https://erplots.djnavarro.net/",
+            "id": 1305366123,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-04T21:32:14Z",
+            "open_issues": 0,
+            "owner": "djnavarro",
+            "repo": "erplots",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "ESPA",
           "description": "by Jeganathan Pratheepa, Trindade, Alex",
           "children": [],
@@ -6206,6 +6536,27 @@
             "topics": []
           },
           "first_seen": "2026-10-03T20:12:57.507Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rambutan",
+          "description": "by Athanasia Mo Mowinckel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "http://drmowinckels.io/rambutan/",
+            "id": 1292422972,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-13T16:12:46Z",
+            "open_issues": 0,
+            "owner": "drmowinckels",
+            "repo": "rambutan",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -6368,6 +6719,27 @@
         },
         {
           "node_type": "item",
+          "title": "yowie",
+          "description": "by Dewi Amaliah, Di Cook, Emi Tanaka, Kate Hyde, Nicholas Tierney",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Refreshed Wages Data from NLSY ",
+            "homepage": "https://numbats.github.io/yowie/",
+            "id": 336951620,
+            "language": "R",
+            "license": "GPL-3.0",
+            "last_commit": "2022-06-07T04:14:51Z",
+            "open_issues": 4,
+            "owner": "numbats",
+            "repo": "yowie",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "ARUtools",
           "description": "by David Hope, Steffi LaZerte, Government of Canada",
           "children": [],
@@ -6410,6 +6782,27 @@
         },
         {
           "node_type": "item",
+          "title": "canvasquiz",
+          "description": "by Emi Tanaka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Quiz For Canvas Learning Management System",
+            "homepage": "http://emitanaka.org/canvasquiz/",
+            "id": 1201098482,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-21T22:42:48Z",
+            "open_issues": 2,
+            "owner": "emitanaka",
+            "repo": "canvasquiz",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "chartkickR",
           "description": "by Bilikisu Olatunji",
           "children": [],
@@ -6428,6 +6821,37 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflarer",
+          "description": "by Athanasia Mo Mowinckel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Interface to the Cloudflare API",
+            "homepage": "http://drmowinckels.io/cloudflarer/",
+            "id": 1246076781,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-09T10:21:27Z",
+            "open_issues": 0,
+            "owner": "drmowinckels",
+            "repo": "cloudflarer",
+            "stars": 0,
+            "topics": [
+              "api-client",
+              "api-wrapper",
+              "cloudflare",
+              "cloudflare-api",
+              "dns",
+              "httr2",
+              "r",
+              "r-package",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -6472,6 +6896,27 @@
             ]
           },
           "first_seen": "2026-10-01T22:00:26.855Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cranlint",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Static checks for common CRAN submission mistakes",
+            "homepage": "https://cranlint.djnavarro.net/",
+            "id": 1348552457,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-05T01:19:37Z",
+            "open_issues": 0,
+            "owner": "djnavarro",
+            "repo": "cranlint",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -6584,6 +7029,27 @@
         },
         {
           "node_type": "item",
+          "title": "erglm",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://erglm.djnavarro.net/",
+            "id": 1194331091,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-29T11:42:59Z",
+            "open_issues": 2,
+            "owner": "djnavarro",
+            "repo": "erglm",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "escrocR",
           "description": "by Hilaire Drouineau, Marine Ballutaud, Jeremy Lobry",
           "children": [],
@@ -6636,8 +7102,8 @@
             "id": 629831036,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T11:56:58Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-05T20:28:04Z",
+            "open_issues": 2,
             "owner": "ggsegverse",
             "repo": "ggseg.formats",
             "stars": 0,
@@ -6657,8 +7123,8 @@
             "id": 1199521052,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T20:29:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-05T17:44:41Z",
+            "open_issues": 2,
             "owner": "ggsegverse",
             "repo": "ggseg.meshes",
             "stars": 0,
@@ -6686,6 +7152,29 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "granular",
+          "description": "by Alex Whan, Emi Tanaka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A wrapper and shiny app for mixdist specifically applied to starch granule distributions",
+            "homepage": null,
+            "id": 35611420,
+            "language": "R",
+            "license": "GPL-3.0",
+            "last_commit": "2020-06-04T02:21:43Z",
+            "open_issues": 3,
+            "owner": "csiro-crop-informatics",
+            "repo": "granular",
+            "stars": 0,
+            "topics": [
+              "rstats"
+            ]
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -6850,6 +7339,27 @@
         },
         {
           "node_type": "item",
+          "title": "sketchpad",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://sketchpad.djnavarro.net/",
+            "id": 1328531524,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-23T09:08:25Z",
+            "open_issues": 0,
+            "owner": "djnavarro",
+            "repo": "sketchpad",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "spareg",
           "description": "by Laura Vana-Gür, Roman Parzer, Peter Filzmoser",
           "children": [],
@@ -6955,6 +7465,27 @@
         },
         {
           "node_type": "item",
+          "title": "waeponwifestre",
+          "description": "by Danielle Navarro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Pkgdown Template Package",
+            "homepage": "https://waeponwifestre.djnavarro.net/",
+            "id": 1183094083,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-19T02:54:12Z",
+            "open_issues": 0,
+            "owner": "djnavarro",
+            "repo": "waeponwifestre",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "woylier",
           "description": "by Zola Batsaikan, Dianne Cook, Ursula Laa",
           "children": [],
@@ -6979,7 +7510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:28:25.390Z",
+    "last_updated": "2026-10-05T23:22:08.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
@@ -6987,8 +7518,8 @@
       "id": 340234327,
       "language": "R",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-03T07:37:48Z",
-      "open_issues": 49,
+      "last_commit": "2026-10-05T06:10:44Z",
+      "open_issues": 50,
       "owner": "rladies",
       "repo": "awesome-rladies-creations",
       "stars": 93,
@@ -6998,7 +7529,7 @@
         "rladies"
       ]
     },
-    "original_repository_sha": "5e5f007d2de9a36e4266fdb1687957b69eff945f",
+    "original_repository_sha": "ea6b9b6a06095724ab6d6778995ce75edf9be025",
     "enhanced_repository": "enhansome/enhansome-rladies-creations",
     "enhanced_repository_description": null,
     "title": "Awesome RLadies+ Content and Packages with stars"
