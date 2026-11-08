@@ -15,8 +15,8 @@
             "id": 51905353,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T15:56:11Z",
-            "open_issues": 2288,
+            "last_commit": "2026-11-08T01:22:21Z",
+            "open_issues": 2281,
             "owner": "apache",
             "repo": "arrow",
             "stars": 17278,
@@ -82,7 +82,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T13:37:44Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "tidyverse",
             "repo": "ggplot2",
             "stars": 7025,
@@ -110,7 +110,7 @@
             "open_issues": 9,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2525,
+            "stars": 2526,
             "topics": [
               "package-creation",
               "r"
@@ -227,7 +227,7 @@
             "open_issues": 8,
             "owner": "juliasilge",
             "repo": "tidytext",
-            "stars": 1207,
+            "stars": 1208,
             "topics": [
               "natural-language-processing",
               "r",
@@ -362,7 +362,7 @@
             "open_issues": 87,
             "owner": "r-lib",
             "repo": "usethis",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "github",
               "package",
@@ -560,7 +560,7 @@
             "language": "R",
             "license": null,
             "last_commit": "2026-11-03T13:42:32Z",
-            "open_issues": 193,
+            "open_issues": 195,
             "owner": "igraph",
             "repo": "rigraph",
             "stars": 625,
@@ -815,7 +815,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T16:49:42Z",
+            "last_commit": "2026-11-08T16:58:23Z",
             "open_issues": 33,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -892,7 +892,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T18:17:31Z",
+            "last_commit": "2026-11-08T18:32:51Z",
             "open_issues": 34,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -1333,7 +1333,7 @@
             "open_issues": 18,
             "owner": "tidymodels",
             "repo": "workflows",
-            "stars": 211,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -2279,7 +2279,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T19:08:18Z",
+            "last_commit": "2026-11-08T20:51:31Z",
             "open_issues": 8,
             "owner": "r-hub",
             "repo": "cransays",
@@ -3770,6 +3770,27 @@
         },
         {
           "node_type": "item",
+          "title": "ech",
+          "description": "by Gabriela Mathieu, Richard Detomasi, Tati Micheletti",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Procesamiento de la Encuesta Continua de Hogares de Uruguay",
+            "homepage": "https://calcita.github.io/ech/",
+            "id": 224897952,
+            "language": "R",
+            "license": "GPL-3.0",
+            "last_commit": "2024-02-27T16:38:24Z",
+            "open_issues": 2,
+            "owner": "calcita",
+            "repo": "ech",
+            "stars": 20,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "PPforest",
           "description": "by Natalia da Silva, Dianne Cook, Eun-Kyung Lee",
           "children": [],
@@ -3885,27 +3906,6 @@
               "rstats",
               "rstats-package"
             ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ech",
-          "description": "by Gabriela Mathieu, Richard Detomasi, Tati Micheletti",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Procesamiento de la Encuesta Continua de Hogares de Uruguay",
-            "homepage": "https://calcita.github.io/ech/",
-            "id": 224897952,
-            "language": "R",
-            "license": "GPL-3.0",
-            "last_commit": "2024-02-27T16:38:24Z",
-            "open_issues": 2,
-            "owner": "calcita",
-            "repo": "ech",
-            "stars": 19,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -7566,7 +7566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:05:21.968Z",
+    "last_updated": "2026-11-08T21:22:30.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
