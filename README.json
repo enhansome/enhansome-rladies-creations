@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T22:42:39Z",
-            "open_issues": 2197,
+            "open_issues": 2198,
             "owner": "apache",
             "repo": "arrow",
-            "stars": 17292,
+            "stars": 17295,
             "topics": [
               "arrow",
               "parquet"
@@ -85,7 +85,7 @@
             "open_issues": 121,
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 7025,
+            "stars": 7024,
             "topics": [
               "data-visualisation",
               "r",
@@ -310,7 +310,7 @@
             "open_issues": 19,
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1026,
+            "stars": 1027,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -617,8 +617,8 @@
             "id": 8910139,
             "language": "R",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-13T18:02:57Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-14T16:51:25Z",
+            "open_issues": 21,
             "owner": "amices",
             "repo": "mice",
             "stars": 521,
@@ -815,7 +815,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T18:24:33Z",
+            "last_commit": "2026-11-14T16:57:07Z",
             "open_issues": 33,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -913,7 +913,7 @@
             "id": 89535184,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T20:42:29Z",
+            "last_commit": "2026-11-14T18:55:37Z",
             "open_issues": 34,
             "owner": "tidyverse",
             "repo": "googledrive",
@@ -1153,8 +1153,8 @@
             "id": 145827720,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T18:56:09Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-14T11:09:16Z",
+            "open_issues": 1,
             "owner": "ggsegverse",
             "repo": "ggseg",
             "stars": 276,
@@ -1361,6 +1361,34 @@
         },
         {
           "node_type": "item",
+          "title": "nimble",
+          "description": "by Perry de Valpine, Christopher Paciorek, Daniel Turek, Nick Michaud, Cliff Anderson-Bergman, Fritz Obermeyer, Claudia Wehrhahn Cortes, Abel Rodríguez, Duncan Temple Lang, Wei Zhang, Sally Paganin, Joshua Hug, Paul van Dam-Bates, Jagadish Babu, Lauren Ponisio, Peter Sujan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The base NIMBLE package for R",
+            "homepage": "http://R-nimble.org",
+            "id": 20771527,
+            "language": "C++",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-31T14:30:08Z",
+            "open_issues": 100,
+            "owner": "nimble-dev",
+            "repo": "nimble",
+            "stars": 199,
+            "topics": [
+              "bayesian-inference",
+              "bayesian-methods",
+              "hierarchical-models",
+              "mcmc",
+              "probabilistic-programming",
+              "r"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "vetiver",
           "description": "by Julia Silge, Posit Software, PBC",
           "children": [],
@@ -1377,34 +1405,6 @@
             "repo": "vetiver-r",
             "stars": 199,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "nimble",
-          "description": "by Perry de Valpine, Christopher Paciorek, Daniel Turek, Nick Michaud, Cliff Anderson-Bergman, Fritz Obermeyer, Claudia Wehrhahn Cortes, Abel Rodríguez, Duncan Temple Lang, Wei Zhang, Sally Paganin, Joshua Hug, Paul van Dam-Bates, Jagadish Babu, Lauren Ponisio, Peter Sujan",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The base NIMBLE package for R",
-            "homepage": "http://R-nimble.org",
-            "id": 20771527,
-            "language": "C++",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T14:30:08Z",
-            "open_issues": 100,
-            "owner": "nimble-dev",
-            "repo": "nimble",
-            "stars": 198,
-            "topics": [
-              "bayesian-inference",
-              "bayesian-methods",
-              "hierarchical-models",
-              "mcmc",
-              "probabilistic-programming",
-              "r"
-            ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2279,7 +2279,7 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T18:12:42Z",
+            "last_commit": "2026-11-14T17:24:38Z",
             "open_issues": 9,
             "owner": "r-hub",
             "repo": "cransays",
@@ -3075,7 +3075,7 @@
             "id": 220097457,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T21:23:46Z",
+            "last_commit": "2026-11-14T20:02:42Z",
             "open_issues": 3,
             "owner": "ggsegverse",
             "repo": "ggseg3d",
@@ -3255,6 +3255,29 @@
         },
         {
           "node_type": "item",
+          "title": "ggauto",
+          "description": "by Nicola Rennie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Opinionated `ggplot2` extension package to automatically choose the best chart type and styling.",
+            "homepage": "http://nrennie.rbind.io/ggauto/",
+            "id": 1172857970,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-28T14:17:18Z",
+            "open_issues": 4,
+            "owner": "nrennie",
+            "repo": "ggauto",
+            "stars": 38,
+            "topics": [
+              "r-package"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "sknifedatar",
           "description": "by Rafael Zambrano, Karina Bartolome, Rodrigo Serrano",
           "children": [],
@@ -3279,29 +3302,6 @@
               "r",
               "statistics",
               "time-series"
-            ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ggauto",
-          "description": "by Nicola Rennie",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Opinionated `ggplot2` extension package to automatically choose the best chart type and styling.",
-            "homepage": "http://nrennie.rbind.io/ggauto/",
-            "id": 1172857970,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-06-28T14:17:18Z",
-            "open_issues": 4,
-            "owner": "nrennie",
-            "repo": "ggauto",
-            "stars": 37,
-            "topics": [
-              "r-package"
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -3490,7 +3490,7 @@
             "id": 105277533,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-24T16:27:39Z",
+            "last_commit": "2026-11-14T20:03:07Z",
             "open_issues": 5,
             "owner": "friendly",
             "repo": "vcdExtra",
@@ -7592,7 +7592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:54:18.784Z",
+    "last_updated": "2026-11-14T21:41:04.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",
