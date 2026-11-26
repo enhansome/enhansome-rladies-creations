@@ -15,11 +15,11 @@
             "id": 51905353,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T01:11:23Z",
-            "open_issues": 2160,
+            "last_commit": "2026-11-25T16:45:12Z",
+            "open_issues": 2172,
             "owner": "apache",
             "repo": "arrow",
-            "stars": 17340,
+            "stars": 17347,
             "topics": [
               "arrow",
               "parquet"
@@ -40,10 +40,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T00:21:43Z",
-            "open_issues": 2853,
+            "open_issues": 2855,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7530,
+            "stars": 7532,
             "topics": [
               "automl",
               "big-data",
@@ -110,7 +110,7 @@
             "open_issues": 11,
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2527,
+            "stars": 2528,
             "topics": [
               "package-creation",
               "r"
@@ -134,7 +134,7 @@
             "open_issues": 30,
             "owner": "rstudio",
             "repo": "blogdown",
-            "stars": 1792,
+            "stars": 1793,
             "topics": [
               "blog-engine",
               "blogdown",
@@ -227,7 +227,7 @@
             "open_issues": 8,
             "owner": "juliasilge",
             "repo": "tidytext",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "natural-language-processing",
               "r",
@@ -254,7 +254,7 @@
             "open_issues": 20,
             "owner": "ropensci",
             "repo": "skimr",
-            "stars": 1144,
+            "stars": 1145,
             "topics": [
               "peer-reviewed",
               "r",
@@ -284,7 +284,7 @@
             "open_issues": 110,
             "owner": "tidyverse",
             "repo": "readr",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "csv",
               "fwf",
@@ -310,7 +310,7 @@
             "open_issues": 19,
             "owner": "allisonhorst",
             "repo": "palmerpenguins",
-            "stars": 1028,
+            "stars": 1029,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -327,8 +327,8 @@
             "id": 25181584,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T23:03:45Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-25T07:40:05Z",
+            "open_issues": 47,
             "owner": "h2oai",
             "repo": "sparkling-water",
             "stars": 982,
@@ -362,7 +362,7 @@
             "open_issues": 88,
             "owner": "r-lib",
             "repo": "usethis",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "github",
               "package",
@@ -389,7 +389,7 @@
             "open_issues": 7,
             "owner": "tidymodels",
             "repo": "infer",
-            "stars": 797,
+            "stars": 798,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -410,7 +410,7 @@
             "open_issues": 124,
             "owner": "r-lib",
             "repo": "pkgdown",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "documentation-tool",
               "package",
@@ -435,7 +435,7 @@
             "open_issues": 48,
             "owner": "tidyverse",
             "repo": "readxl",
-            "stars": 755,
+            "stars": 756,
             "topics": [
               "excel",
               "r",
@@ -462,7 +462,7 @@
             "open_issues": 30,
             "owner": "tidyverse",
             "repo": "reprex",
-            "stars": 753,
+            "stars": 754,
             "topics": [
               "github",
               "r",
@@ -535,7 +535,7 @@
             "open_issues": 81,
             "owner": "tidyverse",
             "repo": "vroom",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "csv",
               "csv-parser",
@@ -563,7 +563,7 @@
             "open_issues": 196,
             "owner": "igraph",
             "repo": "rigraph",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "complex-networks",
               "graph-algorithms",
@@ -621,7 +621,7 @@
             "open_issues": 21,
             "owner": "amices",
             "repo": "mice",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "chained-equations",
               "fcs",
@@ -651,7 +651,7 @@
             "open_issues": 6,
             "owner": "ropensci-review-tools",
             "repo": "goodpractice",
-            "stars": 483,
+            "stars": 484,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -708,7 +708,7 @@
             "open_issues": 3,
             "owner": "rvlenth",
             "repo": "emmeans",
-            "stars": 432,
+            "stars": 433,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -729,7 +729,7 @@
             "open_issues": 70,
             "owner": "RinteRface",
             "repo": "shinyMobile",
-            "stars": 421,
+            "stars": 420,
             "topics": [
               "android",
               "hacktoberfest2022",
@@ -758,7 +758,7 @@
             "open_issues": 28,
             "owner": "luukvdmeer",
             "repo": "sfnetworks",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "geospatial-networks",
               "network-analysis",
@@ -815,7 +815,7 @@
             "id": 89657511,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T21:05:02Z",
+            "last_commit": "2026-11-25T20:26:00Z",
             "open_issues": 33,
             "owner": "tidyverse",
             "repo": "googlesheets4",
@@ -870,12 +870,36 @@
             "open_issues": 3,
             "owner": "sckott",
             "repo": "cowsay",
-            "stars": 350,
+            "stars": 352,
             "topics": [
               "ascii-art",
               "r",
               "r-stats",
               "rstats"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "googledrive",
+          "description": "by Lucy D’Agostino McGowan, Jennifer Bryan, Posit Software, PBC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Google Drive R API",
+            "homepage": "https://googledrive.tidyverse.org/",
+            "id": 89535184,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-25T22:45:16Z",
+            "open_issues": 34,
+            "owner": "tidyverse",
+            "repo": "googledrive",
+            "stars": 349,
+            "topics": [
+              "google-drive",
+              "r"
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -903,30 +927,6 @@
         },
         {
           "node_type": "item",
-          "title": "googledrive",
-          "description": "by Lucy D’Agostino McGowan, Jennifer Bryan, Posit Software, PBC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Google Drive R API",
-            "homepage": "https://googledrive.tidyverse.org/",
-            "id": 89535184,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-24T23:17:31Z",
-            "open_issues": 34,
-            "owner": "tidyverse",
-            "repo": "googledrive",
-            "stars": 348,
-            "topics": [
-              "google-drive",
-              "r"
-            ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
           "title": "datasauRus",
           "description": "by Colin Gillespie, Steph Locke, Alberto Cairo, Rhian Davies, Justin Matejka, George Fitzmaurice, Lucy D’Agostino McGowan, Richard Cotton, Tim Book, Jumping Rivers",
           "children": [],
@@ -941,7 +941,7 @@
             "open_issues": 1,
             "owner": "jumpingrivers",
             "repo": "datasauRus",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "anscombesquartet",
               "datasaurus",
@@ -971,7 +971,7 @@
             "open_issues": 43,
             "owner": "tidymodels",
             "repo": "rsample",
-            "stars": 343,
+            "stars": 344,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -1023,7 +1023,7 @@
             "open_issues": 48,
             "owner": "rstudio",
             "repo": "pins-r",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "azure",
               "gcloud",
@@ -1052,7 +1052,7 @@
             "open_issues": 18,
             "owner": "juliasilge",
             "repo": "widyr",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -1069,7 +1069,7 @@
             "id": 50974710,
             "language": "R",
             "license": null,
-            "last_commit": "2026-11-24T19:19:51Z",
+            "last_commit": "2026-11-25T15:36:39Z",
             "open_issues": 6,
             "owner": "neuhausi",
             "repo": "canvasXpress",
@@ -1153,8 +1153,8 @@
             "id": 145827720,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T22:01:57Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-25T12:05:10Z",
+            "open_issues": 1,
             "owner": "ggsegverse",
             "repo": "ggseg",
             "stars": 277,
@@ -1231,7 +1231,7 @@
             "open_issues": 3,
             "owner": "OpenIntroStat",
             "repo": "openintro",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "data",
               "openintro",
@@ -1257,7 +1257,7 @@
             "open_issues": 23,
             "owner": "r-lib",
             "repo": "gmailr",
-            "stars": 237,
+            "stars": 238,
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -1375,7 +1375,7 @@
             "open_issues": 100,
             "owner": "nimble-dev",
             "repo": "nimble",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "bayesian-inference",
               "bayesian-methods",
@@ -1445,7 +1445,7 @@
             "open_issues": 34,
             "owner": "ropensci",
             "repo": "dataspice",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "data",
               "dataset",
@@ -1575,7 +1575,7 @@
             "open_issues": 14,
             "owner": "rkillick",
             "repo": "changepoint",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "changepoint",
               "cran",
@@ -1583,6 +1583,27 @@
               "r",
               "segmentation"
             ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "butcher",
+          "description": "by Joyce Cahoon, Davis Vaughan, Max Kuhn, Alex Hayes, Julia Silge, Posit Software, PBC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Reduce the size of model objects saved to disk",
+            "homepage": "https://butcher.tidymodels.org/",
+            "id": 190640087,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-02-25T22:43:47Z",
+            "open_issues": 12,
+            "owner": "tidymodels",
+            "repo": "butcher",
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1610,27 +1631,6 @@
               "r",
               "xml"
             ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "butcher",
-          "description": "by Joyce Cahoon, Davis Vaughan, Max Kuhn, Alex Hayes, Julia Silge, Posit Software, PBC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Reduce the size of model objects saved to disk",
-            "homepage": "https://butcher.tidymodels.org/",
-            "id": 190640087,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-02-25T22:43:47Z",
-            "open_issues": 12,
-            "owner": "tidymodels",
-            "repo": "butcher",
-            "stars": 139,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -1784,7 +1784,7 @@
             "open_issues": 6,
             "owner": "ropensci",
             "repo": "weathercan",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "environment-canada",
               "peer-reviewed",
@@ -1913,6 +1913,27 @@
         },
         {
           "node_type": "item",
+          "title": "hardhat",
+          "description": "by Hannah Frick, Davis Vaughan, Max Kuhn, Posit Software, PBC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Construct Modeling Packages",
+            "homepage": "https://hardhat.tidymodels.org",
+            "id": 170162478,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-24T17:57:34Z",
+            "open_issues": 8,
+            "owner": "tidymodels",
+            "repo": "hardhat",
+            "stars": 110,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "pkgsearch",
           "description": "by Gábor Csárdi, Maëlle Salmon, R Consortium",
           "children": [],
@@ -1937,27 +1958,6 @@
               "rstats",
               "search-engine"
             ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hardhat",
-          "description": "by Hannah Frick, Davis Vaughan, Max Kuhn, Posit Software, PBC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Construct Modeling Packages",
-            "homepage": "https://hardhat.tidymodels.org",
-            "id": 170162478,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-24T17:57:34Z",
-            "open_issues": 8,
-            "owner": "tidymodels",
-            "repo": "hardhat",
-            "stars": 109,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -2073,7 +2073,7 @@
             "open_issues": 3,
             "owner": "jumpingrivers",
             "repo": "namer",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "r",
               "r-package",
@@ -2099,7 +2099,7 @@
             "open_issues": 31,
             "owner": "ropensci",
             "repo": "vcr",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "mocking",
               "r",
@@ -2128,7 +2128,7 @@
             "open_issues": 10,
             "owner": "sctyner",
             "repo": "geomnet",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "cran",
               "ggplot2",
@@ -2279,11 +2279,11 @@
             "id": 152206619,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T13:01:03Z",
+            "last_commit": "2026-11-26T00:45:45Z",
             "open_issues": 9,
             "owner": "r-hub",
             "repo": "cransays",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "cran",
               "cran-r",
@@ -2462,29 +2462,6 @@
         },
         {
           "node_type": "item",
-          "title": "DALEXtra",
-          "description": "by Szymon Maksymiuk, Przemyslaw Biecek, Hubert Baniecki, Anna Kozak",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Extensions for the DALEX package",
-            "homepage": "https://ModelOriented.github.io/DALEXtra/",
-            "id": 196374651,
-            "language": "R",
-            "license": null,
-            "last_commit": "2026-01-14T01:10:21Z",
-            "open_issues": 3,
-            "owner": "ModelOriented",
-            "repo": "DALEXtra",
-            "stars": 68,
-            "topics": [
-              "extension-for-dalex-package"
-            ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
           "title": "USAboundaries",
           "description": "by Lincoln Mullen, Jordan Bratt, United States Census Bureau, Jacci Ziebert",
           "children": [],
@@ -2499,7 +2476,7 @@
             "open_issues": 0,
             "owner": "ropensci",
             "repo": "USAboundaries",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "digital-history",
               "history",
@@ -2527,7 +2504,7 @@
             "open_issues": 27,
             "owner": "ropensci",
             "repo": "codemetar",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "codemeta",
               "json-ld",
@@ -2536,6 +2513,29 @@
               "r",
               "r-package",
               "rstats"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DALEXtra",
+          "description": "by Szymon Maksymiuk, Przemyslaw Biecek, Hubert Baniecki, Anna Kozak",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extensions for the DALEX package",
+            "homepage": "https://ModelOriented.github.io/DALEXtra/",
+            "id": 196374651,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-01-14T01:10:21Z",
+            "open_issues": 3,
+            "owner": "ModelOriented",
+            "repo": "DALEXtra",
+            "stars": 68,
+            "topics": [
+              "extension-for-dalex-package"
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -2573,7 +2573,7 @@
             "id": 164153759,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T22:58:13Z",
+            "last_commit": "2026-11-25T20:40:54Z",
             "open_issues": 6,
             "owner": "ggsegverse",
             "repo": "ggseg.extra",
@@ -2619,7 +2619,7 @@
             "open_issues": 34,
             "owner": "ropensci",
             "repo": "tinkr",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "commonmark",
               "r",
@@ -2770,6 +2770,33 @@
         },
         {
           "node_type": "item",
+          "title": "PKPDsim",
+          "description": "by Ron Keizer, Jasmine Hughes, Dominic Tong, Kara Woo, Jordan Brooks, InsightRX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simulate PK-PD models defined as ODE systems",
+            "homepage": "https://insightrx.github.io/PKPDsim/",
+            "id": 100528653,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-25T01:26:45Z",
+            "open_issues": 5,
+            "owner": "InsightRX",
+            "repo": "PKPDsim",
+            "stars": 55,
+            "topics": [
+              "ode",
+              "pharmacodynamics",
+              "pharmacokinetics",
+              "pharmacometrics",
+              "r"
+            ]
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "connectapi",
           "description": "by Kara Woo, Toph Allen, Neal Richardson, Sean Lopp, Cole Arendt, Posit, PBC",
           "children": [],
@@ -2813,33 +2840,6 @@
             "stars": 54,
             "topics": [
               "package-development"
-            ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PKPDsim",
-          "description": "by Ron Keizer, Jasmine Hughes, Dominic Tong, Kara Woo, Jordan Brooks, InsightRX",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simulate PK-PD models defined as ODE systems",
-            "homepage": "https://insightrx.github.io/PKPDsim/",
-            "id": 100528653,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-25T01:26:45Z",
-            "open_issues": 5,
-            "owner": "InsightRX",
-            "repo": "PKPDsim",
-            "stars": 54,
-            "topics": [
-              "ode",
-              "pharmacodynamics",
-              "pharmacokinetics",
-              "pharmacometrics",
-              "r"
             ]
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
@@ -3075,8 +3075,8 @@
             "id": 220097457,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T22:22:14Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-25T12:09:58Z",
+            "open_issues": 0,
             "owner": "ggsegverse",
             "repo": "ggseg3d",
             "stars": 46,
@@ -3385,8 +3385,8 @@
             "id": 5859513,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-21T14:56:34Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-25T16:09:49Z",
+            "open_issues": 21,
             "owner": "vubiostat",
             "repo": "redcapAPI",
             "stars": 34,
@@ -3756,7 +3756,7 @@
             "id": 101198961,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-23T13:27:04Z",
+            "last_commit": "2026-11-25T17:36:36Z",
             "open_issues": 12,
             "owner": "Bioconductor",
             "repo": "AnnotationHub",
@@ -4310,7 +4310,7 @@
             "id": 83349790,
             "language": "R",
             "license": null,
-            "last_commit": "2026-11-09T22:36:28Z",
+            "last_commit": "2026-11-25T17:36:24Z",
             "open_issues": 13,
             "owner": "Bioconductor",
             "repo": "BiocFileCache",
@@ -4647,7 +4647,7 @@
             "id": 230523103,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-02-22T10:33:27Z",
+            "last_commit": "2026-11-25T15:32:40Z",
             "open_issues": 25,
             "owner": "RaymondBalise",
             "repo": "tidyREDCap",
@@ -4694,7 +4694,7 @@
             "id": 101312073,
             "language": "R",
             "license": null,
-            "last_commit": "2026-08-19T16:09:21Z",
+            "last_commit": "2026-11-25T17:36:49Z",
             "open_issues": 7,
             "owner": "Bioconductor",
             "repo": "ExperimentHub",
@@ -4817,6 +4817,27 @@
         },
         {
           "node_type": "item",
+          "title": "pregnancy",
+          "description": "by Ella Kaye",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://ellakaye.github.io/pregnancy/",
+            "id": 375598079,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-01-15T15:56:05Z",
+            "open_issues": 1,
+            "owner": "EllaKaye",
+            "repo": "pregnancy",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:10:49.630Z"
+        },
+        {
+          "node_type": "item",
           "title": "quollr",
           "description": "by Jayani P. Gamage, Dianne Cook, Paul Harrison, Michael Lydeamore, Thiyanga S. Talagala",
           "children": [],
@@ -4929,27 +4950,6 @@
               "rstats",
               "wfs"
             ]
-          },
-          "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pregnancy",
-          "description": "by Ella Kaye",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://ellakaye.github.io/pregnancy/",
-            "id": 375598079,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-01-15T15:56:05Z",
-            "open_issues": 1,
-            "owner": "EllaKaye",
-            "repo": "pregnancy",
-            "stars": 8,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
         },
@@ -5650,6 +5650,27 @@
         },
         {
           "node_type": "item",
+          "title": "jugglr",
+          "description": "by Ella Kaye",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Juggling pattern validation and visualisation",
+            "homepage": "https://ellakaye.github.io/jugglr/",
+            "id": 1122801324,
+            "language": "R",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-08T20:03:37Z",
+            "open_issues": 3,
+            "owner": "EllaKaye",
+            "repo": "jugglr",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T23:22:08.008Z"
+        },
+        {
+          "node_type": "item",
           "title": "Kmisc",
           "description": "by Seo-young Silvia Kim",
           "children": [],
@@ -5972,27 +5993,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:10:49.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "jugglr",
-          "description": "by Ella Kaye",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Juggling pattern validation and visualisation",
-            "homepage": "https://ellakaye.github.io/jugglr/",
-            "id": 1122801324,
-            "language": "R",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-08T20:03:37Z",
-            "open_issues": 3,
-            "owner": "EllaKaye",
-            "repo": "jugglr",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-10-05T23:22:08.008Z"
         },
         {
           "node_type": "item",
@@ -7158,8 +7158,8 @@
             "id": 629831036,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T22:21:00Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-25T13:45:40Z",
+            "open_issues": 6,
             "owner": "ggsegverse",
             "repo": "ggseg.formats",
             "stars": 0,
@@ -7179,7 +7179,7 @@
             "id": 1199521052,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T22:00:43Z",
+            "last_commit": "2026-11-25T12:03:07Z",
             "open_issues": 1,
             "owner": "ggsegverse",
             "repo": "ggseg.meshes",
@@ -7592,7 +7592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:36:38.837Z",
+    "last_updated": "2026-11-26T01:10:55.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of RLadies+ community blogs, YouTube channels, and R packages",

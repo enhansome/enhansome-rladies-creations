@@ -121,12 +121,12 @@ aggregated file is written to `data/website/awesome_content.json`.
 Created from the JSON files in `data/packages/` (one JSON per package).
 The aggregated file is written to `data/website/awesome_packages.json`.
 
-* [arrow](https://github.com/apache/arrow/) ⭐ 17,340 | 🐛 2,160 | 🌐 C++ | 📅 2026-11-25 by Neal Richardson, Ian
+* [arrow](https://github.com/apache/arrow/) ⭐ 17,347 | 🐛 2,172 | 🌐 C++ | 📅 2026-11-25 by Neal Richardson, Ian
   Cook, Nic Crane, Dewey Dunnington, Romain François, Jonathan Keane,
   Bryce Mecum, Dragoș Moldovan-Grünfeld, Jeroen Ooms, Jacob
   Wujciak-Jens, Javier Luraschi, Karl Dunkle Werner, Jeffrey Wong,
   Apache Arrow
-* [h2o](https://github.com/h2oai/h2o-3) ⭐ 7,530 | 🐛 2,853 | 🌐 Jupyter Notebook | 📅 2026-11-11 by Tomas Fryda, Erin LeDell,
+* [h2o](https://github.com/h2oai/h2o-3) ⭐ 7,532 | 🐛 2,855 | 🌐 Jupyter Notebook | 📅 2026-11-11 by Tomas Fryda, Erin LeDell,
   Navdeep Gill, Spencer Aiello, Anqi Fu, Arno Candel, Cliff Click, Tom
   Kraljevic, Tomas Nykodym, Patrick Aboyoun, Michal Kurka, Michal
   Malohlava, Sebastien Poirier, Wendy Wong, Ludi Rehak, Eric Eckstrand,
@@ -137,9 +137,9 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Winston Chang, Lionel Henry, Thomas Lin Pedersen, Kohske Takahashi,
   Claus Wilke, Kara Woo, Hiroaki Yutani, Dewey Dunnington, Teun van den
   Brand, Posit, PBC
-* [devtools](https://github.com/r-lib/devtools) ⭐ 2,527 | 🐛 11 | 🌐 R | 📅 2026-11-18 by Hadley Wickham, Jim
+* [devtools](https://github.com/r-lib/devtools) ⭐ 2,528 | 🐛 11 | 🌐 R | 📅 2026-11-18 by Hadley Wickham, Jim
   Hester, Winston Chang, Jennifer Bryan, Posit Software, PBC
-* [blogdown](https://github.com/rstudio/blogdown) ⭐ 1,792 | 🐛 30 | 🌐 R | 📅 2026-11-18 by Yihui Xie,
+* [blogdown](https://github.com/rstudio/blogdown) ⭐ 1,793 | 🐛 30 | 🌐 R | 📅 2026-11-18 by Yihui Xie,
   Christophe Dervieux, Alison Presmanes Hill, Amber Thomas, Beilei Bian,
   Brandon Greenwell, Brian Barkley, Deependra Dhakal, Eric Nantz, Forest
   Fang, Garrick Aden-Buie, Hiroaki Yutani, Ian Lyttle, Jake Barlow,
@@ -166,115 +166,115 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Lavery, Karissa Whiting, Emily C. Zabor, Xing Bai, Malcolm Barrett,
   Esther Drill, Jessica Flynn, Margie Hannum, Stephanie Lobaugh, Shannon
   Pileggi, Amy Tin, Gustavo Zapata Wainberg
-* [tidytext](https://github.com/juliasilge/tidytext) ⭐ 1,206 | 🐛 8 | 🌐 R | 📅 2026-08-02 by Gabriela De
+* [tidytext](https://github.com/juliasilge/tidytext) ⭐ 1,207 | 🐛 8 | 🌐 R | 📅 2026-08-02 by Gabriela De
   Queiroz, Colin Fay, Emil Hvitfeldt, Os Keyes, Kanishka Misra, Tim
   Mastny, Jeff Erickson, David Robinson, Julia Silge
-* [skimr](https://github.com/ropensci/skimr/) ⭐ 1,144 | 🐛 20 | 🌐 HTML | 📅 2026-01-08 by Elin Waring, Michael
+* [skimr](https://github.com/ropensci/skimr/) ⭐ 1,145 | 🐛 20 | 🌐 HTML | 📅 2026-01-08 by Elin Waring, Michael
   Quinn, Amelia McNamara, Eduardo Arino de la Rubia, Hao Zhu, Julia
   Lowndes, Shannon Ellis, Hope McLeod, Hadley Wickham, Kirill Müller,
   RStudio, Inc., Connor Kirkpatrick, Scott Brenstuhl, Patrick Schratz,
   lbusett, Mikko Korpela, Jennifer Thompson, Harris McGehee, Mark
   Roepke, Patrick Kennedy, Daniel Possenriede, David Zimmermann, Kyle
   Butts, Bastian Torges, Rick Saporta, Henry Morgan Stewart, Olivier Roy
-* [readr](https://github.com/tidyverse/readr) ⭐ 1,041 | 🐛 110 | 🌐 R | 📅 2026-04-10 by Hadley Wickham, Jim
+* [readr](https://github.com/tidyverse/readr) ⭐ 1,042 | 🐛 110 | 🌐 R | 📅 2026-04-10 by Hadley Wickham, Jim
   Hester, Romain Francois, Jennifer Bryan, Shelby Bearrows, Posit
   Software, PBC, <https://github.com/mandreyel/>, Jukka Jylänki, Mikkel
   Jørgensen
-* [palmerpenguins](https://github.com/allisonhorst/palmerpenguins) ⭐ 1,028 | 🐛 19 | 🌐 R | 📅 2024-09-19 by
+* [palmerpenguins](https://github.com/allisonhorst/palmerpenguins) ⭐ 1,029 | 🐛 19 | 🌐 R | 📅 2024-09-19 by
   Allison Horst, Alison Hill, Kristen Gorman
-* [rsparkling](https://github.com/h2oai/sparkling-water/tree/master/r) ⭐ 982 | 🐛 45 | 🌐 Scala | 📅 2026-11-23
+* [rsparkling](https://github.com/h2oai/sparkling-water/tree/master/r) ⭐ 982 | 🐛 47 | 🌐 Scala | 📅 2026-11-25
   by Jakub Hava, Navdeep Gill, Erin LeDell, Michal Malohlava, JJ
   Allaire, H2O.ai, RStudio
-* [usethis](https://github.com/r-lib/usethis) ⭐ 926 | 🐛 88 | 🌐 R | 📅 2026-10-30 by Hadley Wickham,
+* [usethis](https://github.com/r-lib/usethis) ⭐ 927 | 🐛 88 | 🌐 R | 📅 2026-10-30 by Hadley Wickham,
   Jennifer Bryan, Malcolm Barrett, Andy Teucher, Posit Software, PBC
-* [infer](https://github.com/tidymodels/infer) ⭐ 797 | 🐛 7 | 🌐 R | 📅 2026-04-13 by Andrew Bray, Chester
+* [infer](https://github.com/tidymodels/infer) ⭐ 798 | 🐛 7 | 🌐 R | 📅 2026-04-13 by Andrew Bray, Chester
   Ismay, Evgeni Chasnovski, Simon Couch, Ben Baumer, Mine
   Cetinkaya-Rundel, Ted Laderas, Nick Solomon, Johanna Hardin, Albert Y.
   Kim, Neal Fultz, Doug Friedman, Richie Cotton, Brian Fannin
-* [pkgdown](https://github.com/r-lib/pkgdown) ⭐ 777 | 🐛 124 | 🌐 R | 📅 2026-08-12 by Hadley Wickham, Jay
+* [pkgdown](https://github.com/r-lib/pkgdown) ⭐ 778 | 🐛 124 | 🌐 R | 📅 2026-08-12 by Hadley Wickham, Jay
   Hesselberth, Maëlle Salmon, Olivier Roy, Salim Brüggemann, Posit
   Software, PBC
-* [readxl](https://github.com/tidyverse/readxl) ⭐ 755 | 🐛 48 | 🌐 C++ | 📅 2026-10-19 by Hadley Wickham,
+* [readxl](https://github.com/tidyverse/readxl) ⭐ 756 | 🐛 48 | 🌐 C++ | 📅 2026-10-19 by Hadley Wickham,
   Jennifer Bryan, Posit, PBC, Marcin Kalicinski, Komarov Valery,
   Christophe Leitienne, Bob Colbert, David Hoerl, Evan Miller
-* [reprex](https://github.com/tidyverse/reprex) ⭐ 753 | 🐛 30 | 🌐 R | 📅 2026-04-10 by Jennifer Bryan, Jim
+* [reprex](https://github.com/tidyverse/reprex) ⭐ 754 | 🐛 30 | 🌐 R | 📅 2026-04-10 by Jennifer Bryan, Jim
   Hester, David Robinson, Hadley Wickham, Christophe Dervieux, Posit
   Software, PBC
 * [glue](https://github.com/tidyverse/glue) ⭐ 749 | 🐛 7 | 🌐 R | 📅 2026-04-21 by Jim Hester, Jennifer
   Bryan, Posit Software, PBC
 * [phyloseq](https://github.com/joey711/phyloseq) ⭐ 654 | 🐛 769 | 🌐 R | 📅 2026-02-27 by Paul J. McMurdie,
   Susan Holmes, Gregory Jordan, Scott Chamberlain
-* [vroom](https://github.com/tidyverse/vroom) ⭐ 643 | 🐛 81 | 🌐 C++ | 📅 2026-09-21 by Jim Hester, Hadley
+* [vroom](https://github.com/tidyverse/vroom) ⭐ 644 | 🐛 81 | 🌐 C++ | 📅 2026-09-21 by Jim Hester, Hadley
   Wickham, Jennifer Bryan, Shelby Bearrows,
   <https://github.com/mandreyel/>, Jukka Jylänki, Mikkel Jørgensen,
   Posit Software, PBC
-* [igraph](https://github.com/igraph/rigraph) ⭐ 625 | 🐛 196 | 🌐 R | 📅 2026-11-18 by Gábor Csárdi, Tamás
+* [igraph](https://github.com/igraph/rigraph) ⭐ 626 | 🐛 196 | 🌐 R | 📅 2026-11-18 by Gábor Csárdi, Tamás
   Nepusz, Vincent Traag, Szabolcs Horvát, Fabio Zanini, Daniel Noom,
   Kirill Müller, Michael Antonov, Chan Zuckerberg Initiative, David
   Schoch, Maëlle Salmon, R Consortium
 * [dada2](https://github.com/benjjneb/dada2) ⭐ 563 | 🐛 234 | 🌐 R | 📅 2026-07-31 by Benjamin Callahan
   <benjamin.j.callahan@gmail.com>, Paul McMurdie, Susan Holmes
-* [mice](https://github.com/amices/mice) ⭐ 521 | 🐛 21 | 🌐 R | 📅 2026-11-23 by Stef van Buuren, Karin
+* [mice](https://github.com/amices/mice) ⭐ 522 | 🐛 21 | 🌐 R | 📅 2026-11-23 by Stef van Buuren, Karin
   Groothuis-Oudshoorn, Gerko Vink, Rianne Schouten, Alexander Robitzsch,
   Patrick Rockenschaub, Lisa Doove, Shahab Jolani, Margarita
   Moreno-Betancur, Ian White, Philipp Gaffert, Florian Meinfelder,
   Bernie Gray, Vincent Arel-Bundock, Mingyang Cai, Thom Volker, Edoardo
   Costantini, Caspar van Lissa, Hanne Oberman, Stephen Wade, Florian van
   Leeuwen, Frederik Fabricius-Bjerre
-* [goodpractice](https://github.com/ropensci-review-tools/goodpractice) ⭐ 483 | 🐛 6 | 🌐 R | 📅 2026-10-14
+* [goodpractice](https://github.com/ropensci-review-tools/goodpractice) ⭐ 484 | 🐛 6 | 🌐 R | 📅 2026-10-14
   by Mark Padgham, Ascent Digital Services UK Limited, Karina Marks,
   Daniel de Bortoli, Gabor Csardi, Hannah Frick, Owen Jones, Hannah
   Alexander, Ana Simmons, Fabian Scheipl
 * [h2o4gpu](https://github.com/h2oai/h2o4gpu) ⭐ 467 | 🐛 162 | 🌐 C++ | 📅 2026-10-29 by Yuan Tang, Navdeep
   Gill, Erin LeDell, Vladimir Ovsyannikov, H2O.ai
-* [emmeans](https://github.com/rvlenth/emmeans/) ⭐ 432 | 🐛 3 | 🌐 R | 📅 2026-11-23 by Russell V. Lenth,
+* [emmeans](https://github.com/rvlenth/emmeans/) ⭐ 433 | 🐛 3 | 🌐 R | 📅 2026-11-23 by Russell V. Lenth,
   Julia Piaskowski, Balazs Banfai, Ben Bolker, Paul Buerkner, Iago
   Giné-Vázquez, Maxime Hervé, Maarten Jung, Jonathon Love, Fernando
   Miguez, Hannes Riebl, Henrik Singmann
-* [shinyMobile](https://github.com/RinteRface/shinyMobile) ⭐ 421 | 🐛 70 | 🌐 R | 📅 2026-06-13 by David
+* [shinyMobile](https://github.com/RinteRface/shinyMobile) ⭐ 420 | 🐛 70 | 🌐 R | 📅 2026-06-13 by David
   Granjon, Veerle van Leemput, AthlyticZ, Victor Perrier, John Coene,
   Isabelle Rudolf, Dieter Menne, Marvelapp, Vladimir Kharlampidi
-* [sfnetworks](https://github.com/luukvdmeer/sfnetworks) ⭐ 402 | 🐛 28 | 🌐 R | 📅 2026-05-14 by Lucas van
+* [sfnetworks](https://github.com/luukvdmeer/sfnetworks) ⭐ 403 | 🐛 28 | 🌐 R | 📅 2026-05-14 by Lucas van
   der Meer, Lorena Abad, Andrea Gilardi, Robin Lovelace
 * [aws.s3](https://github.com/cloudyr/aws.s3) ⭐ 384 | 🐛 94 | 🌐 R | 📅 2025-08-18 by Thomas J. Leeper,
   Boettiger Carl, Andrew Martin, Mark Thompson, Tyler Hunt, Steven
   Akins, Bao Nguyen, Thierry Onkelinx, Andrii Degtiarov, Dhruv Aggarwal,
   Alyssa Columbus, Simon Urbanek
-* [googlesheets4](https://github.com/tidyverse/googlesheets4) ⭐ 379 | 🐛 33 | 🌐 R | 📅 2026-11-24 by
+* [googlesheets4](https://github.com/tidyverse/googlesheets4) ⭐ 379 | 🐛 33 | 🌐 R | 📅 2026-11-25 by
   Jennifer Bryan, Posit Software, PBC
 * [rhub](https://github.com/r-hub/rhub) ⭐ 370 | 🐛 48 | 🌐 R | 📅 2025-03-07 by Gábor Csárdi, Maëlle Salmon,
   R Consortium
-* [cowsay](https://github.com/sckott/cowsay) ⭐ 350 | 🐛 3 | 🌐 HTML | 📅 2025-10-29 by Scott Chamberlain,
+* [cowsay](https://github.com/sckott/cowsay) ⭐ 352 | 🐛 3 | 🌐 HTML | 📅 2025-10-29 by Scott Chamberlain,
   Amanda Dobbyn, Tyler Rinker, Thomas Leeper, Noam Ross, Rich FitzJohn,
   Carson Sievert, Kiyoko Gotanda, Andy Teucher, Karl Broman,
   Franz-Sebastian Krah, Lucy D’Agostino McGowan, Guangchuang Yu, Philipp
   Boersch-Supan, Andreas Brandmaier, Marion Louveaux, David Schoch
+* [googledrive](https://github.com/tidyverse/googledrive) ⭐ 349 | 🐛 34 | 🌐 R | 📅 2026-11-25 by Lucy
+  D’Agostino McGowan, Jennifer Bryan, Posit Software, PBC
 * [slingshot](https://github.com/kstreet13/slingshot) ⭐ 349 | 🐛 8 | 🌐 R | 📅 2024-04-23 by Kelly Street,
   Davide Risso, Diya Das, Sandrine Dudoit, Koen Van den Berge, Robrecht
   Cannoodt
-* [googledrive](https://github.com/tidyverse/googledrive) ⭐ 348 | 🐛 34 | 🌐 R | 📅 2026-11-24 by Lucy
-  D’Agostino McGowan, Jennifer Bryan, Posit Software, PBC
-* [datasauRus](https://github.com/jumpingrivers/datasauRus) ⭐ 347 | 🐛 1 | 🌐 R | 📅 2026-10-14 by Colin
+* [datasauRus](https://github.com/jumpingrivers/datasauRus) ⭐ 348 | 🐛 1 | 🌐 R | 📅 2026-10-14 by Colin
   Gillespie, Steph Locke, Alberto Cairo, Rhian Davies, Justin Matejka,
   George Fitzmaurice, Lucy D’Agostino McGowan, Richard Cotton, Tim Book,
   Jumping Rivers
-* [rsample](https://github.com/tidymodels/rsample) ⭐ 343 | 🐛 43 | 🌐 R | 📅 2026-09-17 by Hannah Frick,
+* [rsample](https://github.com/tidymodels/rsample) ⭐ 344 | 🐛 43 | 🌐 R | 📅 2026-09-17 by Hannah Frick,
   Fanny Chow, Max Kuhn, Michael Mahoney, Julia Silge, Hadley Wickham,
   Posit Software, PBC
 * [osmdata](https://github.com/ropensci/osmdata) ⭐ 342 | 🐛 21 | 🌐 R | 📅 2026-11-10 by Joan Maspons, Mark
   Padgham, Bob Rudis, Robin Lovelace, Maëlle Salmon, Andrew Smith, James
   Smith, Andrea Gilardi, Enrico Spinielli, Anthony North, Martin
   Machyna, Marcin Kalicinski, Eli Pousson
-* [pins](https://github.com/rstudio/pins-r) ⭐ 337 | 🐛 48 | 🌐 R | 📅 2026-11-19 by Julia Silge, Hadley
+* [pins](https://github.com/rstudio/pins-r) ⭐ 338 | 🐛 48 | 🌐 R | 📅 2026-11-19 by Julia Silge, Hadley
   Wickham, Javier Luraschi, Posit Software, PBC
-* [widyr](https://github.com/juliasilge/widyr) ⭐ 333 | 🐛 18 | 🌐 R | 📅 2026-03-09 by David Robinson,
+* [widyr](https://github.com/juliasilge/widyr) ⭐ 334 | 🐛 18 | 🌐 R | 📅 2026-03-09 by David Robinson,
   Kanishka Misra, Julia Silge
-* [canvasXpress](https://github.com/neuhausi/canvasXpress) ⭐ 318 | 🐛 6 | 🌐 R | 📅 2026-11-24 by Isaac
+* [canvasXpress](https://github.com/neuhausi/canvasXpress) ⭐ 318 | 🐛 6 | 🌐 R | 📅 2026-11-25 by Isaac
   Neuhaus, Connie Brett
 * [gapminder](https://github.com/jennybc/gapminder) ⭐ 304 | 🐛 0 | 🌐 R | 📅 2025-06-12 by Jennifer Bryan
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) ⭐ 294 | 🐛 20 | 🌐 R | 📅 2026-08-16 by Eric
   Polley, Erin LeDell, Chris Kennedy, Sam Lendle, Mark van der Laan
-* [ggseg](https://github.com/ggsegverse/ggseg) ⭐ 277 | 🐛 2 | 🌐 R | 📅 2026-11-24 by Athanasia Mo
+* [ggseg](https://github.com/ggsegverse/ggseg) ⭐ 277 | 🐛 1 | 🌐 R | 📅 2026-11-25 by Athanasia Mo
   Mowinckel, Didac Vidal-Piñeiro, Ramiro Magno, Center for Lifespan
   Changes in Brain and Cognition, University of Oslo, Norway
 * [googleAnalyticsR](https://github.com/8-bit-sheep/googleAnalyticsR/) ⭐ 272 | 🐛 35 | 🌐 HTML | 📅 2024-09-05
@@ -285,10 +285,10 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Hyndman, Yanfei Kang, Pablo Montero-Manso, Mitchell O’Hara-Wild,
   Thiyanga Talagala, Earo Wang, Yangzhuoran Yang, Souhaib Ben Taieb, Cao
   Hanqing, D K Lake, Nikolay Laptev, J R Moorman, Bohan Zhang
-* [openintro](https://github.com/OpenIntroStat/openintro/) ⭐ 256 | 🐛 3 | 🌐 R | 📅 2026-08-19 by Mine
+* [openintro](https://github.com/OpenIntroStat/openintro/) ⭐ 257 | 🐛 3 | 🌐 R | 📅 2026-08-19 by Mine
   Çetinkaya-Rundel, David Diez, Andrew Bray, Albert Y. Kim, Ben Baumer,
   Chester Ismay, Nick Paterno, Christopher Barr
-* [gmailr](https://github.com/r-lib/gmailr) ⭐ 237 | 🐛 23 | 🌐 R | 📅 2026-10-29 by Jim Hester, Jennifer
+* [gmailr](https://github.com/r-lib/gmailr) ⭐ 238 | 🐛 23 | 🌐 R | 📅 2026-10-29 by Jim Hester, Jennifer
   Bryan, Posit Software, PBC
 * [qualtRics](https://github.com/ropensci/qualtRics) ⭐ 231 | 🐛 51 | 🌐 R | 📅 2026-06-25 by Jasper Ginn,
   Jackson Curtis, Shaun Jackson, Samuel Kaminsky, Eric Knudsen, Joseph
@@ -297,7 +297,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [workflows](https://github.com/tidymodels/workflows) ⭐ 210 | 🐛 18 | 🌐 R | 📅 2026-09-17 by Davis Vaughan,
   Simon Couch, Hannah Frick, Posit Software, PBC
 * [memer](https://github.com/sctyner/memer) ⭐ 204 | 🐛 5 | 🌐 R | 📅 2021-08-05 by Sam Tyner, Haley Jeppson
-* [nimble](https://github.com/nimble-dev/nimble) ⭐ 199 | 🐛 100 | 🌐 C++ | 📅 2026-08-31 by Perry de Valpine,
+* [nimble](https://github.com/nimble-dev/nimble) ⭐ 200 | 🐛 100 | 🌐 C++ | 📅 2026-08-31 by Perry de Valpine,
   Christopher Paciorek, Daniel Turek, Nick Michaud, Cliff
   Anderson-Bergman, Fritz Obermeyer, Claudia Wehrhahn Cortes, Abel
   Rodríguez, Duncan Temple Lang, Wei Zhang, Sally Paganin, Joshua Hug,
@@ -306,7 +306,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Software, PBC
 * [flametree](https://github.com/djnavarro/flametree) ⭐ 170 | 🐛 0 | 🌐 R | 📅 2026-07-28 by Danielle
   Navarro
-* [dataspice](https://github.com/ropensci/dataspice) ⭐ 164 | 🐛 34 | 🌐 HTML | 📅 2026-11-06 by Carl Boettiger,
+* [dataspice](https://github.com/ropensci/dataspice) ⭐ 165 | 🐛 34 | 🌐 HTML | 📅 2026-11-06 by Carl Boettiger,
   Scott Chamberlain, Auriel Fournier, Kelly Hondula, Anna Krystalli,
   Bryce Mecum, Maëlle Salmon, Kate Webbink, Kara Woo, Irene Steves
 * [messy](https://github.com/nrennie/messy) ⭐ 156 | 🐛 2 | 🌐 R | 📅 2025-08-29 by Nicola Rennie
@@ -317,13 +317,13 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Cetinkaya-Rundel, Therese Anders
 * [dataMaid](https://github.com/ekstroem/dataMaid) ⭐ 143 | 🐛 15 | 🌐 HTML | 📅 2025-04-13 by Anne Helby
   Petersen, Claus Thorn Ekstrøm
-* [changepoint](https://github.com/rkillick/changepoint/) ⭐ 141 | 🐛 14 | 🌐 R | 📅 2026-08-26 by Rebecca
+* [changepoint](https://github.com/rkillick/changepoint/) ⭐ 142 | 🐛 14 | 🌐 R | 📅 2026-08-26 by Rebecca
   Killick, Kaylea Haynes, Harjit Hullait, Idris Eckley, Paul Fearnhead,
   Robin Long, Jamie Lee
+* [butcher](https://github.com/tidymodels/butcher) ⭐ 140 | 🐛 12 | 🌐 R | 📅 2026-02-25 by Joyce Cahoon,
+  Davis Vaughan, Max Kuhn, Alex Hayes, Julia Silge, Posit Software, PBC
 * [repurrrsive](https://github.com/jennybc/repurrrsive) ⭐ 140 | 🐛 5 | 🌐 R | 📅 2023-08-08 by Jennifer
   Bryan, Charlotte Wickham, Posit Software, PBC
-* [butcher](https://github.com/tidymodels/butcher) ⭐ 139 | 🐛 12 | 🌐 R | 📅 2026-02-25 by Joyce Cahoon,
-  Davis Vaughan, Max Kuhn, Alex Hayes, Julia Silge, Posit Software, PBC
 * [projmgr](https://github.com/emilyriederer/projmgr) ⭐ 126 | 🐛 7 | 🌐 R | 📅 2025-11-29 by Emily Riederer
 * [censored](https://github.com/tidymodels/censored) ⭐ 124 | 🐛 22 | 🌐 R | 📅 2026-11-13 by Emil Hvitfeldt,
   Hannah Frick, Posit Software, PBC
@@ -331,7 +331,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [shinycustomloader](https://github.com/emitanaka/shinycustomloader) ⭐ 121 | 🐛 8 | 🌐 R | 📅 2018-07-17 by
   Emi Tanaka and Niichan
 * [shinyLP](https://github.com/jasdumas/shinyLP) ⭐ 119 | 🐛 0 | 🌐 R | 📅 2025-05-15 by Jasmine Daly
-* [weathercan](https://github.com/ropensci/weathercan/) ⭐ 118 | 🐛 6 | 🌐 R | 📅 2026-08-31 by Steffi
+* [weathercan](https://github.com/ropensci/weathercan/) ⭐ 119 | 🐛 6 | 🌐 R | 📅 2026-08-31 by Steffi
   LaZerte, Sam Albers, Nick Brown, Kevin Cazelles, Richard Littauer,
   Shandiya Balasubramaniam, Mark Ciechanowski, Jeremy Selva, Kelli F.
   Johnson, Russ Allen, Everett Snieder, Josh Persi, Mahjabin Oyshi
@@ -344,10 +344,10 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [gargle](https://github.com/r-lib/gargle) ⭐ 116 | 🐛 27 | 🌐 R | 📅 2026-10-28 by Jennifer Bryan, Craig
   Citro, Hadley Wickham, Google Inc, Posit Software, PBC
 * [jasmines](https://github.com/djnavarro/jasmines) ⭐ 113 | 🐛 8 | 🌐 R | 📅 2021-12-14 by Danielle Navarro
+* [hardhat](https://github.com/tidymodels/hardhat) ⭐ 110 | 🐛 8 | 🌐 R | 📅 2026-11-24 by Hannah Frick,
+  Davis Vaughan, Max Kuhn, Posit Software, PBC
 * [pkgsearch](https://github.com/r-hub/pkgsearch) ⭐ 110 | 🐛 31 | 🌐 R | 📅 2025-04-12 by Gábor Csárdi,
   Maëlle Salmon, R Consortium
-* [hardhat](https://github.com/tidymodels/hardhat) ⭐ 109 | 🐛 8 | 🌐 R | 📅 2026-11-24 by Hannah Frick,
-  Davis Vaughan, Max Kuhn, Posit Software, PBC
 * [Metrics](https://github.com/mfrasco/Metrics) ⭐ 102 | 🐛 20 | 🌐 R | 📅 2019-10-25 by Ben Hamner, Michael
   Frasco, Erin LeDell
 * [workflowsets](https://github.com/tidymodels/workflowsets) ⭐ 99 | 🐛 14 | 🌐 R | 📅 2026-02-24 by Hannah
@@ -356,12 +356,12 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Julia Silge, Alex Hayes
 * [janeaustenr](https://github.com/juliasilge/janeaustenr) ⭐ 97 | 🐛 1 | 🌐 R | 📅 2022-08-26 by Julia
   Silge
-* [namer](https://github.com/jumpingrivers/namer) ⭐ 96 | 🐛 3 | 🌐 R | 📅 2026-10-14 by Colin Gillespie,
+* [namer](https://github.com/jumpingrivers/namer) ⭐ 97 | 🐛 3 | 🌐 R | 📅 2026-10-14 by Colin Gillespie,
   Steph Locke, Maëlle Salmon, Ellis Valentiner, Charlie Hadley, Jumping
   Rivers, Han Oostdijk, Patrick Schratz
-* [vcr](https://github.com/ropensci/vcr/) ⭐ 96 | 🐛 31 | 🌐 R | 📅 2026-10-31 by Scott Chamberlain, Aaron
+* [vcr](https://github.com/ropensci/vcr/) ⭐ 97 | 🐛 31 | 🌐 R | 📅 2026-10-31 by Scott Chamberlain, Aaron
   Wolen, Maëlle Salmon, Daniel Possenriede, Hadley Wickham, rOpenSci
-* [geomnet](https://github.com/sctyner/geomnet) ⭐ 94 | 🐛 10 | 🌐 R | 📅 2021-08-23 by Sam Tyner, Heike
+* [geomnet](https://github.com/sctyner/geomnet) ⭐ 95 | 🐛 10 | 🌐 R | 📅 2021-08-23 by Sam Tyner, Heike
   Hofmann, Nicholas Tierney
 * [ggflowchart](https://github.com/nrennie/ggflowchart) ⭐ 91 | 🐛 11 | 🌐 R | 📅 2023-12-20 by Nicola Rennie
 * [trackeR](https://github.com/trackerproject/trackeR) ⭐ 91 | 🐛 7 | 🌐 HTML | 📅 2025-08-29 by Ioannis
@@ -373,7 +373,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [opencage](https://github.com/ropensci/opencage) ⭐ 89 | 🐛 3 | 🌐 R | 📅 2026-10-31 by Daniel
   Possenriede, Jesse Sadler, Maëlle Salmon, Noam Ross, Jake Russ, Julia
   Silge
-* [cransays](https://github.com/r-hub/cransays) ⭐ 83 | 🐛 9 | 🌐 R | 📅 2026-11-24 by Hugo Gruson, Maëlle
+* [cransays](https://github.com/r-hub/cransays) ⭐ 84 | 🐛 9 | 🌐 R | 📅 2026-11-26 by Hugo Gruson, Maëlle
   Salmon, Locke Data, Stephanie Locke, Mitchell O’Hara-Wild, Lluís
   Revilla Sancho, Jim Hester, Hadley Wickham
 * [spatialsample](https://github.com/tidymodels/spatialsample) ⭐ 81 | 🐛 4 | 🌐 R | 📅 2026-07-06 by
@@ -393,21 +393,21 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Cetinkaya-Rundel, Merlise Clyde, David Banks
 * [bakeoff](https://github.com/apreshill/bakeoff) ⭐ 70 | 🐛 5 | 🌐 R | 📅 2022-11-02 by Alison Hill,
   Chester Ismay, Richard Iannone
-* [DALEXtra](https://github.com/ModelOriented/DALEXtra) ⭐ 68 | 🐛 3 | 🌐 R | 📅 2026-01-14 by Szymon
-  Maksymiuk, Przemyslaw Biecek, Hubert Baniecki, Anna Kozak
-* [USAboundaries](https://github.com/ropensci/USAboundaries) ⭐ 68 | 🐛 0 | 🌐 R | 📅 2026-01-29 by Lincoln
+* [USAboundaries](https://github.com/ropensci/USAboundaries) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2026-01-29 by Lincoln
   Mullen, Jordan Bratt, United States Census Bureau, Jacci Ziebert
-* [codemetar](https://github.com/ropensci/codemetar) ⭐ 67 | 🐛 27 | 🌐 R | 📅 2026-02-10 by Carl Boettiger,
+* [codemetar](https://github.com/ropensci/codemetar) ⭐ 68 | 🐛 27 | 🌐 R | 📅 2026-02-10 by Carl Boettiger,
   Anna Krystalli, Toph Allen, Maëlle Salmon, rOpenSci, Katrin Leinweber,
   Noam Ross, Arfon Smith, Jeroen Ooms, Sebastian Meyer, Michael Rustler,
   Hauke Sonnenberg, Sebastian Kreutzer, Thierry Onkelinx
+* [DALEXtra](https://github.com/ModelOriented/DALEXtra) ⭐ 68 | 🐛 3 | 🌐 R | 📅 2026-01-14 by Szymon
+  Maksymiuk, Przemyslaw Biecek, Hubert Baniecki, Anna Kozak
 * [tourr](https://github.com/ggobi/tourr) ⭐ 67 | 🐛 1 | 🌐 R | 📅 2026-07-30 by Hadley Wickham, Dianne
   Cook, Nick Spyrison, Ursula Laa, H. Sherry Zhang, Stuart Lee
-* [ggseg.extra](https://github.com/ggsegverse/ggseg.extra) ⭐ 66 | 🐛 6 | 🌐 R | 📅 2026-11-24 by Athanasia
+* [ggseg.extra](https://github.com/ggsegverse/ggseg.extra) ⭐ 66 | 🐛 6 | 🌐 R | 📅 2026-11-25 by Athanasia
   Mo Mowinckel, Didac Vidal-Piñeiro, John Muschelli
 * [oddstream](https://github.com/pridiltal/oddstream) ⭐ 64 | 🐛 2 | 🌐 R | 📅 2020-04-02 by Priyanga Dilini
   Talagala, Rob J. Hyndman, Kate Smith-Miles
-* [tinkr](https://github.com/ropensci/tinkr) ⭐ 62 | 🐛 34 | 🌐 R | 📅 2026-10-23 by Maëlle Salmon, Zhian N.
+* [tinkr](https://github.com/ropensci/tinkr) ⭐ 63 | 🐛 34 | 🌐 R | 📅 2026-10-23 by Maëlle Salmon, Zhian N.
   Kamvar, Jeroen Ooms, Nick Wellnhofer, rOpenSci, Peter Daengeli
 * [Vizumap](https://github.com/lydialucchesi/Vizumap) ⭐ 61 | 🐛 0 | 🌐 R | 📅 2025-06-23 by Lydia Lucchesi,
   Petra Kuhnert, Christopher Wikle, Benedict
@@ -422,12 +422,12 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Zhang, Dianne Cook, Ursula Laa, Nicolas Langrené, Patricia Menéndez
 * [MLDataR](https://github.com/StatsGary/MLDataR) ⭐ 55 | 🐛 0 | 🌐 R | 📅 2023-11-23 by Gary Hutson, Asif
   Laldin, Isabella Velásquez
+* [PKPDsim](https://github.com/InsightRX/PKPDsim) ⭐ 55 | 🐛 5 | 🌐 R | 📅 2026-11-25 by Ron Keizer, Jasmine
+  Hughes, Dominic Tong, Kara Woo, Jordan Brooks, InsightRX
 * [connectapi](https://github.com/posit-dev/connectapi) ⭐ 54 | 🐛 77 | 🌐 R | 📅 2026-11-10 by Kara Woo,
   Toph Allen, Neal Richardson, Sean Lopp, Cole Arendt, Posit, PBC
 * [overviewR](https://github.com/cosimameyer/overviewR) ⭐ 54 | 🐛 1 | 🌐 R | 📅 2026-05-04 by Cosima Meyer,
   Dennis Hammerschmidt
-* [PKPDsim](https://github.com/InsightRX/PKPDsim) ⭐ 54 | 🐛 5 | 🌐 R | 📅 2026-11-25 by Ron Keizer, Jasmine
-  Hughes, Dominic Tong, Kara Woo, Jordan Brooks, InsightRX
 * [PrettyCols](https://github.com/nrennie/PrettyCols) ⭐ 54 | 🐛 1 | 🌐 R | 📅 2025-04-23 by Nicola Rennie
 * [cellranger](https://github.com/rsheets/cellranger) ⭐ 52 | 🐛 21 | 🌐 R | 📅 2023-02-17 by Jennifer Bryan,
   Hadley Wickham
@@ -449,7 +449,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Silva
 * [riem](https://github.com/ropensci/riem) ⭐ 47 | 🐛 4 | 🌐 R | 📅 2025-10-21 by Maëlle Salmon, Brooke
   Anderson, CHAI Project, rOpenSci, Daryl Herzmann, Jonathan Elchison
-* [ggseg3d](https://github.com/ggsegverse/ggseg3d) ⭐ 46 | 🐛 1 | 🌐 R | 📅 2026-11-24 by Athanasia Mo
+* [ggseg3d](https://github.com/ggsegverse/ggseg3d) ⭐ 46 | 🐛 0 | 🌐 R | 📅 2026-11-25 by Athanasia Mo
   Mowinckel, Didac Vidal-Piñeiro, Center for Lifespan Changes in Brain
   and Cognition, University of Oslo, three.js authors
 * [datalegreyar](https://github.com/emitanaka/datalegreyar) ⭐ 45 | 🐛 0 | 🌐 R | 📅 2018-07-16 by Emi
@@ -481,7 +481,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [scDD](https://github.com/kdkorthauer/scDD) ⭐ 35 | 🐛 0 | 🌐 R | 📅 2022-03-24 by Keegan Korthauer
 * [clinPK](https://github.com/InsightRX/clinPK) ⭐ 34 | 🐛 0 | 🌐 R | 📅 2026-11-24 by Ron Keizer, Jasmine
   Hughes, Dominic Tong, Kara Woo, InsightRX
-* [redcapAPI](https://github.com/vubiostat/redcapAPI) ⭐ 34 | 🐛 20 | 🌐 R | 📅 2026-10-21 by Benjamin
+* [redcapAPI](https://github.com/vubiostat/redcapAPI) ⭐ 34 | 🐛 21 | 🌐 R | 📅 2026-11-25 by Benjamin
   Nutter, Shawn Garbett, Savannah Obregon, Thomas Obadia, Marcus Lehr,
   Brian High, Stephen Lane, Will Beasley, Will Gray, Nick Kennedy, Tan
   Hsi-Nien, Jeffrey Horner, Jeremy Stephens, Cole Beck, Bradley Johnson,
@@ -517,7 +517,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   by Ella Kaye, David Firth
 * [poissonreg](https://github.com/tidymodels/poissonreg) ⭐ 24 | 🐛 3 | 🌐 R | 📅 2026-04-20 by Max Kuhn,
   Hannah Frick, Posit Software, PBC
-* [AnnotationHub](https://github.com/Bioconductor/AnnotationHub) ⭐ 20 | 🐛 12 | 🌐 R | 📅 2026-10-23 by
+* [AnnotationHub](https://github.com/Bioconductor/AnnotationHub) ⭐ 20 | 🐛 12 | 🌐 R | 📅 2026-11-25 by
   Bioconductor Package Maintainer, Martin Morgan, Marc Carlson, Dan
   Tenenbaum, Sonali Arora, Valerie Oberchain, Kayla Morrell, Lori
   Shepherd
@@ -579,7 +579,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Mike Alfaro, Luna L. Sanchez Reyes, Emily Jane McTavish
 * [avilistr](https://github.com/dalyanalytics/avilistr) ⭐ 14 | 🐛 4 | 🌐 R | 📅 2025-06-17 by Jasmine Daly,
   AviList Core Team
-* [BiocFileCache](https://github.com/Bioconductor/BiocFileCache) ⭐ 14 | 🐛 13 | 🌐 R | 📅 2026-11-09 by Lori
+* [BiocFileCache](https://github.com/Bioconductor/BiocFileCache) ⭐ 14 | 🐛 13 | 🌐 R | 📅 2026-11-25 by Lori
   Shepherd, Martin Morgan
 * [QueryWikidataR](https://github.com/serenasignorelli/QueryWikidataR) ⭐ 14 | 🐛 1 | 🌐 R | 📅 2017-01-18
   by Serena Signorelli
@@ -605,12 +605,12 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [tanggle](https://github.com/KlausVigo/tanggle) ⭐ 12 | 🐛 5 | 🌐 R | 📅 2026-06-11 by Klaus Schliep,
   Marta Vidal-Garcia, Claudia Solis-Lemus, Leann Biancani, Eren Ada, L.
   Francisco Henao Diaz, Guangchuang Yu, Joshua Justison
-* [tidyREDCap](https://github.com/RaymondBalise/tidyREDCap) ⭐ 12 | 🐛 25 | 🌐 R | 📅 2026-02-22 by Raymond
+* [tidyREDCap](https://github.com/RaymondBalise/tidyREDCap) ⭐ 12 | 🐛 25 | 🌐 R | 📅 2026-11-25 by Raymond
   Balise, Gabriel Odom, Kyle Grealis, Anna Calderon, Layla Bouzoubaa,
   Wayne DeFreitas, Lauren Nahodyl, Daniel Maya
 * [usdata](https://github.com/OpenIntroStat/usdata) ⭐ 12 | 🐛 3 | 🌐 R | 📅 2024-06-02 by Mine
   Çetinkaya-Rundel, David Diez, Leah Dorazio
-* [ExperimentHub](https://github.com/Bioconductor/ExperimentHub) ⭐ 11 | 🐛 7 | 🌐 R | 📅 2026-08-19 by
+* [ExperimentHub](https://github.com/Bioconductor/ExperimentHub) ⭐ 11 | 🐛 7 | 🌐 R | 📅 2026-11-25 by
   Bioconductor Package Maintainer, Martin Morgan, Marc Carlson, Dan
   Tenenbaum, Sonali Arora, Valerie Oberchain, Kayla Morrell, Lori
   Shepherd
@@ -624,6 +624,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Bodwin, Collin Schwantes
 * [worrrd](https://github.com/anthonypileggi/worrrd) ⭐ 10 | 🐛 13 | 🌐 R | 📅 2022-12-21 by Anthony Pileggi,
   Shannon Pileggi
+* [pregnancy](https://github.com/EllaKaye/pregnancy) ⭐ 9 | 🐛 1 | 🌐 R | 📅 2026-01-15 by Ella Kaye
 * [quollr](https://github.com/jayanilakshika/quollr) ⭐ 9 | 🐛 2 | 🌐 R | 📅 2026-11-11 by Jayani P.
   Gamage, Dianne Cook, Paul Harrison, Michael Lydeamore, Thiyanga S.
   Talagala
@@ -638,7 +639,6 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Anna Krystalli, Salvador Fernández-Bejarano, Thomas J Webb, European
   Marine Observation Data Network, VLIZ, Maëlle Salmon, Alec L.
   Robitaille, Liz Hare, François Michonneau
-* [pregnancy](https://github.com/EllaKaye/pregnancy) ⭐ 8 | 🐛 1 | 🌐 R | 📅 2026-01-15 by Ella Kaye
 * [aochelpers](https://github.com/EllaKaye/aochelpers) ⭐ 7 | 🐛 6 | 🌐 R | 📅 2024-11-25 by Ella Kaye
 * [heritable](https://github.com/anu-aagi/heritable) ⭐ 7 | 🐛 9 | 🌐 R | 📅 2026-10-14 by Emi Tanaka, Yidi
   Deng, Fonti Kar, Weihao, Paul Schmidt
@@ -697,6 +697,7 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 * [ebdbNet](https://github.com/andreamrau/ebdbNet) ⭐ 4 | 🐛 1 | 🌐 C | 📅 2023-09-04 by Andrea Rau
 * [hmsidwR](https://github.com/Fgazzelloni/hmsidwR) ⭐ 4 | 🐛 1 | 🌐 R | 📅 2025-05-16 by Federica
   Gazzelloni
+* [jugglr](https://github.com/EllaKaye/jugglr) ⭐ 4 | 🐛 3 | 🌐 R | 📅 2026-10-08 by Ella Kaye
 * [Kmisc](https://github.com/sysilviakim/Kmisc) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2026-02-18 by Seo-young Silvia Kim
 * [logmult](https://github.com/nalimilan/logmult) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2025-08-26 by Milan
   Bouchet-Valat, Heather Turner, Michael Friendly, Jim Lemon, Gabor
@@ -723,7 +724,6 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Papst, Michael WZ Li
 * [hellodatascience](https://github.com/hellodata-science/hellodatascience) ⭐ 3 | 🐛 0 | 🌐 R | 📅 2026-06-12
   by Mine Dogucu, Catalina Medina, Alma Castro
-* [jugglr](https://github.com/EllaKaye/jugglr) ⭐ 3 | 🐛 3 | 🌐 R | 📅 2026-10-08 by Ella Kaye
 * [mesoda](https://github.com/paocorrales/mesoda) ⭐ 3 | 🐛 2 | 🌐 TeX | 📅 2024-02-22 by Paola Corrales
 * [moosecounter](https://github.com/psolymos/moosecounter) ⭐ 3 | 🐛 1 | 🌐 R | 📅 2026-04-25 by Subhash
   Lele, Sophie Czetwertynski, Peter Solymos, Steffi LaZerte, Government
@@ -818,10 +818,10 @@ The aggregated file is written to `data/website/awesome_packages.json`.
   Marine Ballutaud, Jeremy Lobry
 * [GenBank](https://github.com/lucymli/GenBank) ⭐ 0 | 🐛 0 | 🌐 R | 📅 2016-03-08 by Lucy M Li, Who to
   complain to
-* [ggseg.formats](https://github.com/ggsegverse/ggseg.formats) ⭐ 0 | 🐛 4 | 🌐 R | 📅 2026-11-24 by
+* [ggseg.formats](https://github.com/ggsegverse/ggseg.formats) ⭐ 0 | 🐛 6 | 🌐 R | 📅 2026-11-25 by
   Athanasia Mo Mowinckel, Center for Lifespan Changes in Brain and
   Cognition, University of Oslo
-* [ggseg.meshes](https://github.com/ggsegverse/ggseg.meshes) ⭐ 0 | 🐛 1 | 🌐 R | 📅 2026-11-24 by
+* [ggseg.meshes](https://github.com/ggsegverse/ggseg.meshes) ⭐ 0 | 🐛 1 | 🌐 R | 📅 2026-11-25 by
   Athanasia Mo Mowinckel, Center for Lifespan Changes in Brain and
   Cognition, University of Oslo
 * [gnomesims](https://github.com/josefinabernardo/gnomesims) ⭐ 0 | 🐛 0 | 🌐 R | 📅 2026-03-04 by Josefina
@@ -960,4 +960,4 @@ The aggregated file is written to `data/website/awesome_packages.json`.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
